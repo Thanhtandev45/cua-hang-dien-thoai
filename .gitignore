@@ -1,0 +1,11 @@
+# Secrets and local editor/runtime files
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+*.log
+.qa/
+__pycache__/
+node_modules/
+

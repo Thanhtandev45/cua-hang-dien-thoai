@@ -1,0 +1,130 @@
+{
+  "id": 64,
+  "slug": "samsung-galaxy-a34-5g",
+  "name": "Samsung Galaxy A34 5G",
+  "brand": {
+    "id": 2,
+    "name": "Samsung",
+    "slug": "samsung"
+  },
+  "segment": "midrange",
+  "summary": "Samsung Galaxy A34 5G · Tầm trung · Giá và tồn kho demo.",
+  "description": "Samsung Galaxy A34 5G thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/samsung-galaxy-a34-5g-1.svg",
+    "assets/images/catalog/samsung-galaxy-a34-5g-2.svg",
+    "assets/images/catalog/samsung-galaxy-a34-5g-3.svg",
+    "assets/images/catalog/samsung-galaxy-a34-5g-4.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB / 256GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": false,
+  "is_new": false,
+  "created_at": "2026-11-01T01:04:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.samsung.com/global/galaxy/galaxy-a34-5g/specs/",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 6401,
+      "sku": "NOVA-0064-006401",
+      "color": "Awesome Lime",
+      "color_hex": "#9aaab1",
+      "storage": "128GB",
+      "price": 5990000,
+      "original_price": 5990000,
+      "stock": 24,
+      "image": "assets/images/catalog/samsung-galaxy-a34-5g-1.svg"
+    },
+    {
+      "id": 6402,
+      "sku": "NOVA-0064-006402",
+      "color": "Awesome Lime",
+      "color_hex": "#9aaab1",
+      "storage": "256GB",
+      "price": 6990000,
+      "original_price": 6990000,
+      "stock": 7,
+      "image": "assets/images/catalog/samsung-galaxy-a34-5g-1.svg"
+    },
+    {
+      "id": 6403,
+      "sku": "NOVA-0064-006403",
+      "color": "Awesome Graphite",
+      "color_hex": "#555962",
+      "storage": "128GB",
+      "price": 6040000,
+      "original_price": 6040000,
+      "stock": 14,
+      "image": "assets/images/catalog/samsung-galaxy-a34-5g-2.svg"
+    },
+    {
+      "id": 6404,
+      "sku": "NOVA-0064-006404",
+      "color": "Awesome Graphite",
+      "color_hex": "#555962",
+      "storage": "256GB",
+      "price": 7040000,
+      "original_price": 7040000,
+      "stock": 21,
+      "image": "assets/images/catalog/samsung-galaxy-a34-5g-2.svg"
+    },
+    {
+      "id": 6405,
+      "sku": "NOVA-0064-006405",
+      "color": "Awesome Violet",
+      "color_hex": "#aaa0be",
+      "storage": "128GB",
+      "price": 6090000,
+      "original_price": 6090000,
+      "stock": 4,
+      "image": "assets/images/catalog/samsung-galaxy-a34-5g-3.svg"
+    },
+    {
+      "id": 6406,
+      "sku": "NOVA-0064-006406",
+      "color": "Awesome Violet",
+      "color_hex": "#aaa0be",
+      "storage": "256GB",
+      "price": 7090000,
+      "original_price": 7090000,
+      "stock": 11,
+      "image": "assets/images/catalog/samsung-galaxy-a34-5g-3.svg"
+    },
+    {
+      "id": 6407,
+      "sku": "NOVA-0064-006407",
+      "color": "Awesome Silver",
+      "color_hex": "#bdc4cb",
+      "storage": "128GB",
+      "price": 6140000,
+      "original_price": 6140000,
+      "stock": 18,
+      "image": "assets/images/catalog/samsung-galaxy-a34-5g-4.svg"
+    },
+    {
+      "id": 6408,
+      "sku": "NOVA-0064-006408",
+      "color": "Awesome Silver",
+      "color_hex": "#bdc4cb",
+      "storage": "256GB",
+      "price": 7140000,
+      "original_price": 7140000,
+      "stock": 1,
+      "image": "assets/images/catalog/samsung-galaxy-a34-5g-4.svg"
+    }
+  ]
+}

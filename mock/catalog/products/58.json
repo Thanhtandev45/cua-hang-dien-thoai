@@ -1,0 +1,130 @@
+{
+  "id": 58,
+  "slug": "samsung-galaxy-s21-fe",
+  "name": "Samsung Galaxy S21 FE",
+  "brand": {
+    "id": 2,
+    "name": "Samsung",
+    "slug": "samsung"
+  },
+  "segment": "upper-midrange",
+  "summary": "Samsung Galaxy S21 FE · Cận cao cấp · Giá và tồn kho demo.",
+  "description": "Samsung Galaxy S21 FE thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/samsung-galaxy-s21-fe-1.svg",
+    "assets/images/catalog/samsung-galaxy-s21-fe-2.svg",
+    "assets/images/catalog/samsung-galaxy-s21-fe-3.svg",
+    "assets/images/catalog/samsung-galaxy-s21-fe-4.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB / 256GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": false,
+  "is_new": false,
+  "created_at": "2026-11-01T00:58:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.samsung.com/global/galaxy/galaxy-s21-fe/specs/",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 5801,
+      "sku": "NOVA-0058-005801",
+      "color": "Olive",
+      "color_hex": "#9aaab1",
+      "storage": "128GB",
+      "price": 7990000,
+      "original_price": 8490000,
+      "stock": 6,
+      "image": "assets/images/catalog/samsung-galaxy-s21-fe-1.svg"
+    },
+    {
+      "id": 5802,
+      "sku": "NOVA-0058-005802",
+      "color": "Olive",
+      "color_hex": "#9aaab1",
+      "storage": "256GB",
+      "price": 8990000,
+      "original_price": 9490000,
+      "stock": 13,
+      "image": "assets/images/catalog/samsung-galaxy-s21-fe-1.svg"
+    },
+    {
+      "id": 5803,
+      "sku": "NOVA-0058-005803",
+      "color": "Graphite",
+      "color_hex": "#555962",
+      "storage": "128GB",
+      "price": 8040000,
+      "original_price": 8540000,
+      "stock": 20,
+      "image": "assets/images/catalog/samsung-galaxy-s21-fe-2.svg"
+    },
+    {
+      "id": 5804,
+      "sku": "NOVA-0058-005804",
+      "color": "Graphite",
+      "color_hex": "#555962",
+      "storage": "256GB",
+      "price": 9040000,
+      "original_price": 9540000,
+      "stock": 3,
+      "image": "assets/images/catalog/samsung-galaxy-s21-fe-2.svg"
+    },
+    {
+      "id": 5805,
+      "sku": "NOVA-0058-005805",
+      "color": "White",
+      "color_hex": "#e8e5dc",
+      "storage": "128GB",
+      "price": 8090000,
+      "original_price": 8590000,
+      "stock": 0,
+      "image": "assets/images/catalog/samsung-galaxy-s21-fe-3.svg"
+    },
+    {
+      "id": 5806,
+      "sku": "NOVA-0058-005806",
+      "color": "White",
+      "color_hex": "#e8e5dc",
+      "storage": "256GB",
+      "price": 9090000,
+      "original_price": 9590000,
+      "stock": 17,
+      "image": "assets/images/catalog/samsung-galaxy-s21-fe-3.svg"
+    },
+    {
+      "id": 5807,
+      "sku": "NOVA-0058-005807",
+      "color": "Lavender",
+      "color_hex": "#beb0cc",
+      "storage": "128GB",
+      "price": 8140000,
+      "original_price": 8640000,
+      "stock": 24,
+      "image": "assets/images/catalog/samsung-galaxy-s21-fe-4.svg"
+    },
+    {
+      "id": 5808,
+      "sku": "NOVA-0058-005808",
+      "color": "Lavender",
+      "color_hex": "#beb0cc",
+      "storage": "256GB",
+      "price": 9140000,
+      "original_price": 9640000,
+      "stock": 7,
+      "image": "assets/images/catalog/samsung-galaxy-s21-fe-4.svg"
+    }
+  ]
+}

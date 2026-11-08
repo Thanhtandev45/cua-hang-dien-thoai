@@ -1,0 +1,107 @@
+{
+  "id": 56,
+  "slug": "samsung-galaxy-s21-plus",
+  "name": "Samsung Galaxy S21+",
+  "brand": {
+    "id": 2,
+    "name": "Samsung",
+    "slug": "samsung"
+  },
+  "segment": "upper-midrange",
+  "summary": "Samsung Galaxy S21+ · Cận cao cấp · Giá và tồn kho demo.",
+  "description": "Samsung Galaxy S21+ thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/samsung-galaxy-s21-plus-1.svg",
+    "assets/images/catalog/samsung-galaxy-s21-plus-2.svg",
+    "assets/images/catalog/samsung-galaxy-s21-plus-3.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB / 256GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": false,
+  "is_new": true,
+  "created_at": "2026-11-01T00:56:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.samsung.com/global/galaxy/galaxy-s21-plus/specs/",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 5601,
+      "sku": "NOVA-0056-005601",
+      "color": "Phantom Black",
+      "color_hex": "#30353c",
+      "storage": "128GB",
+      "price": 10990000,
+      "original_price": 10990000,
+      "stock": 16,
+      "image": "assets/images/catalog/samsung-galaxy-s21-plus-1.svg"
+    },
+    {
+      "id": 5602,
+      "sku": "NOVA-0056-005602",
+      "color": "Phantom Black",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 11990000,
+      "original_price": 11990000,
+      "stock": 23,
+      "image": "assets/images/catalog/samsung-galaxy-s21-plus-1.svg"
+    },
+    {
+      "id": 5603,
+      "sku": "NOVA-0056-005603",
+      "color": "Phantom Silver",
+      "color_hex": "#bdc4cb",
+      "storage": "128GB",
+      "price": 11040000,
+      "original_price": 11040000,
+      "stock": 6,
+      "image": "assets/images/catalog/samsung-galaxy-s21-plus-2.svg"
+    },
+    {
+      "id": 5604,
+      "sku": "NOVA-0056-005604",
+      "color": "Phantom Silver",
+      "color_hex": "#bdc4cb",
+      "storage": "256GB",
+      "price": 12040000,
+      "original_price": 12040000,
+      "stock": 13,
+      "image": "assets/images/catalog/samsung-galaxy-s21-plus-2.svg"
+    },
+    {
+      "id": 5605,
+      "sku": "NOVA-0056-005605",
+      "color": "Phantom Violet",
+      "color_hex": "#aaa0be",
+      "storage": "128GB",
+      "price": 11090000,
+      "original_price": 11090000,
+      "stock": 20,
+      "image": "assets/images/catalog/samsung-galaxy-s21-plus-3.svg"
+    },
+    {
+      "id": 5606,
+      "sku": "NOVA-0056-005606",
+      "color": "Phantom Violet",
+      "color_hex": "#aaa0be",
+      "storage": "256GB",
+      "price": 12090000,
+      "original_price": 12090000,
+      "stock": 3,
+      "image": "assets/images/catalog/samsung-galaxy-s21-plus-3.svg"
+    }
+  ]
+}

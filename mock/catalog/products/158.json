@@ -1,0 +1,140 @@
+{
+  "id": 158,
+  "slug": "realme-gt5-pro",
+  "name": "realme GT5 Pro",
+  "brand": {
+    "id": 6,
+    "name": "realme",
+    "slug": "realme"
+  },
+  "segment": "gaming",
+  "summary": "realme GT5 Pro · Gaming · Giá và tồn kho demo.",
+  "description": "realme GT5 Pro thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/realme-gt5-pro-1.svg",
+    "assets/images/catalog/realme-gt5-pro-2.svg",
+    "assets/images/catalog/realme-gt5-pro-3.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "256GB / 512GB / 1TB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": true,
+  "is_new": true,
+  "created_at": "2026-11-01T02:38:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.realme.com/global/realme-gt5-pro/specs",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 15801,
+      "sku": "NOVA-0158-015801",
+      "color": "Red Rock",
+      "color_hex": "#ac4b54",
+      "storage": "256GB",
+      "price": 15990000,
+      "original_price": 16490000,
+      "stock": 10,
+      "image": "assets/images/catalog/realme-gt5-pro-1.svg"
+    },
+    {
+      "id": 15802,
+      "sku": "NOVA-0158-015802",
+      "color": "Red Rock",
+      "color_hex": "#ac4b54",
+      "storage": "512GB",
+      "price": 16990000,
+      "original_price": 17490000,
+      "stock": 17,
+      "image": "assets/images/catalog/realme-gt5-pro-1.svg"
+    },
+    {
+      "id": 15803,
+      "sku": "NOVA-0158-015803",
+      "color": "Red Rock",
+      "color_hex": "#ac4b54",
+      "storage": "1TB",
+      "price": 17990000,
+      "original_price": 18490000,
+      "stock": 24,
+      "image": "assets/images/catalog/realme-gt5-pro-1.svg"
+    },
+    {
+      "id": 15804,
+      "sku": "NOVA-0158-015804",
+      "color": "Bright Moon",
+      "color_hex": "#9aaab1",
+      "storage": "256GB",
+      "price": 16040000,
+      "original_price": 16540000,
+      "stock": 7,
+      "image": "assets/images/catalog/realme-gt5-pro-2.svg"
+    },
+    {
+      "id": 15805,
+      "sku": "NOVA-0158-015805",
+      "color": "Bright Moon",
+      "color_hex": "#9aaab1",
+      "storage": "512GB",
+      "price": 17040000,
+      "original_price": 17540000,
+      "stock": 14,
+      "image": "assets/images/catalog/realme-gt5-pro-2.svg"
+    },
+    {
+      "id": 15806,
+      "sku": "NOVA-0158-015806",
+      "color": "Bright Moon",
+      "color_hex": "#9aaab1",
+      "storage": "1TB",
+      "price": 18040000,
+      "original_price": 18540000,
+      "stock": 0,
+      "image": "assets/images/catalog/realme-gt5-pro-2.svg"
+    },
+    {
+      "id": 15807,
+      "sku": "NOVA-0158-015807",
+      "color": "Starry Night",
+      "color_hex": "#9aaab1",
+      "storage": "256GB",
+      "price": 16090000,
+      "original_price": 16590000,
+      "stock": 4,
+      "image": "assets/images/catalog/realme-gt5-pro-3.svg"
+    },
+    {
+      "id": 15808,
+      "sku": "NOVA-0158-015808",
+      "color": "Starry Night",
+      "color_hex": "#9aaab1",
+      "storage": "512GB",
+      "price": 17090000,
+      "original_price": 17590000,
+      "stock": 11,
+      "image": "assets/images/catalog/realme-gt5-pro-3.svg"
+    },
+    {
+      "id": 15809,
+      "sku": "NOVA-0158-015809",
+      "color": "Starry Night",
+      "color_hex": "#9aaab1",
+      "storage": "1TB",
+      "price": 18090000,
+      "original_price": 18590000,
+      "stock": 18,
+      "image": "assets/images/catalog/realme-gt5-pro-3.svg"
+    }
+  ]
+}

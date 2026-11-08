@@ -1,0 +1,62 @@
+{
+  "id": 246,
+  "slug": "tecno-camon-30-premier-5g",
+  "name": "TECNO CAMON 30 Premier 5G",
+  "brand": {
+    "id": 14,
+    "name": "TECNO",
+    "slug": "tecno"
+  },
+  "segment": "upper-midrange",
+  "summary": "TECNO CAMON 30 Premier 5G · Cận cao cấp · Giá và tồn kho demo.",
+  "description": "TECNO CAMON 30 Premier 5G thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/tecno-camon-30-premier-5g-1.svg",
+    "assets/images/catalog/tecno-camon-30-premier-5g-2.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "512GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": true,
+  "is_new": false,
+  "created_at": "2026-11-01T04:06:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.tecno-mobile.com/phones/tech-specs/techspecs/camon-30-premier-5g/",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 24601,
+      "sku": "NOVA-0246-024601",
+      "color": "Alps Snowy Silver",
+      "color_hex": "#bdc4cb",
+      "storage": "512GB",
+      "price": 12990000,
+      "original_price": 13490000,
+      "stock": 2,
+      "image": "assets/images/catalog/tecno-camon-30-premier-5g-1.svg"
+    },
+    {
+      "id": 24602,
+      "sku": "NOVA-0246-024602",
+      "color": "Hawaii Lava Black",
+      "color_hex": "#30353c",
+      "storage": "512GB",
+      "price": 13040000,
+      "original_price": 13540000,
+      "stock": 9,
+      "image": "assets/images/catalog/tecno-camon-30-premier-5g-2.svg"
+    }
+  ]
+}

@@ -1,0 +1,3685 @@
+{
+  "checked_at": "2026-11-08T05:23:35.819618+00:00",
+  "products": [
+    {
+      "product_id": 21,
+      "name": "iPhone 16 Pro",
+      "status": "fetched",
+      "url": "https://support.apple.com/en-gb/108044",
+      "final_url": "https://support.apple.com/en-gb/108044",
+      "http_status": 200,
+      "content_sha256": "c1da8f35539fefd05a87da4355fa7523f2139642f0047902a82edf9ae9a90708",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 22,
+      "name": "iPhone 16 Plus",
+      "status": "fetched",
+      "url": "https://support.apple.com/en-gb/108044",
+      "final_url": "https://support.apple.com/en-gb/108044",
+      "http_status": 200,
+      "content_sha256": "c1da8f35539fefd05a87da4355fa7523f2139642f0047902a82edf9ae9a90708",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 23,
+      "name": "iPhone 16e",
+      "status": "fetched",
+      "url": "https://support.apple.com/en-gb/108044",
+      "final_url": "https://support.apple.com/en-gb/108044",
+      "http_status": 200,
+      "content_sha256": "c1da8f35539fefd05a87da4355fa7523f2139642f0047902a82edf9ae9a90708",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 24,
+      "name": "iPhone 15 Plus",
+      "status": "fetched",
+      "url": "https://support.apple.com/en-gb/108044",
+      "final_url": "https://support.apple.com/en-gb/108044",
+      "http_status": 200,
+      "content_sha256": "c1da8f35539fefd05a87da4355fa7523f2139642f0047902a82edf9ae9a90708",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 25,
+      "name": "iPhone 15 Pro Max",
+      "status": "fetched",
+      "url": "https://support.apple.com/en-gb/108044",
+      "final_url": "https://support.apple.com/en-gb/108044",
+      "http_status": 200,
+      "content_sha256": "c1da8f35539fefd05a87da4355fa7523f2139642f0047902a82edf9ae9a90708",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 26,
+      "name": "iPhone 14",
+      "status": "fetched",
+      "url": "https://support.apple.com/en-gb/108044",
+      "final_url": "https://support.apple.com/en-gb/108044",
+      "http_status": 200,
+      "content_sha256": "c1da8f35539fefd05a87da4355fa7523f2139642f0047902a82edf9ae9a90708",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 27,
+      "name": "iPhone 14 Plus",
+      "status": "fetched",
+      "url": "https://support.apple.com/en-gb/108044",
+      "final_url": "https://support.apple.com/en-gb/108044",
+      "http_status": 200,
+      "content_sha256": "c1da8f35539fefd05a87da4355fa7523f2139642f0047902a82edf9ae9a90708",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 28,
+      "name": "iPhone 14 Pro",
+      "status": "fetched",
+      "url": "https://support.apple.com/en-gb/108044",
+      "final_url": "https://support.apple.com/en-gb/108044",
+      "http_status": 200,
+      "content_sha256": "c1da8f35539fefd05a87da4355fa7523f2139642f0047902a82edf9ae9a90708",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 29,
+      "name": "iPhone 14 Pro Max",
+      "status": "fetched",
+      "url": "https://support.apple.com/en-gb/108044",
+      "final_url": "https://support.apple.com/en-gb/108044",
+      "http_status": 200,
+      "content_sha256": "c1da8f35539fefd05a87da4355fa7523f2139642f0047902a82edf9ae9a90708",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 30,
+      "name": "iPhone 13",
+      "status": "fetched",
+      "url": "https://support.apple.com/en-gb/108044",
+      "final_url": "https://support.apple.com/en-gb/108044",
+      "http_status": 200,
+      "content_sha256": "c1da8f35539fefd05a87da4355fa7523f2139642f0047902a82edf9ae9a90708",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 31,
+      "name": "iPhone 13 mini",
+      "status": "fetched",
+      "url": "https://support.apple.com/en-gb/108044",
+      "final_url": "https://support.apple.com/en-gb/108044",
+      "http_status": 200,
+      "content_sha256": "c1da8f35539fefd05a87da4355fa7523f2139642f0047902a82edf9ae9a90708",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 32,
+      "name": "iPhone 13 Pro",
+      "status": "fetched",
+      "url": "https://support.apple.com/en-gb/108044",
+      "final_url": "https://support.apple.com/en-gb/108044",
+      "http_status": 200,
+      "content_sha256": "c1da8f35539fefd05a87da4355fa7523f2139642f0047902a82edf9ae9a90708",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 33,
+      "name": "iPhone 13 Pro Max",
+      "status": "fetched",
+      "url": "https://support.apple.com/en-gb/108044",
+      "final_url": "https://support.apple.com/en-gb/108044",
+      "http_status": 200,
+      "content_sha256": "c1da8f35539fefd05a87da4355fa7523f2139642f0047902a82edf9ae9a90708",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 34,
+      "name": "iPhone 12",
+      "status": "fetched",
+      "url": "https://support.apple.com/en-gb/108044",
+      "final_url": "https://support.apple.com/en-gb/108044",
+      "http_status": 200,
+      "content_sha256": "c1da8f35539fefd05a87da4355fa7523f2139642f0047902a82edf9ae9a90708",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 35,
+      "name": "iPhone 12 mini",
+      "status": "fetched",
+      "url": "https://support.apple.com/en-gb/108044",
+      "final_url": "https://support.apple.com/en-gb/108044",
+      "http_status": 200,
+      "content_sha256": "c1da8f35539fefd05a87da4355fa7523f2139642f0047902a82edf9ae9a90708",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 36,
+      "name": "iPhone 12 Pro",
+      "status": "fetched",
+      "url": "https://support.apple.com/en-gb/108044",
+      "final_url": "https://support.apple.com/en-gb/108044",
+      "http_status": 200,
+      "content_sha256": "c1da8f35539fefd05a87da4355fa7523f2139642f0047902a82edf9ae9a90708",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 37,
+      "name": "iPhone 12 Pro Max",
+      "status": "fetched",
+      "url": "https://support.apple.com/en-gb/108044",
+      "final_url": "https://support.apple.com/en-gb/108044",
+      "http_status": 200,
+      "content_sha256": "c1da8f35539fefd05a87da4355fa7523f2139642f0047902a82edf9ae9a90708",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 38,
+      "name": "iPhone 11",
+      "status": "fetched",
+      "url": "https://support.apple.com/en-gb/108044",
+      "final_url": "https://support.apple.com/en-gb/108044",
+      "http_status": 200,
+      "content_sha256": "c1da8f35539fefd05a87da4355fa7523f2139642f0047902a82edf9ae9a90708",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 39,
+      "name": "iPhone 11 Pro",
+      "status": "fetched",
+      "url": "https://support.apple.com/en-gb/108044",
+      "final_url": "https://support.apple.com/en-gb/108044",
+      "http_status": 200,
+      "content_sha256": "c1da8f35539fefd05a87da4355fa7523f2139642f0047902a82edf9ae9a90708",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [
+        "Space Gray"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 40,
+      "name": "iPhone 11 Pro Max",
+      "status": "fetched",
+      "url": "https://support.apple.com/en-gb/108044",
+      "final_url": "https://support.apple.com/en-gb/108044",
+      "http_status": 200,
+      "content_sha256": "c1da8f35539fefd05a87da4355fa7523f2139642f0047902a82edf9ae9a90708",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [
+        "Space Gray"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 41,
+      "name": "iPhone XS",
+      "status": "fetched",
+      "url": "https://support.apple.com/en-gb/108044",
+      "final_url": "https://support.apple.com/en-gb/108044",
+      "http_status": 200,
+      "content_sha256": "c1da8f35539fefd05a87da4355fa7523f2139642f0047902a82edf9ae9a90708",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [
+        "Space Gray"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 42,
+      "name": "iPhone XS Max",
+      "status": "fetched",
+      "url": "https://support.apple.com/en-gb/108044",
+      "final_url": "https://support.apple.com/en-gb/108044",
+      "http_status": 200,
+      "content_sha256": "c1da8f35539fefd05a87da4355fa7523f2139642f0047902a82edf9ae9a90708",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [
+        "Space Gray"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 43,
+      "name": "iPhone XR",
+      "status": "fetched",
+      "url": "https://support.apple.com/en-gb/108044",
+      "final_url": "https://support.apple.com/en-gb/108044",
+      "http_status": 200,
+      "content_sha256": "c1da8f35539fefd05a87da4355fa7523f2139642f0047902a82edf9ae9a90708",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 44,
+      "name": "iPhone X",
+      "status": "fetched",
+      "url": "https://support.apple.com/en-gb/108044",
+      "final_url": "https://support.apple.com/en-gb/108044",
+      "http_status": 200,
+      "content_sha256": "c1da8f35539fefd05a87da4355fa7523f2139642f0047902a82edf9ae9a90708",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [
+        "Space Gray"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 45,
+      "name": "iPhone SE (3rd generation)",
+      "status": "fetched",
+      "url": "https://support.apple.com/en-gb/108044",
+      "final_url": "https://support.apple.com/en-gb/108044",
+      "http_status": 200,
+      "content_sha256": "c1da8f35539fefd05a87da4355fa7523f2139642f0047902a82edf9ae9a90708",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 46,
+      "name": "iPhone SE (2nd generation)",
+      "status": "fetched",
+      "url": "https://support.apple.com/en-gb/108044",
+      "final_url": "https://support.apple.com/en-gb/108044",
+      "http_status": 200,
+      "content_sha256": "c1da8f35539fefd05a87da4355fa7523f2139642f0047902a82edf9ae9a90708",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 47,
+      "name": "Samsung Galaxy S24",
+      "status": "unavailable",
+      "url": "https://www.samsung.com/global/galaxy/galaxy-s24/specs/",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB",
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Amber Yellow",
+        "Cobalt Violet",
+        "Marble Gray",
+        "Onyx Black"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 48,
+      "name": "Samsung Galaxy S23",
+      "status": "unavailable",
+      "url": "https://www.samsung.com/global/galaxy/galaxy-s23/specs/",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Cream",
+        "Green",
+        "Lavender",
+        "Phantom Black"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 49,
+      "name": "Samsung Galaxy S23+",
+      "status": "unavailable",
+      "url": "https://www.samsung.com/global/galaxy/galaxy-s23-plus/specs/",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB",
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Cream",
+        "Green",
+        "Lavender",
+        "Phantom Black"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 50,
+      "name": "Samsung Galaxy S23 Ultra",
+      "status": "unavailable",
+      "url": "https://www.samsung.com/global/galaxy/galaxy-s23-ultra/specs/",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "1TB",
+        "256GB",
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Cream",
+        "Green",
+        "Lavender",
+        "Phantom Black"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 51,
+      "name": "Samsung Galaxy S23 FE",
+      "status": "unavailable",
+      "url": "https://www.samsung.com/global/galaxy/galaxy-s23-fe/specs/",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Cream",
+        "Graphite",
+        "Mint",
+        "Purple"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 52,
+      "name": "Samsung Galaxy S22",
+      "status": "unavailable",
+      "url": "https://www.samsung.com/global/galaxy/galaxy-s22/specs/",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Green",
+        "Phantom Black",
+        "Phantom White",
+        "Pink Gold"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 53,
+      "name": "Samsung Galaxy S22+",
+      "status": "unavailable",
+      "url": "https://www.samsung.com/global/galaxy/galaxy-s22-plus/specs/",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Green",
+        "Phantom Black",
+        "Phantom White",
+        "Pink Gold"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 54,
+      "name": "Samsung Galaxy S22 Ultra",
+      "status": "unavailable",
+      "url": "https://www.samsung.com/global/galaxy/galaxy-s22-ultra/specs/",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB",
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Burgundy",
+        "Green",
+        "Phantom Black",
+        "Phantom White"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 55,
+      "name": "Samsung Galaxy S21",
+      "status": "unavailable",
+      "url": "https://www.samsung.com/global/galaxy/galaxy-s21/specs/",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Phantom Gray",
+        "Phantom Pink",
+        "Phantom Violet",
+        "Phantom White"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 56,
+      "name": "Samsung Galaxy S21+",
+      "status": "unavailable",
+      "url": "https://www.samsung.com/global/galaxy/galaxy-s21-plus/specs/",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Phantom Black",
+        "Phantom Silver",
+        "Phantom Violet"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 57,
+      "name": "Samsung Galaxy S21 Ultra",
+      "status": "unavailable",
+      "url": "https://www.samsung.com/global/galaxy/galaxy-s21-ultra/specs/",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB",
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Phantom Black",
+        "Phantom Silver"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 58,
+      "name": "Samsung Galaxy S21 FE",
+      "status": "unavailable",
+      "url": "https://www.samsung.com/global/galaxy/galaxy-s21-fe/specs/",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Graphite",
+        "Lavender",
+        "Olive",
+        "White"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 59,
+      "name": "Samsung Galaxy S20",
+      "status": "fetched",
+      "url": "https://www.samsung.com/global/galaxy/galaxy-s20/specs/",
+      "final_url": "https://www.samsung.com/global/galaxy/",
+      "http_status": 200,
+      "content_sha256": "34d1ee3dccc1b65f8334239cc7adbe2eec34d9e1269dd84d6a6760acb0fa284a",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB"
+      ],
+      "colors_not_found": [
+        "Cloud Blue",
+        "Cloud Pink",
+        "Cosmic Gray"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 60,
+      "name": "Samsung Galaxy S20+",
+      "status": "unavailable",
+      "url": "https://www.samsung.com/global/galaxy/galaxy-s20-plus/specs/",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB"
+      ],
+      "colors_not_found": [
+        "Cloud Blue",
+        "Cosmic Black",
+        "Cosmic Gray"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 61,
+      "name": "Samsung Galaxy S20 Ultra",
+      "status": "unavailable",
+      "url": "https://www.samsung.com/global/galaxy/galaxy-s20-ultra/specs/",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Cosmic Black",
+        "Cosmic Gray"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 62,
+      "name": "Samsung Galaxy S20 FE",
+      "status": "unavailable",
+      "url": "https://www.samsung.com/global/galaxy/galaxy-s20-fe/specs/",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Cloud Lavender",
+        "Cloud Mint",
+        "Cloud Navy",
+        "Cloud Orange",
+        "Cloud Red",
+        "Cloud White"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 63,
+      "name": "Samsung Galaxy A54 5G",
+      "status": "unavailable",
+      "url": "https://www.samsung.com/global/galaxy/galaxy-a54-5g/specs/",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Awesome Graphite",
+        "Awesome Lime",
+        "Awesome Violet",
+        "Awesome White"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 64,
+      "name": "Samsung Galaxy A34 5G",
+      "status": "unavailable",
+      "url": "https://www.samsung.com/global/galaxy/galaxy-a34-5g/specs/",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Awesome Graphite",
+        "Awesome Lime",
+        "Awesome Silver",
+        "Awesome Violet"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 65,
+      "name": "Samsung Galaxy A53 5G",
+      "status": "unavailable",
+      "url": "https://www.samsung.com/global/galaxy/galaxy-a53-5g/specs/",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Awesome Black",
+        "Awesome Blue",
+        "Awesome Peach",
+        "Awesome White"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 66,
+      "name": "Samsung Galaxy A33 5G",
+      "status": "unavailable",
+      "url": "https://www.samsung.com/global/galaxy/galaxy-a33-5g/specs/",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Awesome Black",
+        "Awesome Blue",
+        "Awesome Peach",
+        "Awesome White"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 67,
+      "name": "Samsung Galaxy A52s 5G",
+      "status": "unavailable",
+      "url": "https://www.samsung.com/global/galaxy/galaxy-a52s-5g/specs/",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Awesome Black",
+        "Awesome Mint",
+        "Awesome Violet",
+        "Awesome White"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 68,
+      "name": "Samsung Galaxy A52",
+      "status": "unavailable",
+      "url": "https://www.samsung.com/global/galaxy/galaxy-a52/specs/",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Awesome Black",
+        "Awesome Blue",
+        "Awesome Violet",
+        "Awesome White"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 69,
+      "name": "Samsung Galaxy A25 5G",
+      "status": "unavailable",
+      "url": "https://www.samsung.com/global/galaxy/galaxy-a25-5g/specs/",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Blue",
+        "Blue Black",
+        "Light Blue",
+        "Yellow"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 70,
+      "name": "Samsung Galaxy A24",
+      "status": "unavailable",
+      "url": "https://www.samsung.com/global/galaxy/galaxy-a24/specs/",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB"
+      ],
+      "colors_not_found": [
+        "Black",
+        "Dark Red",
+        "Light Green",
+        "Silver"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 71,
+      "name": "Samsung Galaxy A15",
+      "status": "unavailable",
+      "url": "https://www.samsung.com/global/galaxy/galaxy-a15/specs/",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Blue",
+        "Blue Black",
+        "Light Blue",
+        "Yellow"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 72,
+      "name": "Samsung Galaxy A14",
+      "status": "unavailable",
+      "url": "https://www.samsung.com/global/galaxy/galaxy-a14/specs/",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "64GB"
+      ],
+      "colors_not_found": [
+        "Black",
+        "Dark Red",
+        "Green",
+        "Silver"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 73,
+      "name": "Samsung Galaxy A05s",
+      "status": "unavailable",
+      "url": "https://www.samsung.com/global/galaxy/galaxy-a05s/specs/",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "64GB"
+      ],
+      "colors_not_found": [
+        "Black",
+        "Light Green",
+        "Light Violet",
+        "Silver"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 74,
+      "name": "Samsung Galaxy Z Fold6",
+      "status": "unavailable",
+      "url": "https://www.samsung.com/global/galaxy/galaxy-z-fold6/specs/",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "1TB",
+        "256GB",
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Navy",
+        "Pink",
+        "Silver Shadow"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 75,
+      "name": "Samsung Galaxy Z Flip6",
+      "status": "unavailable",
+      "url": "https://www.samsung.com/global/galaxy/galaxy-z-flip6/specs/",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB",
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Blue",
+        "Mint",
+        "Silver Shadow",
+        "Yellow"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 76,
+      "name": "Samsung Galaxy Z Fold5",
+      "status": "unavailable",
+      "url": "https://www.samsung.com/global/galaxy/galaxy-z-fold5/specs/",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "1TB",
+        "256GB",
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Cream",
+        "Icy Blue",
+        "Phantom Black"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 77,
+      "name": "Samsung Galaxy Z Flip5",
+      "status": "unavailable",
+      "url": "https://www.samsung.com/global/galaxy/galaxy-z-flip5/specs/",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB",
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Cream",
+        "Graphite",
+        "Lavender",
+        "Mint"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 78,
+      "name": "Samsung Galaxy Z Fold4",
+      "status": "fetched",
+      "url": "https://www.samsung.com/global/galaxy/galaxy-z-fold4/specs/",
+      "final_url": "https://www.samsung.com/global/galaxy/galaxy-z-fold4/specs/",
+      "http_status": 200,
+      "content_sha256": "accd1a437179362f36b2b0019c8ba7b2790c9fc8e7ee87bbca4f8387f7622b6d",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "1TB",
+        "256GB",
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Beige",
+        "Graygreen",
+        "Phantom Black"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 79,
+      "name": "Samsung Galaxy Z Flip4",
+      "status": "fetched",
+      "url": "https://www.samsung.com/global/galaxy/galaxy-z-flip4/specs/",
+      "final_url": "https://www.samsung.com/global/galaxy/galaxy-z-flip4/specs/",
+      "http_status": 200,
+      "content_sha256": "8e9e3e4baff2670acb2984ed534559b4a4c0918b71a664e7f9694d8bdc391f88",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB",
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Blue",
+        "Bora Purple",
+        "Graphite",
+        "Pink Gold"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 80,
+      "name": "Samsung Galaxy Z Fold3 5G",
+      "status": "unavailable",
+      "url": "https://www.samsung.com/global/galaxy/galaxy-z-fold3-5g/specs/",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB",
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Phantom Black",
+        "Phantom Green",
+        "Phantom Silver"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 81,
+      "name": "Samsung Galaxy Z Flip3 5G",
+      "status": "unavailable",
+      "url": "https://www.samsung.com/global/galaxy/galaxy-z-flip3-5g/specs/",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Cream",
+        "Green",
+        "Lavender",
+        "Phantom Black"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 82,
+      "name": "Xiaomi 14 Ultra",
+      "status": "fetched",
+      "url": "https://www.mi.com/global/product/xiaomi-14-ultra/specs/",
+      "final_url": "https://www.mi.com/global/product/xiaomi-14-ultra/specs/",
+      "http_status": 200,
+      "content_sha256": "764280b675925c02542610e1e3736ab9252c1d1e3fdd4172d2c1347325cb2848",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 83,
+      "name": "Xiaomi 13",
+      "status": "fetched",
+      "url": "https://www.mi.com/global/product/xiaomi-13/specs/",
+      "final_url": "https://www.mi.com/global/product/xiaomi-13/specs/",
+      "http_status": 200,
+      "content_sha256": "75bf9f36699b76d3c5102b3e7f819e9b29f4238cd69f6b3eddaaee28b3807451",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 84,
+      "name": "Xiaomi 13 Pro",
+      "status": "unavailable",
+      "url": "https://www.mi.com/global/product/xiaomi-13-pro/specs/",
+      "reason": "HTTPError: HTTP Error 504: Gateway Time-out",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Ceramic Black",
+        "Ceramic White"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 85,
+      "name": "Xiaomi 13 Ultra",
+      "status": "fetched",
+      "url": "https://www.mi.com/global/product/xiaomi-13-ultra/specs/",
+      "final_url": "https://www.mi.com/global/product/xiaomi-13-ultra/specs/",
+      "http_status": 200,
+      "content_sha256": "759b5ed9132375eace2b733cee87004ae87fe6df911cbc76cbdf004c264165f9",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 86,
+      "name": "Xiaomi 13T",
+      "status": "unavailable",
+      "url": "https://www.mi.com/global/product/xiaomi-13t/specs/",
+      "reason": "HTTPError: HTTP Error 504: Gateway Time-out",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Alpine Blue",
+        "Black",
+        "Meadow Green"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 87,
+      "name": "Xiaomi 13T Pro",
+      "status": "unavailable",
+      "url": "https://www.mi.com/global/product/xiaomi-13t-pro/specs/",
+      "reason": "HTTPError: HTTP Error 504: Gateway Time-out",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "1TB",
+        "256GB",
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Alpine Blue",
+        "Black",
+        "Meadow Green"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 88,
+      "name": "Xiaomi 12",
+      "status": "fetched",
+      "url": "https://www.mi.com/global/product/xiaomi-12/specs/",
+      "final_url": "https://www.mi.com/global/product/xiaomi-12/specs/",
+      "http_status": 200,
+      "content_sha256": "1814d2d3bb0fb3cf07ce22780dfc1a0ed1c5d78328d1a591dd83edc3dea0a3a0",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 89,
+      "name": "Xiaomi 12 Pro",
+      "status": "unavailable",
+      "url": "https://www.mi.com/global/product/xiaomi-12-pro/specs/",
+      "reason": "HTTPError: HTTP Error 504: Gateway Time-out",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Blue",
+        "Gray",
+        "Purple"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 90,
+      "name": "Xiaomi 12T",
+      "status": "fetched",
+      "url": "https://www.mi.com/global/product/xiaomi-12t/specs/",
+      "final_url": "https://www.mi.com/global/product/xiaomi-12t/specs/",
+      "http_status": 200,
+      "content_sha256": "f9af71a2d07a14456a2cdaf0a8992efaca6570ff5ec684d661fc1b4b7effc791",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 91,
+      "name": "Xiaomi 12T Pro",
+      "status": "unavailable",
+      "url": "https://www.mi.com/global/product/xiaomi-12t-pro/specs/",
+      "reason": "HTTPError: HTTP Error 504: Gateway Time-out",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Black",
+        "Blue",
+        "Silver"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 92,
+      "name": "Xiaomi 11T",
+      "status": "fetched",
+      "url": "https://www.mi.com/global/product/xiaomi-11t/specs/",
+      "final_url": "https://www.mi.com/global/product/xiaomi-11t/specs/",
+      "http_status": 200,
+      "content_sha256": "f91611517efe6331f634db61419eec3ad7ce310c9d3f703121913173570a64df",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 93,
+      "name": "Xiaomi 11T Pro",
+      "status": "unavailable",
+      "url": "https://www.mi.com/global/product/xiaomi-11t-pro/specs/",
+      "reason": "HTTPError: HTTP Error 504: Gateway Time-out",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Celestial Blue",
+        "Meteorite Gray",
+        "Moonlight White"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 94,
+      "name": "Xiaomi Mi 11",
+      "status": "unavailable",
+      "url": "https://www.mi.com/global/product/xiaomi-mi-11/specs/",
+      "reason": "HTTPError: HTTP Error 504: Gateway Time-out",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Horizon Blue",
+        "Midnight Gray"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 95,
+      "name": "Xiaomi Mi 11 Lite 5G",
+      "status": "unavailable",
+      "url": "https://www.mi.com/global/product/xiaomi-mi-11-lite-5g/specs/",
+      "reason": "HTTPError: HTTP Error 504: Gateway Time-out",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB"
+      ],
+      "colors_not_found": [
+        "Citrus Yellow",
+        "Mint Green",
+        "Truffle Black"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 96,
+      "name": "Xiaomi Redmi Note 13 Pro 5G",
+      "status": "unavailable",
+      "url": "https://www.mi.com/global/product/redmi-note-13-pro-5g/specs/",
+      "reason": "HTTPError: HTTP Error 504: Gateway Time-out",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB",
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Aurora Purple",
+        "Midnight Black",
+        "Ocean Teal"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 97,
+      "name": "Xiaomi Redmi Note 13 Pro+ 5G",
+      "status": "fetched",
+      "url": "https://www.mi.com/global/product/redmi-note-13-pro-plus-5g/specs/",
+      "final_url": "https://www.mi.com/global/product/redmi-note-13-pro-plus-5g/specs/",
+      "http_status": 200,
+      "content_sha256": "a9c1b370b56314b856f6a3debe5da3ed13ec86c10bc5cab3ee5d91b1efdc1407",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 98,
+      "name": "Xiaomi Redmi Note 13 5G",
+      "status": "unavailable",
+      "url": "https://www.mi.com/global/product/redmi-note-13-5g/specs/",
+      "reason": "HTTPError: HTTP Error 504: Gateway Time-out",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Arctic White",
+        "Graphite Black",
+        "Ocean Teal"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 99,
+      "name": "Xiaomi Redmi Note 12",
+      "status": "fetched",
+      "url": "https://www.mi.com/global/product/redmi-note-12/specs/",
+      "final_url": "https://www.mi.com/global/product/redmi-note-12/specs/",
+      "http_status": 200,
+      "content_sha256": "c29691090e3545819a02b26d1787af162dbc3429f319aa43b5599ea3eedd891d",
+      "model_mentioned": true,
+      "storage_not_found": [
+        "256GB",
+        "64GB"
+      ],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 100,
+      "name": "Xiaomi Redmi Note 12 Pro 5G",
+      "status": "fetched",
+      "url": "https://www.mi.com/global/product/redmi-note-12-pro-5g/specs/",
+      "final_url": "https://www.mi.com/global/product/redmi-note-12-pro-5g/specs/",
+      "http_status": 200,
+      "content_sha256": "de6431fe912a3ca673422c422d5b417563f543d217ad59466a13ba7d6552ff1e",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 101,
+      "name": "Xiaomi Redmi Note 12 Pro+ 5G",
+      "status": "unavailable",
+      "url": "https://www.mi.com/global/product/redmi-note-12-pro-plus-5g/specs/",
+      "reason": "HTTPError: HTTP Error 504: Gateway Time-out",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Midnight Black",
+        "Polar White",
+        "Sky Blue"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 102,
+      "name": "Xiaomi Redmi Note 11",
+      "status": "unavailable",
+      "url": "https://www.mi.com/global/product/redmi-note-11/specs/",
+      "reason": "HTTPError: HTTP Error 504: Gateway Time-out",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "64GB"
+      ],
+      "colors_not_found": [
+        "Graphite Gray",
+        "Star Blue",
+        "Twilight Blue"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 103,
+      "name": "Xiaomi Redmi Note 11 Pro 5G",
+      "status": "unavailable",
+      "url": "https://www.mi.com/global/product/redmi-note-11-pro-5g/specs/",
+      "reason": "HTTPError: HTTP Error 504: Gateway Time-out",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "64GB"
+      ],
+      "colors_not_found": [
+        "Atlantic Blue",
+        "Graphite Gray",
+        "Polar White"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 104,
+      "name": "Xiaomi Redmi 12 5G",
+      "status": "unavailable",
+      "url": "https://www.mi.com/global/product/redmi-12-5g/specs/",
+      "reason": "HTTPError: HTTP Error 504: Gateway Time-out",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Midnight Black",
+        "Polar Silver",
+        "Sky Blue"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 105,
+      "name": "Xiaomi Redmi 13C",
+      "status": "fetched",
+      "url": "https://www.mi.com/global/product/redmi-13c/specs/",
+      "final_url": "https://www.mi.com/global/product/redmi-13c/specs/",
+      "http_status": 200,
+      "content_sha256": "ff7ce35870d272455d6e1c79fbcf46686aa829356a9c5a306458502d08e55d2d",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 106,
+      "name": "Xiaomi Redmi 12C",
+      "status": "unavailable",
+      "url": "https://www.mi.com/global/product/redmi-12c/specs/",
+      "reason": "HTTPError: HTTP Error 504: Gateway Time-out",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "32GB",
+        "64GB"
+      ],
+      "colors_not_found": [
+        "Graphite Gray",
+        "Lavender Purple",
+        "Mint Green",
+        "Ocean Blue"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 107,
+      "name": "Xiaomi Redmi A3",
+      "status": "fetched",
+      "url": "https://www.mi.com/global/product/redmi-a3/specs/",
+      "final_url": "https://www.mi.com/global/product/redmi-a3/specs/",
+      "http_status": 200,
+      "content_sha256": "3553e97d725bda0573ccb85b9b2a7f0023b150d601b737e666d0cfe50f07e3aa",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 108,
+      "name": "POCO F6",
+      "status": "fetched",
+      "url": "https://www.mi.com/global/product/poco-f6/specs/",
+      "final_url": "https://www.mi.com/global/product/poco-f6/specs/",
+      "http_status": 200,
+      "content_sha256": "3681aca535d25dd36d0925ea39c31e6573a212b31e066e65a8f76c61c8c530d7",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 109,
+      "name": "POCO F6 Pro",
+      "status": "unavailable",
+      "url": "https://www.mi.com/global/product/poco-f6-pro/specs/",
+      "reason": "HTTPError: HTTP Error 504: Gateway Time-out",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "1TB",
+        "256GB",
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Black",
+        "White"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 110,
+      "name": "POCO F5",
+      "status": "unavailable",
+      "url": "https://www.mi.com/global/product/poco-f5/specs/",
+      "reason": "HTTPError: HTTP Error 504: Gateway Time-out",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Black",
+        "Blue",
+        "White"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 111,
+      "name": "POCO F5 Pro",
+      "status": "unavailable",
+      "url": "https://www.mi.com/global/product/poco-f5-pro/specs/",
+      "reason": "HTTPError: HTTP Error 504: Gateway Time-out",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB",
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Black",
+        "White"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 112,
+      "name": "POCO X6 5G",
+      "status": "unavailable",
+      "url": "https://www.mi.com/global/product/poco-x6-5g/specs/",
+      "reason": "HTTPError: HTTP Error 504: Gateway Time-out",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB",
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Black",
+        "Blue",
+        "White"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 113,
+      "name": "POCO X6 Pro 5G",
+      "status": "unavailable",
+      "url": "https://www.mi.com/global/product/poco-x6-pro-5g/specs/",
+      "reason": "HTTPError: HTTP Error 503: Service Unavailable",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB",
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Black",
+        "Gray",
+        "Yellow"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 114,
+      "name": "OPPO Find X7 Ultra",
+      "status": "unavailable",
+      "url": "https://www.oppo.com/en/smartphones/series-find-x/find-x7-ultra/specs/",
+      "reason": "HTTPError: HTTP Error 502: Bad Gateway",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB",
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Ocean Blue",
+        "Sepia Brown",
+        "Tailored Black"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 115,
+      "name": "OPPO Find X6",
+      "status": "unavailable",
+      "url": "https://www.oppo.com/en/smartphones/series-find-x/find-x6/specs/",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB",
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Black",
+        "Gold",
+        "Green"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 116,
+      "name": "OPPO Find X6 Pro",
+      "status": "unavailable",
+      "url": "https://www.oppo.com/en/smartphones/series-find-x/find-x6-pro/specs/",
+      "reason": "HTTPError: HTTP Error 502: Bad Gateway",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB",
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Black",
+        "Brown",
+        "Green"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 117,
+      "name": "OPPO Find X5",
+      "status": "unavailable",
+      "url": "https://www.oppo.com/en/smartphones/series-find-x/find-x5/specs/",
+      "reason": "HTTPError: HTTP Error 502: Bad Gateway",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Black",
+        "White"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 118,
+      "name": "OPPO Find X5 Pro",
+      "status": "unavailable",
+      "url": "https://www.oppo.com/en/smartphones/series-find-x/find-x5-pro/specs/",
+      "reason": "HTTPError: HTTP Error 502: Bad Gateway",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Ceramic Black",
+        "Ceramic White"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 119,
+      "name": "OPPO Find X3 Pro",
+      "status": "fetched",
+      "url": "https://www.oppo.com/en/smartphones/series-find-x/find-x3-pro/specs/",
+      "final_url": "https://www.oppo.com/en/smartphones/series-find-x/find-x3-pro/specs/",
+      "http_status": 200,
+      "content_sha256": "5348612b2dfe6f8b1be53fd56ebf632314e6b9c0167a06965b8b2e52785620ea",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 120,
+      "name": "OPPO Find N3",
+      "status": "fetched",
+      "url": "https://www.oppo.com/en/smartphones/series-find-n/find-n3/specs/",
+      "final_url": "https://www.oppo.com/en/smartphones/series-find-n/find-n3/specs/",
+      "http_status": 200,
+      "content_sha256": "9810257c8b98d58074d790d544337bd3b22c87da820e6902ad520044678d3c17",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 121,
+      "name": "OPPO Find N3 Flip",
+      "status": "fetched",
+      "url": "https://www.oppo.com/en/smartphones/series-find-n/find-n3-flip/specs/",
+      "final_url": "https://www.oppo.com/en/smartphones/series-find-n/find-n3-flip/specs/",
+      "http_status": 200,
+      "content_sha256": "ffd1d788b4f148698713d1b93cb6e29766fbbbdf2897a1d094a8aff8bec20a17",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 122,
+      "name": "OPPO Find N2 Flip",
+      "status": "unavailable",
+      "url": "https://www.oppo.com/en/smartphones/series-find-n/find-n2-flip/specs/",
+      "reason": "HTTPError: HTTP Error 502: Bad Gateway",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Astral Black",
+        "Moonlit Purple"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 123,
+      "name": "OPPO Reno12 Pro 5G",
+      "status": "unavailable",
+      "url": "https://www.oppo.com/en/smartphones/series-reno/reno12-pro/specs/",
+      "reason": "HTTPError: HTTP Error 502: Bad Gateway",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Nebula Silver",
+        "Space Brown"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 124,
+      "name": "OPPO Reno11 5G",
+      "status": "fetched",
+      "url": "https://www.oppo.com/en/smartphones/series-reno/reno11/specs/",
+      "final_url": "https://www.oppo.com/en/smartphones/series-reno/reno11/specs/",
+      "http_status": 200,
+      "content_sha256": "bf2f66366e4411524bc0be2f4e1d047b17bc5c3774d32e914759ca161fddbca5",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 125,
+      "name": "OPPO Reno11 Pro 5G",
+      "status": "fetched",
+      "url": "https://www.oppo.com/en/smartphones/series-reno/reno11-pro/specs/",
+      "final_url": "https://www.oppo.com/en/smartphones/series-reno/reno11-pro/specs/",
+      "http_status": 200,
+      "content_sha256": "bf534896dd147577de7f3341a2d610ea1881d82b9e06797d9a6af8e7587b62b5",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 126,
+      "name": "OPPO Reno10 5G",
+      "status": "fetched",
+      "url": "https://www.oppo.com/en/smartphones/series-reno/reno10/specs/",
+      "final_url": "https://www.oppo.com/en/smartphones/series-reno/reno10/specs/",
+      "http_status": 200,
+      "content_sha256": "bd5b9e5c071f4db89a5ae1247f14f5924fc4df672e488d703f9440ea42844c76",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 127,
+      "name": "OPPO Reno10 Pro 5G",
+      "status": "fetched",
+      "url": "https://www.oppo.com/en/smartphones/series-reno/reno10-pro/specs/",
+      "final_url": "https://www.oppo.com/en/smartphones/series-reno/reno10-pro/specs/",
+      "http_status": 200,
+      "content_sha256": "ec30cac6cb0961f2d04d89af21e9cecec775ea1d1fd658c0adf3d4193b808a53",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 128,
+      "name": "OPPO Reno10 Pro+ 5G",
+      "status": "fetched",
+      "url": "https://www.oppo.com/en/smartphones/series-reno/reno10-pro-plus/specs/",
+      "final_url": "https://www.oppo.com/en/smartphones/series-reno/reno10-pro-plus/specs/",
+      "http_status": 200,
+      "content_sha256": "37b859d7964918a970a1e76d0f20ef4a929b60b6db46f18c8041a5d22968fd63",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 129,
+      "name": "OPPO Reno8 5G",
+      "status": "unavailable",
+      "url": "https://www.oppo.com/en/smartphones/series-reno/reno8/specs/",
+      "reason": "TimeoutError: The read operation timed out",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Shimmer Black",
+        "Shimmer Gold"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 130,
+      "name": "OPPO Reno8 Pro 5G",
+      "status": "unavailable",
+      "url": "https://www.oppo.com/en/smartphones/series-reno/reno8-pro/specs/",
+      "reason": "HTTPError: HTTP Error 502: Bad Gateway",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Glazed Black",
+        "Glazed Green"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 131,
+      "name": "OPPO Reno8 T 5G",
+      "status": "fetched",
+      "url": "https://www.oppo.com/en/smartphones/series-reno/reno8-t/specs/",
+      "final_url": "https://www.oppo.com/en/smartphones/series-reno/reno8-t/specs/",
+      "http_status": 200,
+      "content_sha256": "21a866e5bcd02d98583b7aec71f606a38c8d0931fb654dd1adfb60ce81751745",
+      "model_mentioned": false,
+      "storage_not_found": [],
+      "colors_not_found": [
+        "Sunrise Gold"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 132,
+      "name": "OPPO Reno7 5G",
+      "status": "unavailable",
+      "url": "https://www.oppo.com/en/smartphones/series-reno/reno7/specs/",
+      "reason": "TimeoutError: The read operation timed out",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Starry Black",
+        "Startrails Blue"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 133,
+      "name": "OPPO A78 5G",
+      "status": "fetched",
+      "url": "https://www.oppo.com/en/smartphones/series-a/a78/specs/",
+      "final_url": "https://www.oppo.com/en/smartphones/series-a/a78/specs/",
+      "http_status": 200,
+      "content_sha256": "d1ae2854547aa2b941b401d6bce0d753a97a3eefcea78fe6d07f31848872f9f8",
+      "model_mentioned": false,
+      "storage_not_found": [],
+      "colors_not_found": [
+        "Glowing Black",
+        "Glowing Blue"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 134,
+      "name": "OPPO A58",
+      "status": "fetched",
+      "url": "https://www.oppo.com/en/smartphones/series-a/a58/specs/",
+      "final_url": "https://www.oppo.com/en/smartphones/series-a/a58/specs/",
+      "http_status": 200,
+      "content_sha256": "4297c330f7b48c626a4143c8fa941e5d2d3e111b0971e4879f09f915447c7092",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 135,
+      "name": "OPPO A38",
+      "status": "fetched",
+      "url": "https://www.oppo.com/en/smartphones/series-a/a38/specs/",
+      "final_url": "https://www.oppo.com/en/smartphones/series-a/a38/specs/",
+      "http_status": 200,
+      "content_sha256": "fd93124df9356a78e71b21051fa42c83555836119fd7f65a3ef492cd09ac6d79",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 136,
+      "name": "vivo X100",
+      "status": "fetched",
+      "url": "https://www.vivo.com/en/products/param/x100",
+      "final_url": "https://www.vivo.com/en/products/param/x100",
+      "http_status": 200,
+      "content_sha256": "4df5ddfdf3b6882f159022b849ba68e9a7fae1530779fead1a9e6fb12f961023",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 137,
+      "name": "vivo X100 Pro",
+      "status": "fetched",
+      "url": "https://www.vivo.com/en/products/param/x100pro",
+      "final_url": "https://www.vivo.com/en/products/param/x100pro",
+      "http_status": 200,
+      "content_sha256": "684f721471d54a8270eeeab70974e3add9e9b2a14408e076fd448741ab837144",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 138,
+      "name": "vivo X90",
+      "status": "fetched",
+      "url": "https://www.vivo.com/en/products/param/x90",
+      "final_url": "https://www.vivo.com/en/products/param/x90",
+      "http_status": 200,
+      "content_sha256": "6e7c7cc0b60e7225847063fcae89b9031651c5547fb780ebf3bc9f75b3f10ffc",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 139,
+      "name": "vivo X90 Pro",
+      "status": "fetched",
+      "url": "https://www.vivo.com/en/products/param/x90pro",
+      "final_url": "https://www.vivo.com/en/products/param/x90pro",
+      "http_status": 200,
+      "content_sha256": "1ff43d794c07ea88c2ef8a80cfbc887defe3dd53290f8baace61b38a014d95f6",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Legendary Black"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 140,
+      "name": "vivo X80",
+      "status": "fetched",
+      "url": "https://www.vivo.com/en/products/param/x80",
+      "final_url": "https://www.vivo.com/en/products/param/x80",
+      "http_status": 200,
+      "content_sha256": "64898f02df882c996b6040f5b9e747359594fccf7f58b8a708789033d451f61c",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 141,
+      "name": "vivo X80 Pro",
+      "status": "fetched",
+      "url": "https://www.vivo.com/en/products/param/x80pro",
+      "final_url": "https://www.vivo.com/en/products/param/x80pro",
+      "http_status": 200,
+      "content_sha256": "64abf3fd522a7722ef10ec6d2ef01d59f623f6359bbe8dfa49e65aa7872f6ea1",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 142,
+      "name": "vivo X70 Pro",
+      "status": "fetched",
+      "url": "https://www.vivo.com/en/products/param/x70pro",
+      "final_url": "https://www.vivo.com/en/products/param/x70pro",
+      "http_status": 200,
+      "content_sha256": "aa7fa36ba586fee68beec75dfef251e71d08b10a79ae66e407fc8980a6fdad69",
+      "model_mentioned": true,
+      "storage_not_found": [
+        "128GB"
+      ],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 143,
+      "name": "vivo X60 Pro",
+      "status": "fetched",
+      "url": "https://www.vivo.com/en/products/param/x60pro",
+      "final_url": "https://www.vivo.com/en/products/param/x60pro",
+      "http_status": 200,
+      "content_sha256": "74f8bc1ce3152074869d932539b43f1e270732a506deec05d4fe6200acad80cb",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 144,
+      "name": "vivo V30 Pro",
+      "status": "fetched",
+      "url": "https://www.vivo.com/en/products/param/v30pro",
+      "final_url": "https://www.vivo.com/en/products/param/v30pro",
+      "http_status": 200,
+      "content_sha256": "1cd6e062b9585943463481a8808d28b1f6670cab1e10bed8b4073a9bfdee2b17",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB",
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Bloom White",
+        "Lush Green"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 145,
+      "name": "vivo V29",
+      "status": "fetched",
+      "url": "https://www.vivo.com/en/products/param/v29",
+      "final_url": "https://www.vivo.com/en/products/param/v29",
+      "http_status": 200,
+      "content_sha256": "df840198e60cab546ec8e0af88a78b40a45af6b7d5a1a6dec8745e3b4913330f",
+      "model_mentioned": true,
+      "storage_not_found": [
+        "512GB"
+      ],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 146,
+      "name": "vivo V29e",
+      "status": "fetched",
+      "url": "https://www.vivo.com/en/products/param/v29e",
+      "final_url": "https://www.vivo.com/en/products/param/v29e",
+      "http_status": 200,
+      "content_sha256": "bcb88696402895772762e319aca83f282e6629730758b5d2d7d4918f6a70ac29",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Forest Black",
+        "Rose Gold"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 147,
+      "name": "vivo V27",
+      "status": "fetched",
+      "url": "https://www.vivo.com/en/products/param/v27",
+      "final_url": "https://www.vivo.com/en/products/param/v27",
+      "http_status": 200,
+      "content_sha256": "419e9c5aeb7029875025adece140822e9bcd10639aa321f5afc9fb102ab5780e",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 148,
+      "name": "vivo V27 Pro",
+      "status": "fetched",
+      "url": "https://www.vivo.com/en/products/param/v27pro",
+      "final_url": "https://www.vivo.com/en/products/param/v27pro",
+      "http_status": 200,
+      "content_sha256": "338d7878029780bd2c01e17ccb17f26092188c646867c949488a5d7b3c2962da",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Magic Blue",
+        "Noble Black"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 149,
+      "name": "vivo V25",
+      "status": "fetched",
+      "url": "https://www.vivo.com/en/products/param/v25",
+      "final_url": "https://www.vivo.com/en/products/param/v25",
+      "http_status": 200,
+      "content_sha256": "2bf15bf0e09fb233aaa89a6cd282f9ac338a0b6c8bc90afac8f9eafed3afe3ff",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 150,
+      "name": "vivo V25 Pro",
+      "status": "fetched",
+      "url": "https://www.vivo.com/en/products/param/v25pro",
+      "final_url": "https://www.vivo.com/en/products/param/v25pro",
+      "http_status": 200,
+      "content_sha256": "09fe53333540b681bb4b5ce853708b8f0652de9784de5006f4c7f28e9b19dfcb",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Pure Black",
+        "Sailing Blue"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 151,
+      "name": "vivo V23 5G",
+      "status": "fetched",
+      "url": "https://www.vivo.com/en/products/param/v23",
+      "final_url": "https://www.vivo.com/en/products/param/v23",
+      "http_status": 200,
+      "content_sha256": "12e056763742262cfe3e16c746fdba85bc10c6b1d0855a796a93842147b703e6",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Stardust Black",
+        "Sunshine Gold"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 152,
+      "name": "vivo V23e",
+      "status": "fetched",
+      "url": "https://www.vivo.com/en/products/param/v23e",
+      "final_url": "https://www.vivo.com/en/products/param/v23e",
+      "http_status": 200,
+      "content_sha256": "851978803d88a2d3683dbf48137d5150f543f6d5e35ddf88042ac2aa90077148",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 153,
+      "name": "vivo V21 5G",
+      "status": "fetched",
+      "url": "https://www.vivo.com/en/products/param/v21",
+      "final_url": "https://www.vivo.com/en/products/param/v21",
+      "http_status": 200,
+      "content_sha256": "01cb8b1a42567a0e4afaba1920a5f12f678c0f469abb24a5eb6d598850fb2a7d",
+      "model_mentioned": false,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 154,
+      "name": "vivo Y36",
+      "status": "fetched",
+      "url": "https://www.vivo.com/en/products/param/y36",
+      "final_url": "https://www.vivo.com/en/products/param/y36",
+      "http_status": 200,
+      "content_sha256": "6c53cc2e34791132acc8bca1d245a150a16d820ba55ad20679069596cdf7020f",
+      "model_mentioned": true,
+      "storage_not_found": [
+        "128GB"
+      ],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 155,
+      "name": "vivo Y27",
+      "status": "fetched",
+      "url": "https://www.vivo.com/en/products/param/y27",
+      "final_url": "https://www.vivo.com/en/products/param/y27",
+      "http_status": 200,
+      "content_sha256": "54a094286cd8a8597d7d3d0f1d5a4eb71563222587a8d6af30735bd6f15eabdc",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 156,
+      "name": "vivo Y22",
+      "status": "fetched",
+      "url": "https://www.vivo.com/en/products/param/y22",
+      "final_url": "https://www.vivo.com/en/products/param/y22",
+      "http_status": 200,
+      "content_sha256": "809c4dbb4715248acad744139ef419a4b5ff3b2c4c27fd2df2a341dd40f58840",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 157,
+      "name": "vivo Y17s",
+      "status": "fetched",
+      "url": "https://www.vivo.com/en/products/param/y17s",
+      "final_url": "https://www.vivo.com/en/products/param/y17s",
+      "http_status": 200,
+      "content_sha256": "138a0dc65e5dbab1e6daf065f59505c965fa413e43894892f59d2684d54dbe3b",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 158,
+      "name": "realme GT5 Pro",
+      "status": "unavailable",
+      "url": "https://www.realme.com/global/realme-gt5-pro/specs",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "1TB",
+        "256GB",
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Bright Moon",
+        "Red Rock",
+        "Starry Night"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 159,
+      "name": "realme GT5",
+      "status": "unavailable",
+      "url": "https://www.realme.com/global/realme-gt5/specs",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "1TB",
+        "256GB",
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Flowing Silver",
+        "Starry Oasis"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 160,
+      "name": "realme GT Neo 5",
+      "status": "unavailable",
+      "url": "https://www.realme.com/global/realme-gt-neo-5/specs",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "1TB",
+        "256GB",
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Black",
+        "Purple",
+        "White"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 161,
+      "name": "realme GT Neo 3",
+      "status": "fetched",
+      "url": "https://www.realme.com/global/realme-gt-neo-3/specs",
+      "final_url": "https://www.realme.com/global/realme-gt-neo-3/specs",
+      "http_status": 200,
+      "content_sha256": "2f4bb08207dffd73153a5cc1f9df70995a7002ab01597a5c1e9395d56ff2ca42",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 162,
+      "name": "realme GT Neo 3T",
+      "status": "fetched",
+      "url": "https://www.realme.com/global/realme-gt-neo-3t/specs",
+      "final_url": "https://www.realme.com/global/realme-gt-neo-3t/specs",
+      "http_status": 200,
+      "content_sha256": "a0cfc6f952fe762e2e1d037a335ddfaabcf5b8b448cd892169a19bfc7b2c5bbb",
+      "model_mentioned": true,
+      "storage_not_found": [
+        "128GB"
+      ],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 163,
+      "name": "realme GT 2",
+      "status": "fetched",
+      "url": "https://www.realme.com/global/realme-gt-2/specs",
+      "final_url": "https://www.realme.com/global/realme-gt-2/specs",
+      "http_status": 200,
+      "content_sha256": "05e0bfc90d5e612261f2b892772e13790a9a68434f3c16a9658ca601b9729647",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 164,
+      "name": "realme GT 2 Pro",
+      "status": "fetched",
+      "url": "https://www.realme.com/global/realme-gt-2-pro/specs",
+      "final_url": "https://www.realme.com/global/realme-gt-2-pro/specs",
+      "http_status": 200,
+      "content_sha256": "e995058dfbea2fb8f3ae6a6831d9e1c6283538091ca2f0f50b04b7c5a3e5162a",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 165,
+      "name": "realme GT Master Edition",
+      "status": "fetched",
+      "url": "https://www.realme.com/global/realme-gt-master-edition/specs",
+      "final_url": "https://www.realme.com/global/realme-gt-master-edition/specs",
+      "http_status": 200,
+      "content_sha256": "7ec45fc5f23e743265d472dd9695d3011a8958788aad03ef04ac18563322c16f",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [
+        "Daybreak Blue"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 166,
+      "name": "realme 12 Pro 5G",
+      "status": "unavailable",
+      "url": "https://www.realme.com/global/realme-12-pro-5g/specs",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Navigator Beige",
+        "Submarine Blue"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 167,
+      "name": "realme 12+ 5G",
+      "status": "unavailable",
+      "url": "https://www.realme.com/global/realme-12-plus-5g/specs",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Navigator Beige",
+        "Pioneer Green"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 168,
+      "name": "realme 11 Pro 5G",
+      "status": "unavailable",
+      "url": "https://www.realme.com/global/realme-11-pro-5g/specs",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Astral Black",
+        "Oasis Green",
+        "Sunrise Beige"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 169,
+      "name": "realme 11 Pro+ 5G",
+      "status": "unavailable",
+      "url": "https://www.realme.com/global/realme-11-pro-plus-5g/specs",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB",
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Astral Black",
+        "Oasis Green",
+        "Sunrise Beige"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 170,
+      "name": "realme 11 5G",
+      "status": "fetched",
+      "url": "https://www.realme.com/global/realme-11-5g/specs",
+      "final_url": "https://www.realme.com/global/realme-11-5g/specs",
+      "http_status": 200,
+      "content_sha256": "70a57067646508f297538c2c3f58cebeb29f3f242e7ea5c44edbfc02676c737d",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 171,
+      "name": "realme 10 Pro 5G",
+      "status": "unavailable",
+      "url": "https://www.realme.com/global/realme-10-pro-5g/specs",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Dark Matter",
+        "Hyperspace",
+        "Nebula Blue"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 172,
+      "name": "realme 10 Pro+ 5G",
+      "status": "unavailable",
+      "url": "https://www.realme.com/global/realme-10-pro-plus-5g/specs",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Dark Matter",
+        "Hyperspace",
+        "Nebula Blue"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 173,
+      "name": "realme C55",
+      "status": "fetched",
+      "url": "https://www.realme.com/global/realme-c55/specs",
+      "final_url": "https://www.realme.com/global/realme-c55/specs",
+      "http_status": 200,
+      "content_sha256": "5a8114e670ef00ae3657b9d89d160c6074f21f5506970493646b79dba227e92a",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 174,
+      "name": "realme C53",
+      "status": "fetched",
+      "url": "https://www.realme.com/global/realme-c53/specs",
+      "final_url": "https://www.realme.com/global/realme-c53/specs",
+      "http_status": 200,
+      "content_sha256": "2acae7952bed8713a3cc3650dd5fe38289fbeec6867b7d85869d00af90c295a4",
+      "model_mentioned": true,
+      "storage_not_found": [
+        "128GB"
+      ],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 175,
+      "name": "HONOR Magic6 Pro",
+      "status": "unavailable",
+      "url": "https://www.honor.com/global/phones/honor-magic6-pro/spec/",
+      "reason": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)>",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Black",
+        "Epi Green"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 176,
+      "name": "HONOR Magic6",
+      "status": "unavailable",
+      "url": "https://www.honor.com/global/phones/honor-magic6/spec/",
+      "reason": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)>",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB",
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Black",
+        "Green",
+        "White"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 177,
+      "name": "HONOR Magic5 Pro",
+      "status": "unavailable",
+      "url": "https://www.honor.com/global/phones/honor-magic5-pro/spec/",
+      "reason": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)>",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Black",
+        "Meadow Green"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 178,
+      "name": "HONOR Magic5",
+      "status": "unavailable",
+      "url": "https://www.honor.com/global/phones/honor-magic5/spec/",
+      "reason": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)>",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Black",
+        "Meadow Green"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 179,
+      "name": "HONOR Magic4 Pro",
+      "status": "unavailable",
+      "url": "https://www.honor.com/global/phones/honor-magic4-pro/spec/",
+      "reason": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)>",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Black",
+        "Cyan"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 180,
+      "name": "HONOR Magic V2",
+      "status": "unavailable",
+      "url": "https://www.honor.com/global/phones/honor-magic-v2/spec/",
+      "reason": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)>",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Black",
+        "Purple"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 181,
+      "name": "HONOR Magic Vs",
+      "status": "unavailable",
+      "url": "https://www.honor.com/global/phones/honor-magic-vs/spec/",
+      "reason": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)>",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB",
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Black",
+        "Cyan"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 182,
+      "name": "HONOR 200",
+      "status": "unavailable",
+      "url": "https://www.honor.com/global/phones/honor-200/spec/",
+      "reason": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)>",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB",
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Black",
+        "Emerald Green",
+        "Moonlight White"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 183,
+      "name": "HONOR 200 Pro",
+      "status": "unavailable",
+      "url": "https://www.honor.com/global/phones/honor-200-pro/spec/",
+      "reason": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)>",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Black",
+        "Moonlight White",
+        "Ocean Cyan"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 184,
+      "name": "HONOR 90",
+      "status": "unavailable",
+      "url": "https://www.honor.com/global/phones/honor-90/spec/",
+      "reason": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)>",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB",
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Diamond Silver",
+        "Emerald Green",
+        "Midnight Black"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 185,
+      "name": "HONOR 90 Lite",
+      "status": "unavailable",
+      "url": "https://www.honor.com/global/phones/honor-90-lite/spec/",
+      "reason": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)>",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Cyan Lake",
+        "Midnight Black",
+        "Titanium Silver"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 186,
+      "name": "HONOR 70",
+      "status": "unavailable",
+      "url": "https://www.honor.com/global/phones/honor-70/spec/",
+      "reason": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)>",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Crystal Silver",
+        "Emerald Green",
+        "Midnight Black"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 187,
+      "name": "HONOR X9b",
+      "status": "unavailable",
+      "url": "https://www.honor.com/global/phones/honor-x9b/spec/",
+      "reason": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)>",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Emerald Green",
+        "Midnight Black",
+        "Sunrise Orange"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 188,
+      "name": "HONOR X8b",
+      "status": "unavailable",
+      "url": "https://www.honor.com/global/phones/honor-x8b/spec/",
+      "reason": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)>",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB",
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Glamorous Green",
+        "Midnight Black",
+        "Titanium Silver"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 189,
+      "name": "HONOR X7b",
+      "status": "unavailable",
+      "url": "https://www.honor.com/global/phones/honor-x7b/spec/",
+      "reason": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)>",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Emerald Green",
+        "Flowing Silver",
+        "Midnight Black"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 190,
+      "name": "Google Pixel 9",
+      "status": "fetched",
+      "url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+      "final_url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+      "http_status": 200,
+      "content_sha256": "440d725d72f3c99a34e86d387b512b55ad40941f6e530fe66163b322ebfa7ab4",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 191,
+      "name": "Google Pixel 9 Pro",
+      "status": "fetched",
+      "url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+      "final_url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+      "http_status": 200,
+      "content_sha256": "440d725d72f3c99a34e86d387b512b55ad40941f6e530fe66163b322ebfa7ab4",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 192,
+      "name": "Google Pixel 9 Pro XL",
+      "status": "fetched",
+      "url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+      "final_url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+      "http_status": 200,
+      "content_sha256": "440d725d72f3c99a34e86d387b512b55ad40941f6e530fe66163b322ebfa7ab4",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 193,
+      "name": "Google Pixel 9 Pro Fold",
+      "status": "fetched",
+      "url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+      "final_url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+      "http_status": 200,
+      "content_sha256": "440d725d72f3c99a34e86d387b512b55ad40941f6e530fe66163b322ebfa7ab4",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 194,
+      "name": "Google Pixel 8",
+      "status": "fetched",
+      "url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+      "final_url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+      "http_status": 200,
+      "content_sha256": "440d725d72f3c99a34e86d387b512b55ad40941f6e530fe66163b322ebfa7ab4",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 195,
+      "name": "Google Pixel 8 Pro",
+      "status": "fetched",
+      "url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+      "final_url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+      "http_status": 200,
+      "content_sha256": "440d725d72f3c99a34e86d387b512b55ad40941f6e530fe66163b322ebfa7ab4",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 196,
+      "name": "Google Pixel 8a",
+      "status": "fetched",
+      "url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+      "final_url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+      "http_status": 200,
+      "content_sha256": "440d725d72f3c99a34e86d387b512b55ad40941f6e530fe66163b322ebfa7ab4",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 197,
+      "name": "Google Pixel 7",
+      "status": "fetched",
+      "url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+      "final_url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+      "http_status": 200,
+      "content_sha256": "440d725d72f3c99a34e86d387b512b55ad40941f6e530fe66163b322ebfa7ab4",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 198,
+      "name": "Google Pixel 7 Pro",
+      "status": "fetched",
+      "url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+      "final_url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+      "http_status": 200,
+      "content_sha256": "440d725d72f3c99a34e86d387b512b55ad40941f6e530fe66163b322ebfa7ab4",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 199,
+      "name": "Google Pixel 7a",
+      "status": "fetched",
+      "url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+      "final_url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+      "http_status": 200,
+      "content_sha256": "440d725d72f3c99a34e86d387b512b55ad40941f6e530fe66163b322ebfa7ab4",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 200,
+      "name": "Google Pixel 6",
+      "status": "fetched",
+      "url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+      "final_url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+      "http_status": 200,
+      "content_sha256": "440d725d72f3c99a34e86d387b512b55ad40941f6e530fe66163b322ebfa7ab4",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [
+        "Kinda Coral",
+        "Sorta Seafoam",
+        "Stormy Black"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 201,
+      "name": "Google Pixel 6 Pro",
+      "status": "fetched",
+      "url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+      "final_url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+      "http_status": 200,
+      "content_sha256": "440d725d72f3c99a34e86d387b512b55ad40941f6e530fe66163b322ebfa7ab4",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [
+        "Cloudy White",
+        "Sorta Sunny",
+        "Stormy Black"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 202,
+      "name": "Google Pixel 6a",
+      "status": "fetched",
+      "url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+      "final_url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+      "http_status": 200,
+      "content_sha256": "440d725d72f3c99a34e86d387b512b55ad40941f6e530fe66163b322ebfa7ab4",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 203,
+      "name": "Google Pixel 5",
+      "status": "fetched",
+      "url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+      "final_url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+      "http_status": 200,
+      "content_sha256": "440d725d72f3c99a34e86d387b512b55ad40941f6e530fe66163b322ebfa7ab4",
+      "model_mentioned": false,
+      "storage_not_found": [],
+      "colors_not_found": [
+        "Just Black",
+        "Sorta Sage"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 204,
+      "name": "Google Pixel 4a",
+      "status": "fetched",
+      "url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+      "final_url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+      "http_status": 200,
+      "content_sha256": "440d725d72f3c99a34e86d387b512b55ad40941f6e530fe66163b322ebfa7ab4",
+      "model_mentioned": false,
+      "storage_not_found": [],
+      "colors_not_found": [
+        "Barely Blue",
+        "Just Black"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 205,
+      "name": "OnePlus 12",
+      "status": "fetched",
+      "url": "https://www.oneplus.com/global/12/specs",
+      "final_url": "https://www.oneplus.com/global/12/specs",
+      "http_status": 200,
+      "content_sha256": "e7e39d945aeba35dddd62e74229d23124111a66275210bca9eb128cb364e5183",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 206,
+      "name": "OnePlus 12R",
+      "status": "fetched",
+      "url": "https://www.oneplus.com/global/12r/specs",
+      "final_url": "https://www.oneplus.com/global/12r/specs",
+      "http_status": 200,
+      "content_sha256": "17340364fe3777ed4641a8460eb2437f2abaf72a8b3108add914cd727d2b37df",
+      "model_mentioned": true,
+      "storage_not_found": [
+        "128GB"
+      ],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 207,
+      "name": "OnePlus 11",
+      "status": "fetched",
+      "url": "https://www.oneplus.com/global/11/specs",
+      "final_url": "https://www.oneplus.com/global/11/specs",
+      "http_status": 200,
+      "content_sha256": "a73a0c745bfc9f4985820a5f1bafe5c4ee3cd62ad18e804b7da0beb8a15dee94",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 208,
+      "name": "OnePlus 10 Pro",
+      "status": "fetched",
+      "url": "https://www.oneplus.com/global/10-pro/specs",
+      "final_url": "https://www.oneplus.com/global/10-pro/specs",
+      "http_status": 200,
+      "content_sha256": "9c811b6a539472cb9e8a9605c0c3d07f34874d62df132479c734dfbe23195253",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 209,
+      "name": "OnePlus 10T",
+      "status": "fetched",
+      "url": "https://www.oneplus.com/global/10t/specs",
+      "final_url": "https://www.oneplus.com/global/10t/specs",
+      "http_status": 200,
+      "content_sha256": "fe5122b5a8e8a15d120789ad74bcf6b6741a04dd425fb68461e629e2c3d61fc4",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 210,
+      "name": "OnePlus 9",
+      "status": "fetched",
+      "url": "https://www.oneplus.com/global/9/specs",
+      "final_url": "https://www.oneplus.com/global/9/specs",
+      "http_status": 200,
+      "content_sha256": "1578bad357b96b8791792abcc3ccd52a54f56754dc9c0e88940be3064fbc858e",
+      "model_mentioned": true,
+      "storage_not_found": [
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Arctic Sky"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 211,
+      "name": "OnePlus 9 Pro",
+      "status": "fetched",
+      "url": "https://www.oneplus.com/global/9-pro/specs",
+      "final_url": "https://www.oneplus.com/global/9-pro/specs",
+      "http_status": 200,
+      "content_sha256": "baed0e0eb7f23e582283cc526ee58b837f0e4255ed793ff0de48726b0be099b2",
+      "model_mentioned": true,
+      "storage_not_found": [
+        "128GB"
+      ],
+      "colors_not_found": [
+        "Stellar Black"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 212,
+      "name": "OnePlus 8T",
+      "status": "fetched",
+      "url": "https://www.oneplus.com/global/8t/specs",
+      "final_url": "https://www.oneplus.com/global/8t/specs",
+      "http_status": 200,
+      "content_sha256": "291c798fd12bf9067d9e7ead02bff9be015392895f678f55357bce58bf41ef97",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 213,
+      "name": "OnePlus 8",
+      "status": "fetched",
+      "url": "https://www.oneplus.com/global/8/specs",
+      "final_url": "https://www.oneplus.com/global/8/specs",
+      "http_status": 200,
+      "content_sha256": "6aed2577e25493d9a13f69f191d0c10223684c11a156e7223ebd54956a94c8e1",
+      "model_mentioned": true,
+      "storage_not_found": [
+        "128GB",
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Glacial Green",
+        "Interstellar Glow",
+        "Onyx Black"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 214,
+      "name": "OnePlus 8 Pro",
+      "status": "fetched",
+      "url": "https://www.oneplus.com/global/8-pro/specs",
+      "final_url": "https://www.oneplus.com/global/8-pro/specs",
+      "http_status": 200,
+      "content_sha256": "c41f989c1718a197ad781b81d19593f32c61d19c007c99cfd5f6c311fbb43fd9",
+      "model_mentioned": true,
+      "storage_not_found": [
+        "128GB",
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Glacial Green",
+        "Onyx Black",
+        "Ultramarine Blue"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 215,
+      "name": "OnePlus Open",
+      "status": "fetched",
+      "url": "https://www.oneplus.com/global/open/specs",
+      "final_url": "https://www.oneplus.com/global/open/specs",
+      "http_status": 200,
+      "content_sha256": "c6bbe76261461952b65c9b213c7cd1878244b544cdeae7bff243821cba858f58",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 216,
+      "name": "OnePlus Nord 4",
+      "status": "fetched",
+      "url": "https://www.oneplus.com/global/nord-4/specs",
+      "final_url": "https://www.oneplus.com/global/nord-4/specs",
+      "http_status": 200,
+      "content_sha256": "3174246f80263a1e46d7ada53c195c1eb601fab23350cb3ddf2088ca02d2dec2",
+      "model_mentioned": true,
+      "storage_not_found": [
+        "128GB"
+      ],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 217,
+      "name": "OnePlus Nord 3 5G",
+      "status": "fetched",
+      "url": "https://www.oneplus.com/global/nord-3-5g/specs",
+      "final_url": "https://www.oneplus.com/global/nord-3-5g/specs",
+      "http_status": 200,
+      "content_sha256": "f8f2991564975200434b3e1211bd9e81d2bae5969871fd709276b0a78a74754d",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 218,
+      "name": "OnePlus Nord CE4",
+      "status": "unavailable",
+      "url": "https://www.oneplus.com/global/nord-ce4/specs",
+      "reason": "HTTPError: HTTP Error 404: Not Found",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Celadon Marble",
+        "Dark Chrome"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 219,
+      "name": "OnePlus Nord CE 3 Lite 5G",
+      "status": "fetched",
+      "url": "https://www.oneplus.com/global/nord-ce-3-lite-5g/specs",
+      "final_url": "https://www.oneplus.com/global/nord-ce-3-lite-5g/specs",
+      "http_status": 200,
+      "content_sha256": "807c556f704ed31d5a2689812f14a19f0351ca3b3fee7500f7094f544195d42f",
+      "model_mentioned": true,
+      "storage_not_found": [
+        "256GB"
+      ],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 220,
+      "name": "Motorola edge 50 ultra",
+      "status": "fetched",
+      "url": "https://www.motorola.com/gb/en/p/phones/motorola-edge-50-ultra/",
+      "final_url": "https://www.motorola.com/gb/en/error/404",
+      "http_status": 200,
+      "content_sha256": "039cb02f215db9e9cb84b59f551d6f1d30b5e129c86e34e8296b4156fe9fe881",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "1TB",
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Forest Grey",
+        "Nordic Wood",
+        "Peach Fuzz"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 221,
+      "name": "Motorola edge 50 pro",
+      "status": "fetched",
+      "url": "https://www.motorola.com/gb/en/p/phones/motorola-edge-50-pro/",
+      "final_url": "https://www.motorola.com/gb/en/error/404",
+      "http_status": 200,
+      "content_sha256": "e8864bde7c03c8cf835d636fecf1c37cce2451d67951a4dd4f637f11c42aec4e",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB",
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Black Beauty",
+        "Luxe Lavender",
+        "Moonlight Pearl"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 222,
+      "name": "Motorola edge 50 fusion",
+      "status": "fetched",
+      "url": "https://www.motorola.com/gb/en/p/phones/motorola-edge-50-fusion/",
+      "final_url": "https://www.motorola.com/gb/en/error/404",
+      "http_status": 200,
+      "content_sha256": "12067dcf5d2b6fcfd6036debca96e78e85e4cfbb8e06d8e06d43cea500e98974",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB",
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Forest Blue",
+        "Hot Pink",
+        "Marshmallow Blue"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 223,
+      "name": "Motorola edge 40",
+      "status": "fetched",
+      "url": "https://www.motorola.com/gb/en/p/phones/motorola-edge-40/",
+      "final_url": "https://www.motorola.com/gb/en/error/404",
+      "http_status": 200,
+      "content_sha256": "1020124a025f46f6482722b7a719e18cd692872d8475a43a6ebed58882879ff1",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Eclipse Black",
+        "Lunar Blue",
+        "Nebula Green"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 224,
+      "name": "Motorola edge 40 neo",
+      "status": "fetched",
+      "url": "https://www.motorola.com/gb/en/p/phones/motorola-edge-40-neo/",
+      "final_url": "https://www.motorola.com/gb/en/error/404",
+      "http_status": 200,
+      "content_sha256": "0dc694e3f6fc3c8bc1ee2e4728fd5519ea8b0dafd581a7830a87b093c9846b8b",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Black Beauty",
+        "Caneel Bay",
+        "Soothing Sea"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 225,
+      "name": "Motorola edge 30 ultra",
+      "status": "fetched",
+      "url": "https://www.motorola.com/gb/en/p/phones/motorola-edge-30-ultra/",
+      "final_url": "https://www.motorola.com/gb/en/error/404",
+      "http_status": 200,
+      "content_sha256": "097b9416abfc0cb707c10a40717e61018fe5de0716a762c255a5e939eb96c52f",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB",
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Interstellar Black",
+        "Starlight White"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 226,
+      "name": "Motorola razr 50 ultra",
+      "status": "fetched",
+      "url": "https://www.motorola.com/gb/en/p/phones/motorola-razr-50-ultra/",
+      "final_url": "https://www.motorola.com/gb/en/error/404",
+      "http_status": 200,
+      "content_sha256": "8f9e5b3cd7805fd9ecbaeea2e2c43290c4673137bbb5377bb6b9d9eeded28cd4",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Midnight Blue",
+        "Peach Fuzz",
+        "Spring Green"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 227,
+      "name": "Motorola razr 40 ultra",
+      "status": "fetched",
+      "url": "https://www.motorola.com/gb/en/p/phones/motorola-razr-40-ultra/",
+      "final_url": "https://www.motorola.com/gb/en/error/404",
+      "http_status": 200,
+      "content_sha256": "7a2222053d82a7d570423f44e9d3e24489d601c75574e86dac0279c7ca353b88",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Glacier Blue",
+        "Infinite Black",
+        "Viva Magenta"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 228,
+      "name": "Motorola moto g84 5G",
+      "status": "fetched",
+      "url": "https://www.motorola.com/gb/en/p/phones/motorola-moto-g84-5g/",
+      "final_url": "https://www.motorola.com/gb/en/error/404",
+      "http_status": 200,
+      "content_sha256": "14cad4f262c4290847f7351b082760506e5a900246aa8b0ef22e0d3738a8c231",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Marshmallow Blue",
+        "Midnight Blue",
+        "Viva Magenta"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 229,
+      "name": "Motorola moto g54 5G",
+      "status": "fetched",
+      "url": "https://www.motorola.com/gb/en/p/phones/motorola-moto-g54-5g/",
+      "final_url": "https://www.motorola.com/gb/en/error/404",
+      "http_status": 200,
+      "content_sha256": "daffb09271a5b7a8fbd344ab5152c2b2bbe550498901b8d6f5e3a6842c50ca60",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Midnight Blue",
+        "Mint Green",
+        "Pearl Blue"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 230,
+      "name": "Nothing Phone (1)",
+      "status": "fetched",
+      "url": "https://checkout.nothing.tech/pages/phone-1",
+      "final_url": "https://checkout.nothing.tech/pages/phone-1",
+      "http_status": 200,
+      "content_sha256": "2cd7df75658a0b49f747dd258707b77966bc461ac35174a8bc6a03f8758fdc5b",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [
+        "Black",
+        "White"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 231,
+      "name": "Nothing Phone (2)",
+      "status": "fetched",
+      "url": "https://checkout.nothing.tech/pages/phone-2",
+      "final_url": "https://checkout.nothing.tech/",
+      "http_status": 200,
+      "content_sha256": "c50d753a083ab12238dec21abb6eb841581ccaa92430cf94d71b79f9960cab08",
+      "model_mentioned": true,
+      "storage_not_found": [
+        "128GB",
+        "256GB",
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Dark Grey",
+        "White"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 232,
+      "name": "Nothing Phone (2a)",
+      "status": "fetched",
+      "url": "https://checkout.nothing.tech/pages/phone-2a",
+      "final_url": "https://checkout.nothing.tech/pages/phone-2a",
+      "http_status": 200,
+      "content_sha256": "844f5aefc364eabbe907f2b3d681d5344d6e877573aae26975f2e54d4b5ddecb",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [
+        "Black",
+        "Milk",
+        "White"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 233,
+      "name": "Nothing Phone (2a) Plus",
+      "status": "unavailable",
+      "url": "https://checkout.nothing.tech/pages/phone-2a-plus",
+      "reason": "HTTPError: HTTP Error 429: Too Many Requests",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Black",
+        "Grey"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 234,
+      "name": "Nothing Phone (3a)",
+      "status": "unavailable",
+      "url": "https://checkout.nothing.tech/pages/phone-3a",
+      "reason": "HTTPError: HTTP Error 429: Too Many Requests",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB",
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Black",
+        "Blue",
+        "White"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 235,
+      "name": "Nothing Phone (3a) Pro",
+      "status": "unavailable",
+      "url": "https://checkout.nothing.tech/pages/phone-3a-pro",
+      "reason": "HTTPError: HTTP Error 429: Too Many Requests",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Black",
+        "Grey"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 236,
+      "name": "ASUS ROG Phone 8",
+      "status": "fetched",
+      "url": "https://rog.asus.com/phones/rog-phone-8/spec/",
+      "final_url": "https://rog.asus.com/phones/rog-phone-8/spec/",
+      "http_status": 200,
+      "content_sha256": "aa5dc95d3354db4ee84fb2b3c8a0dd002b1ed6fdbf119279ccad11da53f2d58d",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 237,
+      "name": "ASUS ROG Phone 8 Pro",
+      "status": "fetched",
+      "url": "https://rog.asus.com/phones/rog-phone-8-pro/spec/",
+      "final_url": "https://rog.asus.com/phones/rog-phone-8-pro/spec/",
+      "http_status": 200,
+      "content_sha256": "3ed6066fb535070493b1c8834b3ac69063046c0967fe66fbb1b330d2d696525c",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 238,
+      "name": "ASUS ROG Phone 7",
+      "status": "fetched",
+      "url": "https://rog.asus.com/phones/rog-phone-7/spec/",
+      "final_url": "https://rog.asus.com/phones/rog-phone-7/spec/",
+      "http_status": 200,
+      "content_sha256": "dbf4324d68b8243447c2e909d4e07d8115000530d252329a3be00b85b5cf39ad",
+      "model_mentioned": true,
+      "storage_not_found": [
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Phantom Black"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 239,
+      "name": "ASUS Zenfone 10",
+      "status": "fetched",
+      "url": "https://www.asus.com/mobile-handhelds/phones/zenfone/zenfone-10/techspec/",
+      "final_url": "https://www.asus.com/mobile-handhelds/phones/zenfone/zenfone-10/techspec/",
+      "http_status": 200,
+      "content_sha256": "ad817bdc70c219030909662cea20b4c504965b1c22d50d3eda56545eb6fe8ca0",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 240,
+      "name": "ASUS Zenfone 9",
+      "status": "fetched",
+      "url": "https://www.asus.com/mobile-handhelds/phones/zenfone/zenfone-9/techspec/",
+      "final_url": "https://www.asus.com/mobile-handhelds/phones/zenfone/zenfone-9/techspec/",
+      "http_status": 200,
+      "content_sha256": "bfe14a7aa484a90d81cc7c93cdf366016a326724c77f64a3d524bc595bc9e6c1",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 241,
+      "name": "Sony Xperia 1 VI",
+      "status": "unavailable",
+      "url": "https://www.sony.co.uk/electronics/support/mobile-phones-tablets-mobile-phones/xperia-1-vi/specifications",
+      "reason": "HTTPError: HTTP Error 403: Forbidden",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Black",
+        "Khaki Green",
+        "Platinum Silver"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 242,
+      "name": "Sony Xperia 1 V",
+      "status": "unavailable",
+      "url": "https://www.sony.co.uk/electronics/support/mobile-phones-tablets-mobile-phones/xperia-1-v/specifications",
+      "reason": "HTTPError: HTTP Error 403: Forbidden",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB"
+      ],
+      "colors_not_found": [
+        "Black",
+        "Khaki Green",
+        "Platinum Silver"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 243,
+      "name": "Sony Xperia 5 V",
+      "status": "unavailable",
+      "url": "https://www.sony.co.uk/electronics/support/mobile-phones-tablets-mobile-phones/xperia-5-v/specifications",
+      "reason": "HTTPError: HTTP Error 403: Forbidden",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB"
+      ],
+      "colors_not_found": [
+        "Black",
+        "Blue",
+        "Platinum Silver"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 244,
+      "name": "Sony Xperia 10 VI",
+      "status": "unavailable",
+      "url": "https://www.sony.co.uk/electronics/support/mobile-phones-tablets-mobile-phones/xperia-10-vi/specifications",
+      "reason": "HTTPError: HTTP Error 403: Forbidden",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB"
+      ],
+      "colors_not_found": [
+        "Black",
+        "Blue",
+        "White"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 245,
+      "name": "Sony Xperia 10 V",
+      "status": "unavailable",
+      "url": "https://www.sony.co.uk/electronics/support/mobile-phones-tablets-mobile-phones/xperia-10-v/specifications",
+      "reason": "HTTPError: HTTP Error 403: Forbidden",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "128GB"
+      ],
+      "colors_not_found": [
+        "Black",
+        "Lavender",
+        "Sage Green",
+        "White"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 246,
+      "name": "TECNO CAMON 30 Premier 5G",
+      "status": "fetched",
+      "url": "https://www.tecno-mobile.com/phones/tech-specs/techspecs/camon-30-premier-5g/",
+      "final_url": "https://www.tecno-mobile.com/phones/tech-specs/techspecs/camon-30-premier-5g/",
+      "http_status": 200,
+      "content_sha256": "d05ebc1e16c45eef7f48d2cbbdaaa184c831d0d3e84d4392f4688a95b7d559fe",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 247,
+      "name": "TECNO CAMON 30 Pro 5G",
+      "status": "fetched",
+      "url": "https://www.tecno-mobile.com/phones/tech-specs/techspecs/camon-30-pro-5g/",
+      "final_url": "https://www.tecno-mobile.com/phones/tech-specs/techspecs/camon-30-pro-5g/",
+      "http_status": 200,
+      "content_sha256": "e5ab6ff1490c14c32405db755edf8db5ff5c368933f75e650aa1b01410820fdc",
+      "model_mentioned": true,
+      "storage_not_found": [
+        "256GB"
+      ],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 248,
+      "name": "TECNO CAMON 30 5G",
+      "status": "fetched",
+      "url": "https://www.tecno-mobile.com/phones/tech-specs/techspecs/camon-30-5g/",
+      "final_url": "https://www.tecno-mobile.com/phones/tech-specs/techspecs/camon-30-5g/",
+      "http_status": 200,
+      "content_sha256": "3010ca44623bb37e2e4e8fef4864b72dd384caa92961e7045f0d84cb45c22d75",
+      "model_mentioned": true,
+      "storage_not_found": [],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 249,
+      "name": "TECNO PHANTOM V Fold",
+      "status": "fetched",
+      "url": "https://www.tecno-mobile.com/phones/tech-specs/techspecs/phantom-v-fold/",
+      "final_url": "https://www.tecno-mobile.com/phones/",
+      "http_status": 200,
+      "content_sha256": "a962f1e7192e1cee23916ca284670b86b1e34b071d867331de840184ba17465f",
+      "model_mentioned": false,
+      "storage_not_found": [
+        "256GB",
+        "512GB"
+      ],
+      "colors_not_found": [
+        "Black",
+        "White"
+      ],
+      "review": "manual_regional_review_required"
+    },
+    {
+      "product_id": 250,
+      "name": "TECNO POVA 6 Pro 5G",
+      "status": "fetched",
+      "url": "https://www.tecno-mobile.com/phones/tech-specs/techspecs/pova-6-pro-5g/",
+      "final_url": "https://www.tecno-mobile.com/phones/tech-specs/techspecs/pova-6-pro-5g/",
+      "http_status": 200,
+      "content_sha256": "82b83d45c098f9cdc746d19271d844ceba2463b5785971adc1f8f65a8559233e",
+      "model_mentioned": true,
+      "storage_not_found": [
+        "256GB"
+      ],
+      "colors_not_found": [],
+      "review": "manual_regional_review_required"
+    }
+  ],
+  "fetched_models": 135,
+  "model_mentions": 110,
+  "unavailable_models": 95,
+  "note": "Automated string-presence diagnostics only; not certification of exact regional SKUs, current stock or pricing."
+}

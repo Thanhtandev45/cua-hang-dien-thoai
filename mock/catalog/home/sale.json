@@ -1,0 +1,327 @@
+[
+  {
+    "id": 230,
+    "slug": "nothing-phone-1",
+    "name": "Nothing Phone (1)",
+    "brand": {
+      "id": 11,
+      "name": "Nothing",
+      "slug": "nothing"
+    },
+    "segment": "midrange",
+    "summary": "Nothing Phone (1) · Tầm trung · Giá và tồn kho demo.",
+    "description": "Nothing Phone (1) thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+    "images": [
+      "assets/images/catalog/nothing-phone-1-1.svg",
+      "assets/images/catalog/nothing-phone-1-2.svg"
+    ],
+    "specs": {
+      "Màn hình": "",
+      "Chip": "",
+      "RAM": "",
+      "Bộ nhớ": "128GB / 256GB",
+      "Pin": "",
+      "Camera": ""
+    },
+    "featured": true,
+    "is_new": false,
+    "created_at": "2026-11-01T03:50:00+07:00",
+    "is_demo": true,
+    "status": "published",
+    "data_quality": "reference_options",
+    "source_url": "https://checkout.nothing.tech/pages/phone-1",
+    "verification": {
+      "model": "curated_real_model",
+      "options": "reference_requires_regional_review",
+      "specs": "unverified_fields_empty",
+      "price_stock": "demo_only"
+    },
+    "variants": [
+      {
+        "id": 23001,
+        "sku": "NOVA-0230-023001",
+        "color": "Black",
+        "color_hex": "#30353c",
+        "storage": "128GB",
+        "price": 6990000,
+        "original_price": 7490000,
+        "stock": 0,
+        "image": "assets/images/catalog/nothing-phone-1-1.svg"
+      },
+      {
+        "id": 23002,
+        "sku": "NOVA-0230-023002",
+        "color": "Black",
+        "color_hex": "#30353c",
+        "storage": "256GB",
+        "price": 7990000,
+        "original_price": 8490000,
+        "stock": 17,
+        "image": "assets/images/catalog/nothing-phone-1-1.svg"
+      },
+      {
+        "id": 23003,
+        "sku": "NOVA-0230-023003",
+        "color": "White",
+        "color_hex": "#e8e5dc",
+        "storage": "128GB",
+        "price": 7040000,
+        "original_price": 7540000,
+        "stock": 24,
+        "image": "assets/images/catalog/nothing-phone-1-2.svg"
+      },
+      {
+        "id": 23004,
+        "sku": "NOVA-0230-023004",
+        "color": "White",
+        "color_hex": "#e8e5dc",
+        "storage": "256GB",
+        "price": 8040000,
+        "original_price": 8540000,
+        "stock": 7,
+        "image": "assets/images/catalog/nothing-phone-1-2.svg"
+      }
+    ]
+  },
+  {
+    "id": 221,
+    "slug": "motorola-edge-50-pro",
+    "name": "Motorola edge 50 pro",
+    "brand": {
+      "id": 10,
+      "name": "Motorola",
+      "slug": "motorola"
+    },
+    "segment": "upper-midrange",
+    "summary": "Motorola edge 50 pro · Cận cao cấp · Giá và tồn kho demo.",
+    "description": "Motorola edge 50 pro thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+    "images": [
+      "assets/images/catalog/motorola-edge-50-pro-1.svg",
+      "assets/images/catalog/motorola-edge-50-pro-2.svg",
+      "assets/images/catalog/motorola-edge-50-pro-3.svg"
+    ],
+    "specs": {
+      "Màn hình": "",
+      "Chip": "",
+      "RAM": "",
+      "Bộ nhớ": "256GB / 512GB",
+      "Pin": "",
+      "Camera": ""
+    },
+    "featured": true,
+    "is_new": false,
+    "created_at": "2026-11-01T03:41:00+07:00",
+    "is_demo": true,
+    "status": "published",
+    "data_quality": "reference_options",
+    "source_url": "https://www.motorola.com/gb/en/p/phones/motorola-edge-50-pro/",
+    "verification": {
+      "model": "curated_real_model",
+      "options": "reference_requires_regional_review",
+      "specs": "unverified_fields_empty",
+      "price_stock": "demo_only"
+    },
+    "variants": [
+      {
+        "id": 22101,
+        "sku": "NOVA-0221-022101",
+        "color": "Black Beauty",
+        "color_hex": "#30353c",
+        "storage": "256GB",
+        "price": 13990000,
+        "original_price": 14490000,
+        "stock": 19,
+        "image": "assets/images/catalog/motorola-edge-50-pro-1.svg"
+      },
+      {
+        "id": 22102,
+        "sku": "NOVA-0221-022102",
+        "color": "Black Beauty",
+        "color_hex": "#30353c",
+        "storage": "512GB",
+        "price": 14990000,
+        "original_price": 15490000,
+        "stock": 2,
+        "image": "assets/images/catalog/motorola-edge-50-pro-1.svg"
+      },
+      {
+        "id": 22103,
+        "sku": "NOVA-0221-022103",
+        "color": "Luxe Lavender",
+        "color_hex": "#beb0cc",
+        "storage": "256GB",
+        "price": 14040000,
+        "original_price": 14540000,
+        "stock": 9,
+        "image": "assets/images/catalog/motorola-edge-50-pro-2.svg"
+      },
+      {
+        "id": 22104,
+        "sku": "NOVA-0221-022104",
+        "color": "Luxe Lavender",
+        "color_hex": "#beb0cc",
+        "storage": "512GB",
+        "price": 15040000,
+        "original_price": 15540000,
+        "stock": 16,
+        "image": "assets/images/catalog/motorola-edge-50-pro-2.svg"
+      },
+      {
+        "id": 22105,
+        "sku": "NOVA-0221-022105",
+        "color": "Moonlight Pearl",
+        "color_hex": "#9aaab1",
+        "storage": "256GB",
+        "price": 14090000,
+        "original_price": 14590000,
+        "stock": 23,
+        "image": "assets/images/catalog/motorola-edge-50-pro-3.svg"
+      },
+      {
+        "id": 22106,
+        "sku": "NOVA-0221-022106",
+        "color": "Moonlight Pearl",
+        "color_hex": "#9aaab1",
+        "storage": "512GB",
+        "price": 15090000,
+        "original_price": 15590000,
+        "stock": 6,
+        "image": "assets/images/catalog/motorola-edge-50-pro-3.svg"
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "slug": "oneplus-12",
+    "name": "OnePlus 12",
+    "brand": {
+      "id": 9,
+      "name": "OnePlus",
+      "slug": "oneplus"
+    },
+    "segment": "flagship",
+    "summary": "OnePlus 12 · Cao cấp · Giá và tồn kho demo.",
+    "description": "OnePlus 12 thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+    "images": [
+      "assets/images/catalog/oneplus-12-1.svg",
+      "assets/images/catalog/oneplus-12-2.svg"
+    ],
+    "specs": {
+      "Màn hình": "",
+      "Chip": "",
+      "RAM": "",
+      "Bộ nhớ": "256GB / 512GB",
+      "Pin": "",
+      "Camera": ""
+    },
+    "featured": true,
+    "is_new": false,
+    "created_at": "2026-11-01T03:25:00+07:00",
+    "is_demo": true,
+    "status": "published",
+    "data_quality": "reference_options",
+    "source_url": "https://www.oneplus.com/global/12/specs",
+    "verification": {
+      "model": "curated_real_model",
+      "options": "reference_requires_regional_review",
+      "specs": "unverified_fields_empty",
+      "price_stock": "demo_only"
+    },
+    "variants": [
+      {
+        "id": 20501,
+        "sku": "NOVA-0205-020501",
+        "color": "Silky Black",
+        "color_hex": "#30353c",
+        "storage": "256GB",
+        "price": 16990000,
+        "original_price": 17490000,
+        "stock": 3,
+        "image": "assets/images/catalog/oneplus-12-1.svg"
+      },
+      {
+        "id": 20502,
+        "sku": "NOVA-0205-020502",
+        "color": "Silky Black",
+        "color_hex": "#30353c",
+        "storage": "512GB",
+        "price": 17990000,
+        "original_price": 18490000,
+        "stock": 10,
+        "image": "assets/images/catalog/oneplus-12-1.svg"
+      },
+      {
+        "id": 20503,
+        "sku": "NOVA-0205-020503",
+        "color": "Flowy Emerald",
+        "color_hex": "#9aaab1",
+        "storage": "256GB",
+        "price": 17040000,
+        "original_price": 17540000,
+        "stock": 17,
+        "image": "assets/images/catalog/oneplus-12-2.svg"
+      },
+      {
+        "id": 20504,
+        "sku": "NOVA-0205-020504",
+        "color": "Flowy Emerald",
+        "color_hex": "#9aaab1",
+        "storage": "512GB",
+        "price": 18040000,
+        "original_price": 18540000,
+        "stock": 0,
+        "image": "assets/images/catalog/oneplus-12-2.svg"
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "slug": "asus-rog-phone-8-pro",
+    "name": "ASUS ROG Phone 8 Pro",
+    "brand": {
+      "id": 12,
+      "name": "ASUS",
+      "slug": "asus"
+    },
+    "segment": "gaming",
+    "summary": "ASUS ROG Phone 8 Pro · Gaming · Giá và tồn kho demo.",
+    "description": "ASUS ROG Phone 8 Pro thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+    "images": [
+      "assets/images/catalog/asus-rog-phone-8-pro-1.svg"
+    ],
+    "specs": {
+      "Màn hình": "",
+      "Chip": "",
+      "RAM": "",
+      "Bộ nhớ": "512GB",
+      "Pin": "",
+      "Camera": ""
+    },
+    "featured": true,
+    "is_new": false,
+    "created_at": "2026-11-01T03:57:00+07:00",
+    "is_demo": true,
+    "status": "published",
+    "data_quality": "reference_options",
+    "source_url": "https://rog.asus.com/phones/rog-phone-8-pro/spec/",
+    "verification": {
+      "model": "curated_real_model",
+      "options": "reference_requires_regional_review",
+      "specs": "unverified_fields_empty",
+      "price_stock": "demo_only"
+    },
+    "variants": [
+      {
+        "id": 23701,
+        "sku": "NOVA-0237-023701",
+        "color": "Phantom Black",
+        "color_hex": "#30353c",
+        "storage": "512GB",
+        "price": 24990000,
+        "original_price": 25490000,
+        "stock": 11,
+        "image": "assets/images/catalog/asus-rog-phone-8-pro-1.svg"
+      }
+    ]
+  }
+]

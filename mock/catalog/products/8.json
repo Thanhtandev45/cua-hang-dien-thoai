@@ -1,0 +1,75 @@
+{
+  "id": 8,
+  "slug": "realme-12-pro-5g",
+  "name": "realme 12 Pro+ 5G",
+  "brand": {
+    "id": 6,
+    "name": "realme",
+    "slug": "realme"
+  },
+  "summary": "Thiết kế hiện đại, màn hình sống động và trải nghiệm linh hoạt mỗi ngày.",
+  "description": "realme 12 Pro+ 5G là lựa chọn dành cho những trải nghiệm công nghệ hằng ngày: lưu giữ khoảnh khắc, làm việc và giải trí. Thông tin, giá và cấu hình trong bản trình diễn là dữ liệu phát triển, cần được thay thế bằng dữ liệu đã xác minh từ backend trước khi bán hàng.",
+  "images": [
+    "assets/images/realme-gold.svg",
+    "assets/images/phone-front.svg"
+  ],
+  "specs": {
+    "Màn hình": "AMOLED, cảm ứng đa điểm",
+    "Bộ nhớ": "256GB / 512GB",
+    "Kết nối": "Wi-Fi, Bluetooth, USB-C",
+    "Camera": "Hệ thống camera đa ống kính",
+    "Tình trạng": "Dữ liệu sản phẩm mẫu",
+    "Bảo hành": "Chính sách mẫu: 12 tháng"
+  },
+  "featured": true,
+  "is_new": false,
+  "created_at": "2026-10-21T08:00:00+07:00",
+  "variants": [
+    {
+      "id": 801,
+      "color": "Vàng",
+      "color_hex": "#c9ae7f",
+      "storage": "256GB",
+      "price": 9490000,
+      "original_price": 11490000,
+      "stock": 9,
+      "image": "assets/images/realme-gold.svg",
+      "sku": "NOVA-0008-000801"
+    },
+    {
+      "id": 802,
+      "color": "Vàng",
+      "color_hex": "#c9ae7f",
+      "storage": "512GB",
+      "price": 11490000,
+      "original_price": 13490000,
+      "stock": 4,
+      "image": "assets/images/realme-gold.svg",
+      "sku": "NOVA-0008-000802"
+    },
+    {
+      "id": 803,
+      "color": "Đen",
+      "color_hex": "#34363a",
+      "storage": "256GB",
+      "price": 9490000,
+      "original_price": 11490000,
+      "stock": 3,
+      "image": "assets/images/realme-gold.svg",
+      "sku": "NOVA-0008-000803"
+    },
+    {
+      "id": 804,
+      "color": "Đen",
+      "color_hex": "#34363a",
+      "storage": "512GB",
+      "price": 11490000,
+      "original_price": 13490000,
+      "stock": 2,
+      "image": "assets/images/realme-gold.svg",
+      "sku": "NOVA-0008-000804"
+    }
+  ],
+  "is_demo": true,
+  "data_quality": "legacy_unverified"
+}

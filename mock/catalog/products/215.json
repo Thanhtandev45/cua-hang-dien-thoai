@@ -1,0 +1,62 @@
+{
+  "id": 215,
+  "slug": "oneplus-open",
+  "name": "OnePlus Open",
+  "brand": {
+    "id": 9,
+    "name": "OnePlus",
+    "slug": "oneplus"
+  },
+  "segment": "foldable",
+  "summary": "OnePlus Open · Màn hình gập · Giá và tồn kho demo.",
+  "description": "OnePlus Open thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/oneplus-open-1.svg",
+    "assets/images/catalog/oneplus-open-2.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "512GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": false,
+  "is_new": false,
+  "created_at": "2026-11-01T03:35:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.oneplus.com/global/open/specs",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 21501,
+      "sku": "NOVA-0215-021501",
+      "color": "Emerald Dusk",
+      "color_hex": "#9aaab1",
+      "storage": "512GB",
+      "price": 32990000,
+      "original_price": 33490000,
+      "stock": 1,
+      "image": "assets/images/catalog/oneplus-open-1.svg"
+    },
+    {
+      "id": 21502,
+      "sku": "NOVA-0215-021502",
+      "color": "Voyager Black",
+      "color_hex": "#30353c",
+      "storage": "512GB",
+      "price": 33040000,
+      "original_price": 33540000,
+      "stock": 8,
+      "image": "assets/images/catalog/oneplus-open-2.svg"
+    }
+  ]
+}

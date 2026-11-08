@@ -1,0 +1,174 @@
+{
+  "id": 54,
+  "slug": "samsung-galaxy-s22-ultra",
+  "name": "Samsung Galaxy S22 Ultra",
+  "brand": {
+    "id": 2,
+    "name": "Samsung",
+    "slug": "samsung"
+  },
+  "segment": "flagship",
+  "summary": "Samsung Galaxy S22 Ultra · Cao cấp · Giá và tồn kho demo.",
+  "description": "Samsung Galaxy S22 Ultra thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/samsung-galaxy-s22-ultra-1.svg",
+    "assets/images/catalog/samsung-galaxy-s22-ultra-2.svg",
+    "assets/images/catalog/samsung-galaxy-s22-ultra-3.svg",
+    "assets/images/catalog/samsung-galaxy-s22-ultra-4.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB / 256GB / 512GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": true,
+  "is_new": false,
+  "created_at": "2026-11-01T00:54:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.samsung.com/global/galaxy/galaxy-s22-ultra/specs/",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 5401,
+      "sku": "NOVA-0054-005401",
+      "color": "Phantom Black",
+      "color_hex": "#30353c",
+      "storage": "128GB",
+      "price": 15990000,
+      "original_price": 16490000,
+      "stock": 2,
+      "image": "assets/images/catalog/samsung-galaxy-s22-ultra-1.svg"
+    },
+    {
+      "id": 5402,
+      "sku": "NOVA-0054-005402",
+      "color": "Phantom Black",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 16990000,
+      "original_price": 17490000,
+      "stock": 9,
+      "image": "assets/images/catalog/samsung-galaxy-s22-ultra-1.svg"
+    },
+    {
+      "id": 5403,
+      "sku": "NOVA-0054-005403",
+      "color": "Phantom Black",
+      "color_hex": "#30353c",
+      "storage": "512GB",
+      "price": 17990000,
+      "original_price": 18490000,
+      "stock": 16,
+      "image": "assets/images/catalog/samsung-galaxy-s22-ultra-1.svg"
+    },
+    {
+      "id": 5404,
+      "sku": "NOVA-0054-005404",
+      "color": "Phantom White",
+      "color_hex": "#e8e5dc",
+      "storage": "128GB",
+      "price": 16040000,
+      "original_price": 16540000,
+      "stock": 23,
+      "image": "assets/images/catalog/samsung-galaxy-s22-ultra-2.svg"
+    },
+    {
+      "id": 5405,
+      "sku": "NOVA-0054-005405",
+      "color": "Phantom White",
+      "color_hex": "#e8e5dc",
+      "storage": "256GB",
+      "price": 17040000,
+      "original_price": 17540000,
+      "stock": 6,
+      "image": "assets/images/catalog/samsung-galaxy-s22-ultra-2.svg"
+    },
+    {
+      "id": 5406,
+      "sku": "NOVA-0054-005406",
+      "color": "Phantom White",
+      "color_hex": "#e8e5dc",
+      "storage": "512GB",
+      "price": 18040000,
+      "original_price": 18540000,
+      "stock": 0,
+      "image": "assets/images/catalog/samsung-galaxy-s22-ultra-2.svg"
+    },
+    {
+      "id": 5407,
+      "sku": "NOVA-0054-005407",
+      "color": "Green",
+      "color_hex": "#729183",
+      "storage": "128GB",
+      "price": 16090000,
+      "original_price": 16590000,
+      "stock": 20,
+      "image": "assets/images/catalog/samsung-galaxy-s22-ultra-3.svg"
+    },
+    {
+      "id": 5408,
+      "sku": "NOVA-0054-005408",
+      "color": "Green",
+      "color_hex": "#729183",
+      "storage": "256GB",
+      "price": 17090000,
+      "original_price": 17590000,
+      "stock": 3,
+      "image": "assets/images/catalog/samsung-galaxy-s22-ultra-3.svg"
+    },
+    {
+      "id": 5409,
+      "sku": "NOVA-0054-005409",
+      "color": "Green",
+      "color_hex": "#729183",
+      "storage": "512GB",
+      "price": 18090000,
+      "original_price": 18590000,
+      "stock": 10,
+      "image": "assets/images/catalog/samsung-galaxy-s22-ultra-3.svg"
+    },
+    {
+      "id": 5410,
+      "sku": "NOVA-0054-005410",
+      "color": "Burgundy",
+      "color_hex": "#9aaab1",
+      "storage": "128GB",
+      "price": 16140000,
+      "original_price": 16640000,
+      "stock": 17,
+      "image": "assets/images/catalog/samsung-galaxy-s22-ultra-4.svg"
+    },
+    {
+      "id": 5411,
+      "sku": "NOVA-0054-005411",
+      "color": "Burgundy",
+      "color_hex": "#9aaab1",
+      "storage": "256GB",
+      "price": 17140000,
+      "original_price": 17640000,
+      "stock": 24,
+      "image": "assets/images/catalog/samsung-galaxy-s22-ultra-4.svg"
+    },
+    {
+      "id": 5412,
+      "sku": "NOVA-0054-005412",
+      "color": "Burgundy",
+      "color_hex": "#9aaab1",
+      "storage": "512GB",
+      "price": 18140000,
+      "original_price": 18640000,
+      "stock": 7,
+      "image": "assets/images/catalog/samsung-galaxy-s22-ultra-4.svg"
+    }
+  ]
+}

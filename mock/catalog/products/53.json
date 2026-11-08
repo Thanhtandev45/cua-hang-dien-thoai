@@ -1,0 +1,130 @@
+{
+  "id": 53,
+  "slug": "samsung-galaxy-s22-plus",
+  "name": "Samsung Galaxy S22+",
+  "brand": {
+    "id": 2,
+    "name": "Samsung",
+    "slug": "samsung"
+  },
+  "segment": "flagship",
+  "summary": "Samsung Galaxy S22+ · Cao cấp · Giá và tồn kho demo.",
+  "description": "Samsung Galaxy S22+ thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/samsung-galaxy-s22-plus-1.svg",
+    "assets/images/catalog/samsung-galaxy-s22-plus-2.svg",
+    "assets/images/catalog/samsung-galaxy-s22-plus-3.svg",
+    "assets/images/catalog/samsung-galaxy-s22-plus-4.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB / 256GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": false,
+  "is_new": false,
+  "created_at": "2026-11-01T00:53:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.samsung.com/global/galaxy/galaxy-s22-plus/specs/",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 5301,
+      "sku": "NOVA-0053-005301",
+      "color": "Phantom Black",
+      "color_hex": "#30353c",
+      "storage": "128GB",
+      "price": 12990000,
+      "original_price": 13490000,
+      "stock": 19,
+      "image": "assets/images/catalog/samsung-galaxy-s22-plus-1.svg"
+    },
+    {
+      "id": 5302,
+      "sku": "NOVA-0053-005302",
+      "color": "Phantom Black",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 13990000,
+      "original_price": 14490000,
+      "stock": 2,
+      "image": "assets/images/catalog/samsung-galaxy-s22-plus-1.svg"
+    },
+    {
+      "id": 5303,
+      "sku": "NOVA-0053-005303",
+      "color": "Phantom White",
+      "color_hex": "#e8e5dc",
+      "storage": "128GB",
+      "price": 13040000,
+      "original_price": 13540000,
+      "stock": 0,
+      "image": "assets/images/catalog/samsung-galaxy-s22-plus-2.svg"
+    },
+    {
+      "id": 5304,
+      "sku": "NOVA-0053-005304",
+      "color": "Phantom White",
+      "color_hex": "#e8e5dc",
+      "storage": "256GB",
+      "price": 14040000,
+      "original_price": 14540000,
+      "stock": 16,
+      "image": "assets/images/catalog/samsung-galaxy-s22-plus-2.svg"
+    },
+    {
+      "id": 5305,
+      "sku": "NOVA-0053-005305",
+      "color": "Green",
+      "color_hex": "#729183",
+      "storage": "128GB",
+      "price": 13090000,
+      "original_price": 13590000,
+      "stock": 23,
+      "image": "assets/images/catalog/samsung-galaxy-s22-plus-3.svg"
+    },
+    {
+      "id": 5306,
+      "sku": "NOVA-0053-005306",
+      "color": "Green",
+      "color_hex": "#729183",
+      "storage": "256GB",
+      "price": 14090000,
+      "original_price": 14590000,
+      "stock": 6,
+      "image": "assets/images/catalog/samsung-galaxy-s22-plus-3.svg"
+    },
+    {
+      "id": 5307,
+      "sku": "NOVA-0053-005307",
+      "color": "Pink Gold",
+      "color_hex": "#c7af84",
+      "storage": "128GB",
+      "price": 13140000,
+      "original_price": 13640000,
+      "stock": 13,
+      "image": "assets/images/catalog/samsung-galaxy-s22-plus-4.svg"
+    },
+    {
+      "id": 5308,
+      "sku": "NOVA-0053-005308",
+      "color": "Pink Gold",
+      "color_hex": "#c7af84",
+      "storage": "256GB",
+      "price": 14140000,
+      "original_price": 14640000,
+      "stock": 20,
+      "image": "assets/images/catalog/samsung-galaxy-s22-plus-4.svg"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": 236,
+  "slug": "asus-rog-phone-8",
+  "name": "ASUS ROG Phone 8",
+  "brand": {
+    "id": 12,
+    "name": "ASUS",
+    "slug": "asus"
+  },
+  "segment": "gaming",
+  "summary": "ASUS ROG Phone 8 · Gaming · Giá và tồn kho demo.",
+  "description": "ASUS ROG Phone 8 thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/asus-rog-phone-8-1.svg",
+    "assets/images/catalog/asus-rog-phone-8-2.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "256GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": true,
+  "is_new": false,
+  "created_at": "2026-11-01T03:56:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://rog.asus.com/phones/rog-phone-8/spec/",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 23601,
+      "sku": "NOVA-0236-023601",
+      "color": "Phantom Black",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 18990000,
+      "original_price": 18990000,
+      "stock": 4,
+      "image": "assets/images/catalog/asus-rog-phone-8-1.svg"
+    },
+    {
+      "id": 23602,
+      "sku": "NOVA-0236-023602",
+      "color": "Rebel Grey",
+      "color_hex": "#8e969d",
+      "storage": "256GB",
+      "price": 19040000,
+      "original_price": 19040000,
+      "stock": 11,
+      "image": "assets/images/catalog/asus-rog-phone-8-2.svg"
+    }
+  ]
+}

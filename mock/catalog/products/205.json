@@ -1,0 +1,84 @@
+{
+  "id": 205,
+  "slug": "oneplus-12",
+  "name": "OnePlus 12",
+  "brand": {
+    "id": 9,
+    "name": "OnePlus",
+    "slug": "oneplus"
+  },
+  "segment": "flagship",
+  "summary": "OnePlus 12 · Cao cấp · Giá và tồn kho demo.",
+  "description": "OnePlus 12 thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/oneplus-12-1.svg",
+    "assets/images/catalog/oneplus-12-2.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "256GB / 512GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": true,
+  "is_new": false,
+  "created_at": "2026-11-01T03:25:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.oneplus.com/global/12/specs",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 20501,
+      "sku": "NOVA-0205-020501",
+      "color": "Silky Black",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 16990000,
+      "original_price": 17490000,
+      "stock": 3,
+      "image": "assets/images/catalog/oneplus-12-1.svg"
+    },
+    {
+      "id": 20502,
+      "sku": "NOVA-0205-020502",
+      "color": "Silky Black",
+      "color_hex": "#30353c",
+      "storage": "512GB",
+      "price": 17990000,
+      "original_price": 18490000,
+      "stock": 10,
+      "image": "assets/images/catalog/oneplus-12-1.svg"
+    },
+    {
+      "id": 20503,
+      "sku": "NOVA-0205-020503",
+      "color": "Flowy Emerald",
+      "color_hex": "#9aaab1",
+      "storage": "256GB",
+      "price": 17040000,
+      "original_price": 17540000,
+      "stock": 17,
+      "image": "assets/images/catalog/oneplus-12-2.svg"
+    },
+    {
+      "id": 20504,
+      "sku": "NOVA-0205-020504",
+      "color": "Flowy Emerald",
+      "color_hex": "#9aaab1",
+      "storage": "512GB",
+      "price": 18040000,
+      "original_price": 18540000,
+      "stock": 0,
+      "image": "assets/images/catalog/oneplus-12-2.svg"
+    }
+  ]
+}

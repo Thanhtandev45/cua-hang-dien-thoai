@@ -1,0 +1,75 @@
+{
+  "id": 11,
+  "slug": "samsung-galaxy-s24",
+  "name": "Samsung Galaxy S24+",
+  "brand": {
+    "id": 2,
+    "name": "Samsung",
+    "slug": "samsung"
+  },
+  "summary": "Thiết kế hiện đại, màn hình sống động và trải nghiệm linh hoạt mỗi ngày.",
+  "description": "Samsung Galaxy S24+ là lựa chọn dành cho những trải nghiệm công nghệ hằng ngày: lưu giữ khoảnh khắc, làm việc và giải trí. Thông tin, giá và cấu hình trong bản trình diễn là dữ liệu phát triển, cần được thay thế bằng dữ liệu đã xác minh từ backend trước khi bán hàng.",
+  "images": [
+    "assets/images/samsung-violet.svg",
+    "assets/images/phone-front.svg"
+  ],
+  "specs": {
+    "Màn hình": "AMOLED, cảm ứng đa điểm",
+    "Bộ nhớ": "256GB / 512GB",
+    "Kết nối": "Wi-Fi, Bluetooth, USB-C",
+    "Camera": "Hệ thống camera đa ống kính",
+    "Tình trạng": "Dữ liệu sản phẩm mẫu",
+    "Bảo hành": "Chính sách mẫu: 12 tháng"
+  },
+  "featured": false,
+  "is_new": false,
+  "created_at": "2026-10-18T08:00:00+07:00",
+  "variants": [
+    {
+      "id": 1101,
+      "color": "Tím cobalt",
+      "color_hex": "#777184",
+      "storage": "256GB",
+      "price": 19990000,
+      "original_price": 21990000,
+      "stock": 12,
+      "image": "assets/images/samsung-violet.svg",
+      "sku": "NOVA-0011-001101"
+    },
+    {
+      "id": 1102,
+      "color": "Tím cobalt",
+      "color_hex": "#777184",
+      "storage": "512GB",
+      "price": 21990000,
+      "original_price": 23990000,
+      "stock": 4,
+      "image": "assets/images/samsung-violet.svg",
+      "sku": "NOVA-0011-001102"
+    },
+    {
+      "id": 1103,
+      "color": "Đen",
+      "color_hex": "#34363a",
+      "storage": "256GB",
+      "price": 19990000,
+      "original_price": 21990000,
+      "stock": 3,
+      "image": "assets/images/samsung-violet.svg",
+      "sku": "NOVA-0011-001103"
+    },
+    {
+      "id": 1104,
+      "color": "Đen",
+      "color_hex": "#34363a",
+      "storage": "512GB",
+      "price": 21990000,
+      "original_price": 23990000,
+      "stock": 2,
+      "image": "assets/images/samsung-violet.svg",
+      "sku": "NOVA-0011-001104"
+    }
+  ],
+  "is_demo": true,
+  "data_quality": "legacy_unverified"
+}

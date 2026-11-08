@@ -1,0 +1,130 @@
+{
+  "id": 63,
+  "slug": "samsung-galaxy-a54-5g",
+  "name": "Samsung Galaxy A54 5G",
+  "brand": {
+    "id": 2,
+    "name": "Samsung",
+    "slug": "samsung"
+  },
+  "segment": "midrange",
+  "summary": "Samsung Galaxy A54 5G · Tầm trung · Giá và tồn kho demo.",
+  "description": "Samsung Galaxy A54 5G thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/samsung-galaxy-a54-5g-1.svg",
+    "assets/images/catalog/samsung-galaxy-a54-5g-2.svg",
+    "assets/images/catalog/samsung-galaxy-a54-5g-3.svg",
+    "assets/images/catalog/samsung-galaxy-a54-5g-4.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB / 256GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": true,
+  "is_new": true,
+  "created_at": "2026-11-01T01:03:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.samsung.com/global/galaxy/galaxy-a54-5g/specs/",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 6301,
+      "sku": "NOVA-0063-006301",
+      "color": "Awesome Lime",
+      "color_hex": "#9aaab1",
+      "storage": "128GB",
+      "price": 7490000,
+      "original_price": 7990000,
+      "stock": 17,
+      "image": "assets/images/catalog/samsung-galaxy-a54-5g-1.svg"
+    },
+    {
+      "id": 6302,
+      "sku": "NOVA-0063-006302",
+      "color": "Awesome Lime",
+      "color_hex": "#9aaab1",
+      "storage": "256GB",
+      "price": 8490000,
+      "original_price": 8990000,
+      "stock": 24,
+      "image": "assets/images/catalog/samsung-galaxy-a54-5g-1.svg"
+    },
+    {
+      "id": 6303,
+      "sku": "NOVA-0063-006303",
+      "color": "Awesome Graphite",
+      "color_hex": "#555962",
+      "storage": "128GB",
+      "price": 7540000,
+      "original_price": 8040000,
+      "stock": 7,
+      "image": "assets/images/catalog/samsung-galaxy-a54-5g-2.svg"
+    },
+    {
+      "id": 6304,
+      "sku": "NOVA-0063-006304",
+      "color": "Awesome Graphite",
+      "color_hex": "#555962",
+      "storage": "256GB",
+      "price": 8540000,
+      "original_price": 9040000,
+      "stock": 14,
+      "image": "assets/images/catalog/samsung-galaxy-a54-5g-2.svg"
+    },
+    {
+      "id": 6305,
+      "sku": "NOVA-0063-006305",
+      "color": "Awesome Violet",
+      "color_hex": "#aaa0be",
+      "storage": "128GB",
+      "price": 7590000,
+      "original_price": 8090000,
+      "stock": 21,
+      "image": "assets/images/catalog/samsung-galaxy-a54-5g-3.svg"
+    },
+    {
+      "id": 6306,
+      "sku": "NOVA-0063-006306",
+      "color": "Awesome Violet",
+      "color_hex": "#aaa0be",
+      "storage": "256GB",
+      "price": 8590000,
+      "original_price": 9090000,
+      "stock": 4,
+      "image": "assets/images/catalog/samsung-galaxy-a54-5g-3.svg"
+    },
+    {
+      "id": 6307,
+      "sku": "NOVA-0063-006307",
+      "color": "Awesome White",
+      "color_hex": "#e8e5dc",
+      "storage": "128GB",
+      "price": 7640000,
+      "original_price": 8140000,
+      "stock": 0,
+      "image": "assets/images/catalog/samsung-galaxy-a54-5g-4.svg"
+    },
+    {
+      "id": 6308,
+      "sku": "NOVA-0063-006308",
+      "color": "Awesome White",
+      "color_hex": "#e8e5dc",
+      "storage": "256GB",
+      "price": 8640000,
+      "original_price": 9140000,
+      "stock": 18,
+      "image": "assets/images/catalog/samsung-galaxy-a54-5g-4.svg"
+    }
+  ]
+}

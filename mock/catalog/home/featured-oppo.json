@@ -1,0 +1,385 @@
+[
+  {
+    "id": 114,
+    "slug": "oppo-find-x7-ultra",
+    "name": "OPPO Find X7 Ultra",
+    "brand": {
+      "id": 4,
+      "name": "OPPO",
+      "slug": "oppo"
+    },
+    "segment": "flagship",
+    "summary": "OPPO Find X7 Ultra · Cao cấp · Giá và tồn kho demo.",
+    "description": "OPPO Find X7 Ultra thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+    "images": [
+      "assets/images/catalog/oppo-find-x7-ultra-1.svg",
+      "assets/images/catalog/oppo-find-x7-ultra-2.svg",
+      "assets/images/catalog/oppo-find-x7-ultra-3.svg"
+    ],
+    "specs": {
+      "Màn hình": "",
+      "Chip": "",
+      "RAM": "",
+      "Bộ nhớ": "256GB / 512GB",
+      "Pin": "",
+      "Camera": ""
+    },
+    "featured": true,
+    "is_new": false,
+    "created_at": "2026-11-01T01:54:00+07:00",
+    "is_demo": true,
+    "status": "published",
+    "data_quality": "reference_options",
+    "source_url": "https://www.oppo.com/en/smartphones/series-find-x/find-x7-ultra/specs/",
+    "verification": {
+      "model": "curated_real_model",
+      "options": "reference_requires_regional_review",
+      "specs": "unverified_fields_empty",
+      "price_stock": "demo_only"
+    },
+    "variants": [
+      {
+        "id": 11401,
+        "sku": "NOVA-0114-011401",
+        "color": "Ocean Blue",
+        "color_hex": "#7e9fb9",
+        "storage": "256GB",
+        "price": 22990000,
+        "original_price": 23490000,
+        "stock": 14,
+        "image": "assets/images/catalog/oppo-find-x7-ultra-1.svg"
+      },
+      {
+        "id": 11402,
+        "sku": "NOVA-0114-011402",
+        "color": "Ocean Blue",
+        "color_hex": "#7e9fb9",
+        "storage": "512GB",
+        "price": 23990000,
+        "original_price": 24490000,
+        "stock": 21,
+        "image": "assets/images/catalog/oppo-find-x7-ultra-1.svg"
+      },
+      {
+        "id": 11403,
+        "sku": "NOVA-0114-011403",
+        "color": "Sepia Brown",
+        "color_hex": "#9c8174",
+        "storage": "256GB",
+        "price": 23040000,
+        "original_price": 23540000,
+        "stock": 4,
+        "image": "assets/images/catalog/oppo-find-x7-ultra-2.svg"
+      },
+      {
+        "id": 11404,
+        "sku": "NOVA-0114-011404",
+        "color": "Sepia Brown",
+        "color_hex": "#9c8174",
+        "storage": "512GB",
+        "price": 24040000,
+        "original_price": 24540000,
+        "stock": 0,
+        "image": "assets/images/catalog/oppo-find-x7-ultra-2.svg"
+      },
+      {
+        "id": 11405,
+        "sku": "NOVA-0114-011405",
+        "color": "Tailored Black",
+        "color_hex": "#30353c",
+        "storage": "256GB",
+        "price": 23090000,
+        "original_price": 23590000,
+        "stock": 18,
+        "image": "assets/images/catalog/oppo-find-x7-ultra-3.svg"
+      },
+      {
+        "id": 11406,
+        "sku": "NOVA-0114-011406",
+        "color": "Tailored Black",
+        "color_hex": "#30353c",
+        "storage": "512GB",
+        "price": 24090000,
+        "original_price": 24590000,
+        "stock": 1,
+        "image": "assets/images/catalog/oppo-find-x7-ultra-3.svg"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "slug": "oppo-find-x6",
+    "name": "OPPO Find X6",
+    "brand": {
+      "id": 4,
+      "name": "OPPO",
+      "slug": "oppo"
+    },
+    "segment": "flagship",
+    "summary": "OPPO Find X6 · Cao cấp · Giá và tồn kho demo.",
+    "description": "OPPO Find X6 thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+    "images": [
+      "assets/images/catalog/oppo-find-x6-1.svg",
+      "assets/images/catalog/oppo-find-x6-2.svg",
+      "assets/images/catalog/oppo-find-x6-3.svg"
+    ],
+    "specs": {
+      "Màn hình": "",
+      "Chip": "",
+      "RAM": "",
+      "Bộ nhớ": "256GB / 512GB",
+      "Pin": "",
+      "Camera": ""
+    },
+    "featured": true,
+    "is_new": false,
+    "created_at": "2026-11-01T01:55:00+07:00",
+    "is_demo": true,
+    "status": "published",
+    "data_quality": "reference_options",
+    "source_url": "https://www.oppo.com/en/smartphones/series-find-x/find-x6/specs/",
+    "verification": {
+      "model": "curated_real_model",
+      "options": "reference_requires_regional_review",
+      "specs": "unverified_fields_empty",
+      "price_stock": "demo_only"
+    },
+    "variants": [
+      {
+        "id": 11501,
+        "sku": "NOVA-0115-011501",
+        "color": "Black",
+        "color_hex": "#30353c",
+        "storage": "256GB",
+        "price": 16990000,
+        "original_price": 17490000,
+        "stock": 21,
+        "image": "assets/images/catalog/oppo-find-x6-1.svg"
+      },
+      {
+        "id": 11502,
+        "sku": "NOVA-0115-011502",
+        "color": "Black",
+        "color_hex": "#30353c",
+        "storage": "512GB",
+        "price": 17990000,
+        "original_price": 18490000,
+        "stock": 4,
+        "image": "assets/images/catalog/oppo-find-x6-1.svg"
+      },
+      {
+        "id": 11503,
+        "sku": "NOVA-0115-011503",
+        "color": "Green",
+        "color_hex": "#729183",
+        "storage": "256GB",
+        "price": 17040000,
+        "original_price": 17540000,
+        "stock": 11,
+        "image": "assets/images/catalog/oppo-find-x6-2.svg"
+      },
+      {
+        "id": 11504,
+        "sku": "NOVA-0115-011504",
+        "color": "Green",
+        "color_hex": "#729183",
+        "storage": "512GB",
+        "price": 18040000,
+        "original_price": 18540000,
+        "stock": 18,
+        "image": "assets/images/catalog/oppo-find-x6-2.svg"
+      },
+      {
+        "id": 11505,
+        "sku": "NOVA-0115-011505",
+        "color": "Gold",
+        "color_hex": "#c7af84",
+        "storage": "256GB",
+        "price": 17090000,
+        "original_price": 17590000,
+        "stock": 1,
+        "image": "assets/images/catalog/oppo-find-x6-3.svg"
+      },
+      {
+        "id": 11506,
+        "sku": "NOVA-0115-011506",
+        "color": "Gold",
+        "color_hex": "#c7af84",
+        "storage": "512GB",
+        "price": 18090000,
+        "original_price": 18590000,
+        "stock": 8,
+        "image": "assets/images/catalog/oppo-find-x6-3.svg"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "slug": "oppo-find-x6-pro",
+    "name": "OPPO Find X6 Pro",
+    "brand": {
+      "id": 4,
+      "name": "OPPO",
+      "slug": "oppo"
+    },
+    "segment": "flagship",
+    "summary": "OPPO Find X6 Pro · Cao cấp · Giá và tồn kho demo.",
+    "description": "OPPO Find X6 Pro thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+    "images": [
+      "assets/images/catalog/oppo-find-x6-pro-1.svg",
+      "assets/images/catalog/oppo-find-x6-pro-2.svg",
+      "assets/images/catalog/oppo-find-x6-pro-3.svg"
+    ],
+    "specs": {
+      "Màn hình": "",
+      "Chip": "",
+      "RAM": "",
+      "Bộ nhớ": "256GB / 512GB",
+      "Pin": "",
+      "Camera": ""
+    },
+    "featured": true,
+    "is_new": false,
+    "created_at": "2026-11-01T01:56:00+07:00",
+    "is_demo": true,
+    "status": "published",
+    "data_quality": "reference_options",
+    "source_url": "https://www.oppo.com/en/smartphones/series-find-x/find-x6-pro/specs/",
+    "verification": {
+      "model": "curated_real_model",
+      "options": "reference_requires_regional_review",
+      "specs": "unverified_fields_empty",
+      "price_stock": "demo_only"
+    },
+    "variants": [
+      {
+        "id": 11601,
+        "sku": "NOVA-0116-011601",
+        "color": "Black",
+        "color_hex": "#30353c",
+        "storage": "256GB",
+        "price": 20990000,
+        "original_price": 20990000,
+        "stock": 4,
+        "image": "assets/images/catalog/oppo-find-x6-pro-1.svg"
+      },
+      {
+        "id": 11602,
+        "sku": "NOVA-0116-011602",
+        "color": "Black",
+        "color_hex": "#30353c",
+        "storage": "512GB",
+        "price": 21990000,
+        "original_price": 21990000,
+        "stock": 11,
+        "image": "assets/images/catalog/oppo-find-x6-pro-1.svg"
+      },
+      {
+        "id": 11603,
+        "sku": "NOVA-0116-011603",
+        "color": "Green",
+        "color_hex": "#729183",
+        "storage": "256GB",
+        "price": 21040000,
+        "original_price": 21040000,
+        "stock": 18,
+        "image": "assets/images/catalog/oppo-find-x6-pro-2.svg"
+      },
+      {
+        "id": 11604,
+        "sku": "NOVA-0116-011604",
+        "color": "Green",
+        "color_hex": "#729183",
+        "storage": "512GB",
+        "price": 22040000,
+        "original_price": 22040000,
+        "stock": 1,
+        "image": "assets/images/catalog/oppo-find-x6-pro-2.svg"
+      },
+      {
+        "id": 11605,
+        "sku": "NOVA-0116-011605",
+        "color": "Brown",
+        "color_hex": "#9c8174",
+        "storage": "256GB",
+        "price": 21090000,
+        "original_price": 21090000,
+        "stock": 8,
+        "image": "assets/images/catalog/oppo-find-x6-pro-3.svg"
+      },
+      {
+        "id": 11606,
+        "sku": "NOVA-0116-011606",
+        "color": "Brown",
+        "color_hex": "#9c8174",
+        "storage": "512GB",
+        "price": 22090000,
+        "original_price": 22090000,
+        "stock": 15,
+        "image": "assets/images/catalog/oppo-find-x6-pro-3.svg"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "slug": "oppo-find-x5",
+    "name": "OPPO Find X5",
+    "brand": {
+      "id": 4,
+      "name": "OPPO",
+      "slug": "oppo"
+    },
+    "segment": "upper-midrange",
+    "summary": "OPPO Find X5 · Cận cao cấp · Giá và tồn kho demo.",
+    "description": "OPPO Find X5 thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+    "images": [
+      "assets/images/catalog/oppo-find-x5-1.svg",
+      "assets/images/catalog/oppo-find-x5-2.svg"
+    ],
+    "specs": {
+      "Màn hình": "",
+      "Chip": "",
+      "RAM": "",
+      "Bộ nhớ": "256GB",
+      "Pin": "",
+      "Camera": ""
+    },
+    "featured": true,
+    "is_new": false,
+    "created_at": "2026-11-01T01:57:00+07:00",
+    "is_demo": true,
+    "status": "published",
+    "data_quality": "reference_options",
+    "source_url": "https://www.oppo.com/en/smartphones/series-find-x/find-x5/specs/",
+    "verification": {
+      "model": "curated_real_model",
+      "options": "reference_requires_regional_review",
+      "specs": "unverified_fields_empty",
+      "price_stock": "demo_only"
+    },
+    "variants": [
+      {
+        "id": 11701,
+        "sku": "NOVA-0117-011701",
+        "color": "Black",
+        "color_hex": "#30353c",
+        "storage": "256GB",
+        "price": 11990000,
+        "original_price": 12490000,
+        "stock": 11,
+        "image": "assets/images/catalog/oppo-find-x5-1.svg"
+      },
+      {
+        "id": 11702,
+        "sku": "NOVA-0117-011702",
+        "color": "White",
+        "color_hex": "#e8e5dc",
+        "storage": "256GB",
+        "price": 12040000,
+        "original_price": 12540000,
+        "stock": 18,
+        "image": "assets/images/catalog/oppo-find-x5-2.svg"
+      }
+    ]
+  }
+]

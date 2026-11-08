@@ -1,0 +1,242 @@
+{
+  "id": 35,
+  "slug": "iphone-12-mini",
+  "name": "iPhone 12 mini",
+  "brand": {
+    "id": 1,
+    "name": "Apple",
+    "slug": "apple"
+  },
+  "segment": "midrange",
+  "summary": "iPhone 12 mini · Tầm trung · Giá và tồn kho demo.",
+  "description": "iPhone 12 mini thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/iphone-12-mini-1.svg",
+    "assets/images/catalog/iphone-12-mini-2.svg",
+    "assets/images/catalog/iphone-12-mini-3.svg",
+    "assets/images/catalog/iphone-12-mini-4.svg",
+    "assets/images/catalog/iphone-12-mini-5.svg",
+    "assets/images/catalog/iphone-12-mini-6.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "64GB / 128GB / 256GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": false,
+  "is_new": true,
+  "created_at": "2026-11-01T00:35:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://support.apple.com/en-gb/108044",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 3501,
+      "sku": "NOVA-0035-003501",
+      "color": "Black",
+      "color_hex": "#30353c",
+      "storage": "64GB",
+      "price": 6990000,
+      "original_price": 7490000,
+      "stock": 0,
+      "image": "assets/images/catalog/iphone-12-mini-1.svg"
+    },
+    {
+      "id": 3502,
+      "sku": "NOVA-0035-003502",
+      "color": "Black",
+      "color_hex": "#30353c",
+      "storage": "128GB",
+      "price": 7990000,
+      "original_price": 8490000,
+      "stock": 20,
+      "image": "assets/images/catalog/iphone-12-mini-1.svg"
+    },
+    {
+      "id": 3503,
+      "sku": "NOVA-0035-003503",
+      "color": "Black",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 8990000,
+      "original_price": 9490000,
+      "stock": 3,
+      "image": "assets/images/catalog/iphone-12-mini-1.svg"
+    },
+    {
+      "id": 3504,
+      "sku": "NOVA-0035-003504",
+      "color": "White",
+      "color_hex": "#e8e5dc",
+      "storage": "64GB",
+      "price": 7040000,
+      "original_price": 7540000,
+      "stock": 10,
+      "image": "assets/images/catalog/iphone-12-mini-2.svg"
+    },
+    {
+      "id": 3505,
+      "sku": "NOVA-0035-003505",
+      "color": "White",
+      "color_hex": "#e8e5dc",
+      "storage": "128GB",
+      "price": 8040000,
+      "original_price": 8540000,
+      "stock": 17,
+      "image": "assets/images/catalog/iphone-12-mini-2.svg"
+    },
+    {
+      "id": 3506,
+      "sku": "NOVA-0035-003506",
+      "color": "White",
+      "color_hex": "#e8e5dc",
+      "storage": "256GB",
+      "price": 9040000,
+      "original_price": 9540000,
+      "stock": 24,
+      "image": "assets/images/catalog/iphone-12-mini-2.svg"
+    },
+    {
+      "id": 3507,
+      "sku": "NOVA-0035-003507",
+      "color": "Green",
+      "color_hex": "#729183",
+      "storage": "64GB",
+      "price": 7090000,
+      "original_price": 7590000,
+      "stock": 7,
+      "image": "assets/images/catalog/iphone-12-mini-3.svg"
+    },
+    {
+      "id": 3508,
+      "sku": "NOVA-0035-003508",
+      "color": "Green",
+      "color_hex": "#729183",
+      "storage": "128GB",
+      "price": 8090000,
+      "original_price": 8590000,
+      "stock": 14,
+      "image": "assets/images/catalog/iphone-12-mini-3.svg"
+    },
+    {
+      "id": 3509,
+      "sku": "NOVA-0035-003509",
+      "color": "Green",
+      "color_hex": "#729183",
+      "storage": "256GB",
+      "price": 9090000,
+      "original_price": 9590000,
+      "stock": 21,
+      "image": "assets/images/catalog/iphone-12-mini-3.svg"
+    },
+    {
+      "id": 3510,
+      "sku": "NOVA-0035-003510",
+      "color": "Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "64GB",
+      "price": 7140000,
+      "original_price": 7640000,
+      "stock": 4,
+      "image": "assets/images/catalog/iphone-12-mini-4.svg"
+    },
+    {
+      "id": 3511,
+      "sku": "NOVA-0035-003511",
+      "color": "Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "128GB",
+      "price": 8140000,
+      "original_price": 8640000,
+      "stock": 11,
+      "image": "assets/images/catalog/iphone-12-mini-4.svg"
+    },
+    {
+      "id": 3512,
+      "sku": "NOVA-0035-003512",
+      "color": "Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "256GB",
+      "price": 9140000,
+      "original_price": 9640000,
+      "stock": 18,
+      "image": "assets/images/catalog/iphone-12-mini-4.svg"
+    },
+    {
+      "id": 3513,
+      "sku": "NOVA-0035-003513",
+      "color": "Purple",
+      "color_hex": "#a399b7",
+      "storage": "64GB",
+      "price": 7190000,
+      "original_price": 7690000,
+      "stock": 1,
+      "image": "assets/images/catalog/iphone-12-mini-5.svg"
+    },
+    {
+      "id": 3514,
+      "sku": "NOVA-0035-003514",
+      "color": "Purple",
+      "color_hex": "#a399b7",
+      "storage": "128GB",
+      "price": 8190000,
+      "original_price": 8690000,
+      "stock": 0,
+      "image": "assets/images/catalog/iphone-12-mini-5.svg"
+    },
+    {
+      "id": 3515,
+      "sku": "NOVA-0035-003515",
+      "color": "Purple",
+      "color_hex": "#a399b7",
+      "storage": "256GB",
+      "price": 9190000,
+      "original_price": 9690000,
+      "stock": 15,
+      "image": "assets/images/catalog/iphone-12-mini-5.svg"
+    },
+    {
+      "id": 3516,
+      "sku": "NOVA-0035-003516",
+      "color": "(PRODUCT)RED",
+      "color_hex": "#ac4b54",
+      "storage": "64GB",
+      "price": 7240000,
+      "original_price": 7740000,
+      "stock": 22,
+      "image": "assets/images/catalog/iphone-12-mini-6.svg"
+    },
+    {
+      "id": 3517,
+      "sku": "NOVA-0035-003517",
+      "color": "(PRODUCT)RED",
+      "color_hex": "#ac4b54",
+      "storage": "128GB",
+      "price": 8240000,
+      "original_price": 8740000,
+      "stock": 5,
+      "image": "assets/images/catalog/iphone-12-mini-6.svg"
+    },
+    {
+      "id": 3518,
+      "sku": "NOVA-0035-003518",
+      "color": "(PRODUCT)RED",
+      "color_hex": "#ac4b54",
+      "storage": "256GB",
+      "price": 9240000,
+      "original_price": 9740000,
+      "stock": 12,
+      "image": "assets/images/catalog/iphone-12-mini-6.svg"
+    }
+  ]
+}

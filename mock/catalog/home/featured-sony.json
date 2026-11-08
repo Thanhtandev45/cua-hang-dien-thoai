@@ -1,0 +1,298 @@
+[
+  {
+    "id": 241,
+    "slug": "sony-xperia-1-vi",
+    "name": "Sony Xperia 1 VI",
+    "brand": {
+      "id": 13,
+      "name": "Sony Xperia",
+      "slug": "sony"
+    },
+    "segment": "flagship",
+    "summary": "Sony Xperia 1 VI · Cao cấp · Giá và tồn kho demo.",
+    "description": "Sony Xperia 1 VI thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+    "images": [
+      "assets/images/catalog/sony-xperia-1-vi-1.svg",
+      "assets/images/catalog/sony-xperia-1-vi-2.svg",
+      "assets/images/catalog/sony-xperia-1-vi-3.svg"
+    ],
+    "specs": {
+      "Màn hình": "",
+      "Chip": "",
+      "RAM": "",
+      "Bộ nhớ": "256GB",
+      "Pin": "",
+      "Camera": ""
+    },
+    "featured": true,
+    "is_new": false,
+    "created_at": "2026-11-01T04:01:00+07:00",
+    "is_demo": true,
+    "status": "published",
+    "data_quality": "reference_options",
+    "source_url": "https://www.sony.co.uk/electronics/support/mobile-phones-tablets-mobile-phones/xperia-1-vi/specifications",
+    "verification": {
+      "model": "curated_real_model",
+      "options": "reference_requires_regional_review",
+      "specs": "unverified_fields_empty",
+      "price_stock": "demo_only"
+    },
+    "variants": [
+      {
+        "id": 24101,
+        "sku": "NOVA-0241-024101",
+        "color": "Black",
+        "color_hex": "#30353c",
+        "storage": "256GB",
+        "price": 24990000,
+        "original_price": 25490000,
+        "stock": 15,
+        "image": "assets/images/catalog/sony-xperia-1-vi-1.svg"
+      },
+      {
+        "id": 24102,
+        "sku": "NOVA-0241-024102",
+        "color": "Platinum Silver",
+        "color_hex": "#bdc4cb",
+        "storage": "256GB",
+        "price": 25040000,
+        "original_price": 25540000,
+        "stock": 22,
+        "image": "assets/images/catalog/sony-xperia-1-vi-2.svg"
+      },
+      {
+        "id": 24103,
+        "sku": "NOVA-0241-024103",
+        "color": "Khaki Green",
+        "color_hex": "#729183",
+        "storage": "256GB",
+        "price": 25090000,
+        "original_price": 25590000,
+        "stock": 5,
+        "image": "assets/images/catalog/sony-xperia-1-vi-3.svg"
+      }
+    ]
+  },
+  {
+    "id": 242,
+    "slug": "sony-xperia-1-v",
+    "name": "Sony Xperia 1 V",
+    "brand": {
+      "id": 13,
+      "name": "Sony Xperia",
+      "slug": "sony"
+    },
+    "segment": "flagship",
+    "summary": "Sony Xperia 1 V · Cao cấp · Giá và tồn kho demo.",
+    "description": "Sony Xperia 1 V thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+    "images": [
+      "assets/images/catalog/sony-xperia-1-v-1.svg",
+      "assets/images/catalog/sony-xperia-1-v-2.svg",
+      "assets/images/catalog/sony-xperia-1-v-3.svg"
+    ],
+    "specs": {
+      "Màn hình": "",
+      "Chip": "",
+      "RAM": "",
+      "Bộ nhớ": "256GB",
+      "Pin": "",
+      "Camera": ""
+    },
+    "featured": true,
+    "is_new": false,
+    "created_at": "2026-11-01T04:02:00+07:00",
+    "is_demo": true,
+    "status": "published",
+    "data_quality": "reference_options",
+    "source_url": "https://www.sony.co.uk/electronics/support/mobile-phones-tablets-mobile-phones/xperia-1-v/specifications",
+    "verification": {
+      "model": "curated_real_model",
+      "options": "reference_requires_regional_review",
+      "specs": "unverified_fields_empty",
+      "price_stock": "demo_only"
+    },
+    "variants": [
+      {
+        "id": 24201,
+        "sku": "NOVA-0242-024201",
+        "color": "Black",
+        "color_hex": "#30353c",
+        "storage": "256GB",
+        "price": 19990000,
+        "original_price": 20490000,
+        "stock": 22,
+        "image": "assets/images/catalog/sony-xperia-1-v-1.svg"
+      },
+      {
+        "id": 24202,
+        "sku": "NOVA-0242-024202",
+        "color": "Platinum Silver",
+        "color_hex": "#bdc4cb",
+        "storage": "256GB",
+        "price": 20040000,
+        "original_price": 20540000,
+        "stock": 5,
+        "image": "assets/images/catalog/sony-xperia-1-v-2.svg"
+      },
+      {
+        "id": 24203,
+        "sku": "NOVA-0242-024203",
+        "color": "Khaki Green",
+        "color_hex": "#729183",
+        "storage": "256GB",
+        "price": 20090000,
+        "original_price": 20590000,
+        "stock": 12,
+        "image": "assets/images/catalog/sony-xperia-1-v-3.svg"
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "slug": "sony-xperia-5-v",
+    "name": "Sony Xperia 5 V",
+    "brand": {
+      "id": 13,
+      "name": "Sony Xperia",
+      "slug": "sony"
+    },
+    "segment": "upper-midrange",
+    "summary": "Sony Xperia 5 V · Cận cao cấp · Giá và tồn kho demo.",
+    "description": "Sony Xperia 5 V thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+    "images": [
+      "assets/images/catalog/sony-xperia-5-v-1.svg",
+      "assets/images/catalog/sony-xperia-5-v-2.svg",
+      "assets/images/catalog/sony-xperia-5-v-3.svg"
+    ],
+    "specs": {
+      "Màn hình": "",
+      "Chip": "",
+      "RAM": "",
+      "Bộ nhớ": "128GB",
+      "Pin": "",
+      "Camera": ""
+    },
+    "featured": true,
+    "is_new": false,
+    "created_at": "2026-11-01T04:03:00+07:00",
+    "is_demo": true,
+    "status": "published",
+    "data_quality": "reference_options",
+    "source_url": "https://www.sony.co.uk/electronics/support/mobile-phones-tablets-mobile-phones/xperia-5-v/specifications",
+    "verification": {
+      "model": "curated_real_model",
+      "options": "reference_requires_regional_review",
+      "specs": "unverified_fields_empty",
+      "price_stock": "demo_only"
+    },
+    "variants": [
+      {
+        "id": 24301,
+        "sku": "NOVA-0243-024301",
+        "color": "Black",
+        "color_hex": "#30353c",
+        "storage": "128GB",
+        "price": 16990000,
+        "original_price": 17490000,
+        "stock": 0,
+        "image": "assets/images/catalog/sony-xperia-5-v-1.svg"
+      },
+      {
+        "id": 24302,
+        "sku": "NOVA-0243-024302",
+        "color": "Blue",
+        "color_hex": "#7e9fb9",
+        "storage": "128GB",
+        "price": 17040000,
+        "original_price": 17540000,
+        "stock": 12,
+        "image": "assets/images/catalog/sony-xperia-5-v-2.svg"
+      },
+      {
+        "id": 24303,
+        "sku": "NOVA-0243-024303",
+        "color": "Platinum Silver",
+        "color_hex": "#bdc4cb",
+        "storage": "128GB",
+        "price": 17090000,
+        "original_price": 17590000,
+        "stock": 19,
+        "image": "assets/images/catalog/sony-xperia-5-v-3.svg"
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "slug": "sony-xperia-10-vi",
+    "name": "Sony Xperia 10 VI",
+    "brand": {
+      "id": 13,
+      "name": "Sony Xperia",
+      "slug": "sony"
+    },
+    "segment": "midrange",
+    "summary": "Sony Xperia 10 VI · Tầm trung · Giá và tồn kho demo.",
+    "description": "Sony Xperia 10 VI thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+    "images": [
+      "assets/images/catalog/sony-xperia-10-vi-1.svg",
+      "assets/images/catalog/sony-xperia-10-vi-2.svg",
+      "assets/images/catalog/sony-xperia-10-vi-3.svg"
+    ],
+    "specs": {
+      "Màn hình": "",
+      "Chip": "",
+      "RAM": "",
+      "Bộ nhớ": "128GB",
+      "Pin": "",
+      "Camera": ""
+    },
+    "featured": true,
+    "is_new": false,
+    "created_at": "2026-11-01T04:04:00+07:00",
+    "is_demo": true,
+    "status": "published",
+    "data_quality": "reference_options",
+    "source_url": "https://www.sony.co.uk/electronics/support/mobile-phones-tablets-mobile-phones/xperia-10-vi/specifications",
+    "verification": {
+      "model": "curated_real_model",
+      "options": "reference_requires_regional_review",
+      "specs": "unverified_fields_empty",
+      "price_stock": "demo_only"
+    },
+    "variants": [
+      {
+        "id": 24401,
+        "sku": "NOVA-0244-024401",
+        "color": "Black",
+        "color_hex": "#30353c",
+        "storage": "128GB",
+        "price": 9990000,
+        "original_price": 9990000,
+        "stock": 12,
+        "image": "assets/images/catalog/sony-xperia-10-vi-1.svg"
+      },
+      {
+        "id": 24402,
+        "sku": "NOVA-0244-024402",
+        "color": "White",
+        "color_hex": "#e8e5dc",
+        "storage": "128GB",
+        "price": 10040000,
+        "original_price": 10040000,
+        "stock": 19,
+        "image": "assets/images/catalog/sony-xperia-10-vi-2.svg"
+      },
+      {
+        "id": 24403,
+        "sku": "NOVA-0244-024403",
+        "color": "Blue",
+        "color_hex": "#7e9fb9",
+        "storage": "128GB",
+        "price": 10090000,
+        "original_price": 10090000,
+        "stock": 2,
+        "image": "assets/images/catalog/sony-xperia-10-vi-3.svg"
+      }
+    ]
+  }
+]

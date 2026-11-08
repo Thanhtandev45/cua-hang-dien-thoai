@@ -1,0 +1,84 @@
+{
+  "id": 206,
+  "slug": "oneplus-12r",
+  "name": "OnePlus 12R",
+  "brand": {
+    "id": 9,
+    "name": "OnePlus",
+    "slug": "oneplus"
+  },
+  "segment": "upper-midrange",
+  "summary": "OnePlus 12R · Cận cao cấp · Giá và tồn kho demo.",
+  "description": "OnePlus 12R thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/oneplus-12r-1.svg",
+    "assets/images/catalog/oneplus-12r-2.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB / 256GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": true,
+  "is_new": false,
+  "created_at": "2026-11-01T03:26:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.oneplus.com/global/12r/specs",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 20601,
+      "sku": "NOVA-0206-020601",
+      "color": "Iron Gray",
+      "color_hex": "#8e969d",
+      "storage": "128GB",
+      "price": 11990000,
+      "original_price": 12490000,
+      "stock": 10,
+      "image": "assets/images/catalog/oneplus-12r-1.svg"
+    },
+    {
+      "id": 20602,
+      "sku": "NOVA-0206-020602",
+      "color": "Iron Gray",
+      "color_hex": "#8e969d",
+      "storage": "256GB",
+      "price": 12990000,
+      "original_price": 13490000,
+      "stock": 17,
+      "image": "assets/images/catalog/oneplus-12r-1.svg"
+    },
+    {
+      "id": 20603,
+      "sku": "NOVA-0206-020603",
+      "color": "Cool Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "128GB",
+      "price": 12040000,
+      "original_price": 12540000,
+      "stock": 24,
+      "image": "assets/images/catalog/oneplus-12r-2.svg"
+    },
+    {
+      "id": 20604,
+      "sku": "NOVA-0206-020604",
+      "color": "Cool Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "256GB",
+      "price": 13040000,
+      "original_price": 13540000,
+      "stock": 7,
+      "image": "assets/images/catalog/oneplus-12r-2.svg"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 110,
+  "slug": "poco-f5",
+  "name": "POCO F5",
+  "brand": {
+    "id": 3,
+    "name": "Xiaomi",
+    "slug": "xiaomi"
+  },
+  "segment": "upper-midrange",
+  "summary": "POCO F5 · Cận cao cấp · Giá và tồn kho demo.",
+  "description": "POCO F5 thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/poco-f5-1.svg",
+    "assets/images/catalog/poco-f5-2.svg",
+    "assets/images/catalog/poco-f5-3.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "256GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": false,
+  "is_new": false,
+  "created_at": "2026-11-01T01:50:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.mi.com/global/product/poco-f5/specs/",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 11001,
+      "sku": "NOVA-0110-011001",
+      "color": "Black",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 8990000,
+      "original_price": 9490000,
+      "stock": 10,
+      "image": "assets/images/catalog/poco-f5-1.svg"
+    },
+    {
+      "id": 11002,
+      "sku": "NOVA-0110-011002",
+      "color": "Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "256GB",
+      "price": 9040000,
+      "original_price": 9540000,
+      "stock": 17,
+      "image": "assets/images/catalog/poco-f5-2.svg"
+    },
+    {
+      "id": 11003,
+      "sku": "NOVA-0110-011003",
+      "color": "White",
+      "color_hex": "#e8e5dc",
+      "storage": "256GB",
+      "price": 9090000,
+      "original_price": 9590000,
+      "stock": 24,
+      "image": "assets/images/catalog/poco-f5-3.svg"
+    }
+  ]
+}

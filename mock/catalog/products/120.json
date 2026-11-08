@@ -1,0 +1,62 @@
+{
+  "id": 120,
+  "slug": "oppo-find-n3",
+  "name": "OPPO Find N3",
+  "brand": {
+    "id": 4,
+    "name": "OPPO",
+    "slug": "oppo"
+  },
+  "segment": "foldable",
+  "summary": "OPPO Find N3 · Màn hình gập · Giá và tồn kho demo.",
+  "description": "OPPO Find N3 thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/oppo-find-n3-1.svg",
+    "assets/images/catalog/oppo-find-n3-2.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "512GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": true,
+  "is_new": false,
+  "created_at": "2026-11-01T02:00:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.oppo.com/en/smartphones/series-find-n/find-n3/specs/",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 12001,
+      "sku": "NOVA-0120-012001",
+      "color": "Champagne Gold",
+      "color_hex": "#c7af84",
+      "storage": "512GB",
+      "price": 34990000,
+      "original_price": 34990000,
+      "stock": 8,
+      "image": "assets/images/catalog/oppo-find-n3-1.svg"
+    },
+    {
+      "id": 12002,
+      "sku": "NOVA-0120-012002",
+      "color": "Classic Black",
+      "color_hex": "#30353c",
+      "storage": "512GB",
+      "price": 35040000,
+      "original_price": 35040000,
+      "stock": 15,
+      "image": "assets/images/catalog/oppo-find-n3-2.svg"
+    }
+  ]
+}

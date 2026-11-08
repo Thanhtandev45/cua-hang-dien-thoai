@@ -1,0 +1,107 @@
+{
+  "id": 210,
+  "slug": "oneplus-9",
+  "name": "OnePlus 9",
+  "brand": {
+    "id": 9,
+    "name": "OnePlus",
+    "slug": "oneplus"
+  },
+  "segment": "upper-midrange",
+  "summary": "OnePlus 9 · Cận cao cấp · Giá và tồn kho demo.",
+  "description": "OnePlus 9 thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/oneplus-9-1.svg",
+    "assets/images/catalog/oneplus-9-2.svg",
+    "assets/images/catalog/oneplus-9-3.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB / 256GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": true,
+  "is_new": true,
+  "created_at": "2026-11-01T03:30:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.oneplus.com/global/9/specs",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 21001,
+      "sku": "NOVA-0210-021001",
+      "color": "Winter Mist",
+      "color_hex": "#9aaab1",
+      "storage": "128GB",
+      "price": 7490000,
+      "original_price": 7990000,
+      "stock": 14,
+      "image": "assets/images/catalog/oneplus-9-1.svg"
+    },
+    {
+      "id": 21002,
+      "sku": "NOVA-0210-021002",
+      "color": "Winter Mist",
+      "color_hex": "#9aaab1",
+      "storage": "256GB",
+      "price": 8490000,
+      "original_price": 8990000,
+      "stock": 21,
+      "image": "assets/images/catalog/oneplus-9-1.svg"
+    },
+    {
+      "id": 21003,
+      "sku": "NOVA-0210-021003",
+      "color": "Arctic Sky",
+      "color_hex": "#9aaab1",
+      "storage": "128GB",
+      "price": 7540000,
+      "original_price": 8040000,
+      "stock": 4,
+      "image": "assets/images/catalog/oneplus-9-2.svg"
+    },
+    {
+      "id": 21004,
+      "sku": "NOVA-0210-021004",
+      "color": "Arctic Sky",
+      "color_hex": "#9aaab1",
+      "storage": "256GB",
+      "price": 8540000,
+      "original_price": 9040000,
+      "stock": 11,
+      "image": "assets/images/catalog/oneplus-9-2.svg"
+    },
+    {
+      "id": 21005,
+      "sku": "NOVA-0210-021005",
+      "color": "Astral Black",
+      "color_hex": "#30353c",
+      "storage": "128GB",
+      "price": 7590000,
+      "original_price": 8090000,
+      "stock": 18,
+      "image": "assets/images/catalog/oneplus-9-3.svg"
+    },
+    {
+      "id": 21006,
+      "sku": "NOVA-0210-021006",
+      "color": "Astral Black",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 8590000,
+      "original_price": 9090000,
+      "stock": 0,
+      "image": "assets/images/catalog/oneplus-9-3.svg"
+    }
+  ]
+}

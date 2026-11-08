@@ -1,0 +1,84 @@
+{
+  "id": 247,
+  "slug": "tecno-camon-30-pro-5g",
+  "name": "TECNO CAMON 30 Pro 5G",
+  "brand": {
+    "id": 14,
+    "name": "TECNO",
+    "slug": "tecno"
+  },
+  "segment": "upper-midrange",
+  "summary": "TECNO CAMON 30 Pro 5G · Cận cao cấp · Giá và tồn kho demo.",
+  "description": "TECNO CAMON 30 Pro 5G thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/tecno-camon-30-pro-5g-1.svg",
+    "assets/images/catalog/tecno-camon-30-pro-5g-2.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "256GB / 512GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": true,
+  "is_new": false,
+  "created_at": "2026-11-01T04:07:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.tecno-mobile.com/phones/tech-specs/techspecs/camon-30-pro-5g/",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 24701,
+      "sku": "NOVA-0247-024701",
+      "color": "Iceland Basaltic Dark",
+      "color_hex": "#9aaab1",
+      "storage": "256GB",
+      "price": 9490000,
+      "original_price": 9990000,
+      "stock": 9,
+      "image": "assets/images/catalog/tecno-camon-30-pro-5g-1.svg"
+    },
+    {
+      "id": 24702,
+      "sku": "NOVA-0247-024702",
+      "color": "Iceland Basaltic Dark",
+      "color_hex": "#9aaab1",
+      "storage": "512GB",
+      "price": 10490000,
+      "original_price": 10990000,
+      "stock": 16,
+      "image": "assets/images/catalog/tecno-camon-30-pro-5g-1.svg"
+    },
+    {
+      "id": 24703,
+      "sku": "NOVA-0247-024703",
+      "color": "Alps Snowy Silver",
+      "color_hex": "#bdc4cb",
+      "storage": "256GB",
+      "price": 9540000,
+      "original_price": 10040000,
+      "stock": 23,
+      "image": "assets/images/catalog/tecno-camon-30-pro-5g-2.svg"
+    },
+    {
+      "id": 24704,
+      "sku": "NOVA-0247-024704",
+      "color": "Alps Snowy Silver",
+      "color_hex": "#bdc4cb",
+      "storage": "512GB",
+      "price": 10540000,
+      "original_price": 11040000,
+      "stock": 6,
+      "image": "assets/images/catalog/tecno-camon-30-pro-5g-2.svg"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": 218,
+  "slug": "oneplus-nord-ce4",
+  "name": "OnePlus Nord CE4",
+  "brand": {
+    "id": 9,
+    "name": "OnePlus",
+    "slug": "oneplus"
+  },
+  "segment": "midrange",
+  "summary": "OnePlus Nord CE4 · Tầm trung · Giá và tồn kho demo.",
+  "description": "OnePlus Nord CE4 thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/oneplus-nord-ce4-1.svg",
+    "assets/images/catalog/oneplus-nord-ce4-2.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB / 256GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": false,
+  "is_new": false,
+  "created_at": "2026-11-01T03:38:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.oneplus.com/global/nord-ce4/specs",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 21801,
+      "sku": "NOVA-0218-021801",
+      "color": "Celadon Marble",
+      "color_hex": "#9aaab1",
+      "storage": "128GB",
+      "price": 6490000,
+      "original_price": 6990000,
+      "stock": 22,
+      "image": "assets/images/catalog/oneplus-nord-ce4-1.svg"
+    },
+    {
+      "id": 21802,
+      "sku": "NOVA-0218-021802",
+      "color": "Celadon Marble",
+      "color_hex": "#9aaab1",
+      "storage": "256GB",
+      "price": 7490000,
+      "original_price": 7990000,
+      "stock": 5,
+      "image": "assets/images/catalog/oneplus-nord-ce4-1.svg"
+    },
+    {
+      "id": 21803,
+      "sku": "NOVA-0218-021803",
+      "color": "Dark Chrome",
+      "color_hex": "#9aaab1",
+      "storage": "128GB",
+      "price": 6540000,
+      "original_price": 7040000,
+      "stock": 12,
+      "image": "assets/images/catalog/oneplus-nord-ce4-2.svg"
+    },
+    {
+      "id": 21804,
+      "sku": "NOVA-0218-021804",
+      "color": "Dark Chrome",
+      "color_hex": "#9aaab1",
+      "storage": "256GB",
+      "price": 7540000,
+      "original_price": 8040000,
+      "stock": 0,
+      "image": "assets/images/catalog/oneplus-nord-ce4-2.svg"
+    }
+  ]
+}

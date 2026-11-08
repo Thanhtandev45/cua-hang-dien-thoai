@@ -1,0 +1,218 @@
+{
+  "id": 21,
+  "slug": "iphone-16-pro",
+  "name": "iPhone 16 Pro",
+  "brand": {
+    "id": 1,
+    "name": "Apple",
+    "slug": "apple"
+  },
+  "segment": "flagship",
+  "summary": "iPhone 16 Pro · Cao cấp · Giá và tồn kho demo.",
+  "description": "iPhone 16 Pro thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/iphone-16-pro-1.svg",
+    "assets/images/catalog/iphone-16-pro-2.svg",
+    "assets/images/catalog/iphone-16-pro-3.svg",
+    "assets/images/catalog/iphone-16-pro-4.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB / 256GB / 512GB / 1TB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": true,
+  "is_new": true,
+  "created_at": "2026-11-01T00:21:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://support.apple.com/en-gb/108044",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 2101,
+      "sku": "NOVA-0021-002101",
+      "color": "Black Titanium",
+      "color_hex": "#30353c",
+      "storage": "128GB",
+      "price": 26990000,
+      "original_price": 27490000,
+      "stock": 11,
+      "image": "assets/images/catalog/iphone-16-pro-1.svg"
+    },
+    {
+      "id": 2102,
+      "sku": "NOVA-0021-002102",
+      "color": "Black Titanium",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 27990000,
+      "original_price": 28490000,
+      "stock": 18,
+      "image": "assets/images/catalog/iphone-16-pro-1.svg"
+    },
+    {
+      "id": 2103,
+      "sku": "NOVA-0021-002103",
+      "color": "Black Titanium",
+      "color_hex": "#30353c",
+      "storage": "512GB",
+      "price": 28990000,
+      "original_price": 29490000,
+      "stock": 1,
+      "image": "assets/images/catalog/iphone-16-pro-1.svg"
+    },
+    {
+      "id": 2104,
+      "sku": "NOVA-0021-002104",
+      "color": "Black Titanium",
+      "color_hex": "#30353c",
+      "storage": "1TB",
+      "price": 29990000,
+      "original_price": 30490000,
+      "stock": 8,
+      "image": "assets/images/catalog/iphone-16-pro-1.svg"
+    },
+    {
+      "id": 2105,
+      "sku": "NOVA-0021-002105",
+      "color": "White Titanium",
+      "color_hex": "#e8e5dc",
+      "storage": "128GB",
+      "price": 27040000,
+      "original_price": 27540000,
+      "stock": 15,
+      "image": "assets/images/catalog/iphone-16-pro-2.svg"
+    },
+    {
+      "id": 2106,
+      "sku": "NOVA-0021-002106",
+      "color": "White Titanium",
+      "color_hex": "#e8e5dc",
+      "storage": "256GB",
+      "price": 28040000,
+      "original_price": 28540000,
+      "stock": 22,
+      "image": "assets/images/catalog/iphone-16-pro-2.svg"
+    },
+    {
+      "id": 2107,
+      "sku": "NOVA-0021-002107",
+      "color": "White Titanium",
+      "color_hex": "#e8e5dc",
+      "storage": "512GB",
+      "price": 29040000,
+      "original_price": 29540000,
+      "stock": 5,
+      "image": "assets/images/catalog/iphone-16-pro-2.svg"
+    },
+    {
+      "id": 2108,
+      "sku": "NOVA-0021-002108",
+      "color": "White Titanium",
+      "color_hex": "#e8e5dc",
+      "storage": "1TB",
+      "price": 30040000,
+      "original_price": 30540000,
+      "stock": 12,
+      "image": "assets/images/catalog/iphone-16-pro-2.svg"
+    },
+    {
+      "id": 2109,
+      "sku": "NOVA-0021-002109",
+      "color": "Natural Titanium",
+      "color_hex": "#b4afa5",
+      "storage": "128GB",
+      "price": 27090000,
+      "original_price": 27590000,
+      "stock": 19,
+      "image": "assets/images/catalog/iphone-16-pro-3.svg"
+    },
+    {
+      "id": 2110,
+      "sku": "NOVA-0021-002110",
+      "color": "Natural Titanium",
+      "color_hex": "#b4afa5",
+      "storage": "256GB",
+      "price": 28090000,
+      "original_price": 28590000,
+      "stock": 2,
+      "image": "assets/images/catalog/iphone-16-pro-3.svg"
+    },
+    {
+      "id": 2111,
+      "sku": "NOVA-0021-002111",
+      "color": "Natural Titanium",
+      "color_hex": "#b4afa5",
+      "storage": "512GB",
+      "price": 29090000,
+      "original_price": 29590000,
+      "stock": 0,
+      "image": "assets/images/catalog/iphone-16-pro-3.svg"
+    },
+    {
+      "id": 2112,
+      "sku": "NOVA-0021-002112",
+      "color": "Natural Titanium",
+      "color_hex": "#b4afa5",
+      "storage": "1TB",
+      "price": 30090000,
+      "original_price": 30590000,
+      "stock": 16,
+      "image": "assets/images/catalog/iphone-16-pro-3.svg"
+    },
+    {
+      "id": 2113,
+      "sku": "NOVA-0021-002113",
+      "color": "Desert Titanium",
+      "color_hex": "#b4afa5",
+      "storage": "128GB",
+      "price": 27140000,
+      "original_price": 27640000,
+      "stock": 23,
+      "image": "assets/images/catalog/iphone-16-pro-4.svg"
+    },
+    {
+      "id": 2114,
+      "sku": "NOVA-0021-002114",
+      "color": "Desert Titanium",
+      "color_hex": "#b4afa5",
+      "storage": "256GB",
+      "price": 28140000,
+      "original_price": 28640000,
+      "stock": 6,
+      "image": "assets/images/catalog/iphone-16-pro-4.svg"
+    },
+    {
+      "id": 2115,
+      "sku": "NOVA-0021-002115",
+      "color": "Desert Titanium",
+      "color_hex": "#b4afa5",
+      "storage": "512GB",
+      "price": 29140000,
+      "original_price": 29640000,
+      "stock": 13,
+      "image": "assets/images/catalog/iphone-16-pro-4.svg"
+    },
+    {
+      "id": 2116,
+      "sku": "NOVA-0021-002116",
+      "color": "Desert Titanium",
+      "color_hex": "#b4afa5",
+      "storage": "1TB",
+      "price": 30140000,
+      "original_price": 30640000,
+      "stock": 20,
+      "image": "assets/images/catalog/iphone-16-pro-4.svg"
+    }
+  ]
+}

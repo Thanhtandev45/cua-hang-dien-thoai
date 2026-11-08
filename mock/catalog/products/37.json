@@ -1,0 +1,174 @@
+{
+  "id": 37,
+  "slug": "iphone-12-pro-max",
+  "name": "iPhone 12 Pro Max",
+  "brand": {
+    "id": 1,
+    "name": "Apple",
+    "slug": "apple"
+  },
+  "segment": "upper-midrange",
+  "summary": "iPhone 12 Pro Max · Cận cao cấp · Giá và tồn kho demo.",
+  "description": "iPhone 12 Pro Max thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/iphone-12-pro-max-1.svg",
+    "assets/images/catalog/iphone-12-pro-max-2.svg",
+    "assets/images/catalog/iphone-12-pro-max-3.svg",
+    "assets/images/catalog/iphone-12-pro-max-4.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB / 256GB / 512GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": false,
+  "is_new": false,
+  "created_at": "2026-11-01T00:37:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://support.apple.com/en-gb/108044",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 3701,
+      "sku": "NOVA-0037-003701",
+      "color": "Silver",
+      "color_hex": "#bdc4cb",
+      "storage": "128GB",
+      "price": 12990000,
+      "original_price": 13490000,
+      "stock": 3,
+      "image": "assets/images/catalog/iphone-12-pro-max-1.svg"
+    },
+    {
+      "id": 3702,
+      "sku": "NOVA-0037-003702",
+      "color": "Silver",
+      "color_hex": "#bdc4cb",
+      "storage": "256GB",
+      "price": 13990000,
+      "original_price": 14490000,
+      "stock": 10,
+      "image": "assets/images/catalog/iphone-12-pro-max-1.svg"
+    },
+    {
+      "id": 3703,
+      "sku": "NOVA-0037-003703",
+      "color": "Silver",
+      "color_hex": "#bdc4cb",
+      "storage": "512GB",
+      "price": 14990000,
+      "original_price": 15490000,
+      "stock": 17,
+      "image": "assets/images/catalog/iphone-12-pro-max-1.svg"
+    },
+    {
+      "id": 3704,
+      "sku": "NOVA-0037-003704",
+      "color": "Graphite",
+      "color_hex": "#555962",
+      "storage": "128GB",
+      "price": 13040000,
+      "original_price": 13540000,
+      "stock": 24,
+      "image": "assets/images/catalog/iphone-12-pro-max-2.svg"
+    },
+    {
+      "id": 3705,
+      "sku": "NOVA-0037-003705",
+      "color": "Graphite",
+      "color_hex": "#555962",
+      "storage": "256GB",
+      "price": 14040000,
+      "original_price": 14540000,
+      "stock": 7,
+      "image": "assets/images/catalog/iphone-12-pro-max-2.svg"
+    },
+    {
+      "id": 3706,
+      "sku": "NOVA-0037-003706",
+      "color": "Graphite",
+      "color_hex": "#555962",
+      "storage": "512GB",
+      "price": 15040000,
+      "original_price": 15540000,
+      "stock": 14,
+      "image": "assets/images/catalog/iphone-12-pro-max-2.svg"
+    },
+    {
+      "id": 3707,
+      "sku": "NOVA-0037-003707",
+      "color": "Gold",
+      "color_hex": "#c7af84",
+      "storage": "128GB",
+      "price": 13090000,
+      "original_price": 13590000,
+      "stock": 0,
+      "image": "assets/images/catalog/iphone-12-pro-max-3.svg"
+    },
+    {
+      "id": 3708,
+      "sku": "NOVA-0037-003708",
+      "color": "Gold",
+      "color_hex": "#c7af84",
+      "storage": "256GB",
+      "price": 14090000,
+      "original_price": 14590000,
+      "stock": 4,
+      "image": "assets/images/catalog/iphone-12-pro-max-3.svg"
+    },
+    {
+      "id": 3709,
+      "sku": "NOVA-0037-003709",
+      "color": "Gold",
+      "color_hex": "#c7af84",
+      "storage": "512GB",
+      "price": 15090000,
+      "original_price": 15590000,
+      "stock": 11,
+      "image": "assets/images/catalog/iphone-12-pro-max-3.svg"
+    },
+    {
+      "id": 3710,
+      "sku": "NOVA-0037-003710",
+      "color": "Pacific Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "128GB",
+      "price": 13140000,
+      "original_price": 13640000,
+      "stock": 18,
+      "image": "assets/images/catalog/iphone-12-pro-max-4.svg"
+    },
+    {
+      "id": 3711,
+      "sku": "NOVA-0037-003711",
+      "color": "Pacific Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "256GB",
+      "price": 14140000,
+      "original_price": 14640000,
+      "stock": 1,
+      "image": "assets/images/catalog/iphone-12-pro-max-4.svg"
+    },
+    {
+      "id": 3712,
+      "sku": "NOVA-0037-003712",
+      "color": "Pacific Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "512GB",
+      "price": 15140000,
+      "original_price": 15640000,
+      "stock": 8,
+      "image": "assets/images/catalog/iphone-12-pro-max-4.svg"
+    }
+  ]
+}

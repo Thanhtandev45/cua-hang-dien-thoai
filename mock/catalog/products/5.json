@@ -1,0 +1,75 @@
+{
+  "id": 5,
+  "slug": "oppo-reno12-5g",
+  "name": "OPPO Reno12 5G",
+  "brand": {
+    "id": 4,
+    "name": "OPPO",
+    "slug": "oppo"
+  },
+  "summary": "Thiết kế hiện đại, màn hình sống động và trải nghiệm linh hoạt mỗi ngày.",
+  "description": "OPPO Reno12 5G là lựa chọn dành cho những trải nghiệm công nghệ hằng ngày: lưu giữ khoảnh khắc, làm việc và giải trí. Thông tin, giá và cấu hình trong bản trình diễn là dữ liệu phát triển, cần được thay thế bằng dữ liệu đã xác minh từ backend trước khi bán hàng.",
+  "images": [
+    "assets/images/oppo-green.svg",
+    "assets/images/phone-front.svg"
+  ],
+  "specs": {
+    "Màn hình": "AMOLED, cảm ứng đa điểm",
+    "Bộ nhớ": "256GB / 512GB",
+    "Kết nối": "Wi-Fi, Bluetooth, USB-C",
+    "Camera": "Hệ thống camera đa ống kính",
+    "Tình trạng": "Dữ liệu sản phẩm mẫu",
+    "Bảo hành": "Chính sách mẫu: 12 tháng"
+  },
+  "featured": true,
+  "is_new": true,
+  "created_at": "2026-10-24T08:00:00+07:00",
+  "variants": [
+    {
+      "id": 501,
+      "color": "Xanh lục",
+      "color_hex": "#85a798",
+      "storage": "256GB",
+      "price": 10990000,
+      "original_price": 12990000,
+      "stock": 13,
+      "image": "assets/images/oppo-green.svg",
+      "sku": "NOVA-0005-000501"
+    },
+    {
+      "id": 502,
+      "color": "Xanh lục",
+      "color_hex": "#85a798",
+      "storage": "512GB",
+      "price": 12990000,
+      "original_price": 14990000,
+      "stock": 0,
+      "image": "assets/images/oppo-green.svg",
+      "sku": "NOVA-0005-000502"
+    },
+    {
+      "id": 503,
+      "color": "Đen",
+      "color_hex": "#34363a",
+      "storage": "256GB",
+      "price": 10990000,
+      "original_price": 12990000,
+      "stock": 3,
+      "image": "assets/images/oppo-green.svg",
+      "sku": "NOVA-0005-000503"
+    },
+    {
+      "id": 504,
+      "color": "Đen",
+      "color_hex": "#34363a",
+      "storage": "512GB",
+      "price": 12990000,
+      "original_price": 14990000,
+      "stock": 2,
+      "image": "assets/images/oppo-green.svg",
+      "sku": "NOVA-0005-000504"
+    }
+  ],
+  "is_demo": true,
+  "data_quality": "legacy_unverified"
+}

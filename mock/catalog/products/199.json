@@ -1,0 +1,86 @@
+{
+  "id": 199,
+  "slug": "google-pixel-7a",
+  "name": "Google Pixel 7a",
+  "brand": {
+    "id": 8,
+    "name": "Google Pixel",
+    "slug": "google"
+  },
+  "segment": "midrange",
+  "summary": "Google Pixel 7a · Tầm trung · Giá và tồn kho demo.",
+  "description": "Google Pixel 7a thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/google-pixel-7a-1.svg",
+    "assets/images/catalog/google-pixel-7a-2.svg",
+    "assets/images/catalog/google-pixel-7a-3.svg",
+    "assets/images/catalog/google-pixel-7a-4.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": false,
+  "is_new": false,
+  "created_at": "2026-11-01T03:19:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 19901,
+      "sku": "NOVA-0199-019901",
+      "color": "Charcoal",
+      "color_hex": "#9aaab1",
+      "storage": "128GB",
+      "price": 7490000,
+      "original_price": 7990000,
+      "stock": 9,
+      "image": "assets/images/catalog/google-pixel-7a-1.svg"
+    },
+    {
+      "id": 19902,
+      "sku": "NOVA-0199-019902",
+      "color": "Snow",
+      "color_hex": "#9aaab1",
+      "storage": "128GB",
+      "price": 7540000,
+      "original_price": 8040000,
+      "stock": 16,
+      "image": "assets/images/catalog/google-pixel-7a-2.svg"
+    },
+    {
+      "id": 19903,
+      "sku": "NOVA-0199-019903",
+      "color": "Sea",
+      "color_hex": "#9aaab1",
+      "storage": "128GB",
+      "price": 7590000,
+      "original_price": 8090000,
+      "stock": 23,
+      "image": "assets/images/catalog/google-pixel-7a-3.svg"
+    },
+    {
+      "id": 19904,
+      "sku": "NOVA-0199-019904",
+      "color": "Coral",
+      "color_hex": "#ce8a7c",
+      "storage": "128GB",
+      "price": 7640000,
+      "original_price": 8140000,
+      "stock": 6,
+      "image": "assets/images/catalog/google-pixel-7a-4.svg"
+    }
+  ]
+}

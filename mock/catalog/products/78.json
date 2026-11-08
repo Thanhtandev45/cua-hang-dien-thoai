@@ -1,0 +1,140 @@
+{
+  "id": 78,
+  "slug": "samsung-galaxy-z-fold4",
+  "name": "Samsung Galaxy Z Fold4",
+  "brand": {
+    "id": 2,
+    "name": "Samsung",
+    "slug": "samsung"
+  },
+  "segment": "foldable",
+  "summary": "Samsung Galaxy Z Fold4 · Màn hình gập · Giá và tồn kho demo.",
+  "description": "Samsung Galaxy Z Fold4 thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/samsung-galaxy-z-fold4-1.svg",
+    "assets/images/catalog/samsung-galaxy-z-fold4-2.svg",
+    "assets/images/catalog/samsung-galaxy-z-fold4-3.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "256GB / 512GB / 1TB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": true,
+  "is_new": false,
+  "created_at": "2026-11-01T01:18:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.samsung.com/global/galaxy/galaxy-z-fold4/specs/",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 7801,
+      "sku": "NOVA-0078-007801",
+      "color": "Graygreen",
+      "color_hex": "#8e969d",
+      "storage": "256GB",
+      "price": 24990000,
+      "original_price": 25490000,
+      "stock": 2,
+      "image": "assets/images/catalog/samsung-galaxy-z-fold4-1.svg"
+    },
+    {
+      "id": 7802,
+      "sku": "NOVA-0078-007802",
+      "color": "Graygreen",
+      "color_hex": "#8e969d",
+      "storage": "512GB",
+      "price": 25990000,
+      "original_price": 26490000,
+      "stock": 9,
+      "image": "assets/images/catalog/samsung-galaxy-z-fold4-1.svg"
+    },
+    {
+      "id": 7803,
+      "sku": "NOVA-0078-007803",
+      "color": "Graygreen",
+      "color_hex": "#8e969d",
+      "storage": "1TB",
+      "price": 26990000,
+      "original_price": 27490000,
+      "stock": 16,
+      "image": "assets/images/catalog/samsung-galaxy-z-fold4-1.svg"
+    },
+    {
+      "id": 7804,
+      "sku": "NOVA-0078-007804",
+      "color": "Phantom Black",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 25040000,
+      "original_price": 25540000,
+      "stock": 23,
+      "image": "assets/images/catalog/samsung-galaxy-z-fold4-2.svg"
+    },
+    {
+      "id": 7805,
+      "sku": "NOVA-0078-007805",
+      "color": "Phantom Black",
+      "color_hex": "#30353c",
+      "storage": "512GB",
+      "price": 26040000,
+      "original_price": 26540000,
+      "stock": 6,
+      "image": "assets/images/catalog/samsung-galaxy-z-fold4-2.svg"
+    },
+    {
+      "id": 7806,
+      "sku": "NOVA-0078-007806",
+      "color": "Phantom Black",
+      "color_hex": "#30353c",
+      "storage": "1TB",
+      "price": 27040000,
+      "original_price": 27540000,
+      "stock": 13,
+      "image": "assets/images/catalog/samsung-galaxy-z-fold4-2.svg"
+    },
+    {
+      "id": 7807,
+      "sku": "NOVA-0078-007807",
+      "color": "Beige",
+      "color_hex": "#d4c2a0",
+      "storage": "256GB",
+      "price": 25090000,
+      "original_price": 25590000,
+      "stock": 20,
+      "image": "assets/images/catalog/samsung-galaxy-z-fold4-3.svg"
+    },
+    {
+      "id": 7808,
+      "sku": "NOVA-0078-007808",
+      "color": "Beige",
+      "color_hex": "#d4c2a0",
+      "storage": "512GB",
+      "price": 26090000,
+      "original_price": 26590000,
+      "stock": 3,
+      "image": "assets/images/catalog/samsung-galaxy-z-fold4-3.svg"
+    },
+    {
+      "id": 7809,
+      "sku": "NOVA-0078-007809",
+      "color": "Beige",
+      "color_hex": "#d4c2a0",
+      "storage": "1TB",
+      "price": 27090000,
+      "original_price": 27590000,
+      "stock": 10,
+      "image": "assets/images/catalog/samsung-galaxy-z-fold4-3.svg"
+    }
+  ]
+}

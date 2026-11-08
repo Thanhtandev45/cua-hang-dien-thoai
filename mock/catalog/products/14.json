@@ -1,0 +1,75 @@
+{
+  "id": 14,
+  "slug": "xiaomi-redmi-note-13",
+  "name": "Xiaomi Redmi Note 13",
+  "brand": {
+    "id": 3,
+    "name": "Xiaomi",
+    "slug": "xiaomi"
+  },
+  "summary": "Thiết kế hiện đại, màn hình sống động và trải nghiệm linh hoạt mỗi ngày.",
+  "description": "Xiaomi Redmi Note 13 là lựa chọn dành cho những trải nghiệm công nghệ hằng ngày: lưu giữ khoảnh khắc, làm việc và giải trí. Thông tin, giá và cấu hình trong bản trình diễn là dữ liệu phát triển, cần được thay thế bằng dữ liệu đã xác minh từ backend trước khi bán hàng.",
+  "images": [
+    "assets/images/xiaomi-black.svg",
+    "assets/images/phone-front.svg"
+  ],
+  "specs": {
+    "Màn hình": "AMOLED, cảm ứng đa điểm",
+    "Bộ nhớ": "128GB / 256GB",
+    "Kết nối": "Wi-Fi, Bluetooth, USB-C",
+    "Camera": "Hệ thống camera đa ống kính",
+    "Tình trạng": "Dữ liệu sản phẩm mẫu",
+    "Bảo hành": "Chính sách mẫu: 12 tháng"
+  },
+  "featured": false,
+  "is_new": false,
+  "created_at": "2026-10-15T08:00:00+07:00",
+  "variants": [
+    {
+      "id": 1401,
+      "color": "Đen",
+      "color_hex": "#3d4144",
+      "storage": "128GB",
+      "price": 3990000,
+      "original_price": 5990000,
+      "stock": 8,
+      "image": "assets/images/xiaomi-black.svg",
+      "sku": "NOVA-0014-001401"
+    },
+    {
+      "id": 1402,
+      "color": "Đen",
+      "color_hex": "#3d4144",
+      "storage": "256GB",
+      "price": 5990000,
+      "original_price": 7990000,
+      "stock": 4,
+      "image": "assets/images/xiaomi-black.svg",
+      "sku": "NOVA-0014-001402"
+    },
+    {
+      "id": 1403,
+      "color": "Đen",
+      "color_hex": "#34363a",
+      "storage": "128GB",
+      "price": 3990000,
+      "original_price": 5990000,
+      "stock": 3,
+      "image": "assets/images/xiaomi-black.svg",
+      "sku": "NOVA-0014-001403"
+    },
+    {
+      "id": 1404,
+      "color": "Đen",
+      "color_hex": "#34363a",
+      "storage": "256GB",
+      "price": 5990000,
+      "original_price": 7990000,
+      "stock": 2,
+      "image": "assets/images/xiaomi-black.svg",
+      "sku": "NOVA-0014-001404"
+    }
+  ],
+  "is_demo": true,
+  "data_quality": "legacy_unverified"
+}

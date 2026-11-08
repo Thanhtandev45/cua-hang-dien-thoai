@@ -1,0 +1,75 @@
+{
+  "id": 17,
+  "slug": "vivo-y28",
+  "name": "vivo Y28",
+  "brand": {
+    "id": 5,
+    "name": "vivo",
+    "slug": "vivo"
+  },
+  "summary": "Thiết kế hiện đại, màn hình sống động và trải nghiệm linh hoạt mỗi ngày.",
+  "description": "vivo Y28 là lựa chọn dành cho những trải nghiệm công nghệ hằng ngày: lưu giữ khoảnh khắc, làm việc và giải trí. Thông tin, giá và cấu hình trong bản trình diễn là dữ liệu phát triển, cần được thay thế bằng dữ liệu đã xác minh từ backend trước khi bán hàng.",
+  "images": [
+    "assets/images/vivo-blue.svg",
+    "assets/images/phone-front.svg"
+  ],
+  "specs": {
+    "Màn hình": "AMOLED, cảm ứng đa điểm",
+    "Bộ nhớ": "128GB / 256GB",
+    "Kết nối": "Wi-Fi, Bluetooth, USB-C",
+    "Camera": "Hệ thống camera đa ống kính",
+    "Tình trạng": "Dữ liệu sản phẩm mẫu",
+    "Bảo hành": "Chính sách mẫu: 12 tháng"
+  },
+  "featured": false,
+  "is_new": false,
+  "created_at": "2026-10-12T08:00:00+07:00",
+  "variants": [
+    {
+      "id": 1701,
+      "color": "Xanh lam",
+      "color_hex": "#7796ab",
+      "storage": "128GB",
+      "price": 4490000,
+      "original_price": 6490000,
+      "stock": 11,
+      "image": "assets/images/vivo-blue.svg",
+      "sku": "NOVA-0017-001701"
+    },
+    {
+      "id": 1702,
+      "color": "Xanh lam",
+      "color_hex": "#7796ab",
+      "storage": "256GB",
+      "price": 6490000,
+      "original_price": 8490000,
+      "stock": 4,
+      "image": "assets/images/vivo-blue.svg",
+      "sku": "NOVA-0017-001702"
+    },
+    {
+      "id": 1703,
+      "color": "Đen",
+      "color_hex": "#34363a",
+      "storage": "128GB",
+      "price": 4490000,
+      "original_price": 6490000,
+      "stock": 3,
+      "image": "assets/images/vivo-blue.svg",
+      "sku": "NOVA-0017-001703"
+    },
+    {
+      "id": 1704,
+      "color": "Đen",
+      "color_hex": "#34363a",
+      "storage": "256GB",
+      "price": 6490000,
+      "original_price": 8490000,
+      "stock": 2,
+      "image": "assets/images/vivo-blue.svg",
+      "sku": "NOVA-0017-001704"
+    }
+  ],
+  "is_demo": true,
+  "data_quality": "legacy_unverified"
+}

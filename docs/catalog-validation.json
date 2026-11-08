@@ -1,0 +1,28 @@
+{
+  "models": 250,
+  "brands": 14,
+  "variants": 1485,
+  "stock": 16420,
+  "zero_stock_variants": 117,
+  "models_per_brand": {
+    "Apple": 30,
+    "Samsung": 39,
+    "Xiaomi": 35,
+    "OPPO": 25,
+    "vivo": 25,
+    "realme": 20,
+    "HONOR": 15,
+    "Google Pixel": 15,
+    "OnePlus": 15,
+    "Motorola": 10,
+    "Nothing": 6,
+    "ASUS": 5,
+    "Sony Xperia": 5,
+    "TECNO": 5
+  },
+  "errors": [],
+  "warnings": [
+    "Preserved duplicate legacy option tuples in IDs [4, 13, 14, 20]; do not merge IDs referenced by existing carts."
+  ],
+  "scope": "Structural/demo integrity only; not manufacturer or regional SKU certification."
+}

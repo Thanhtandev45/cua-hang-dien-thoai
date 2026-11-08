@@ -1,0 +1,107 @@
+{
+  "id": 163,
+  "slug": "realme-gt-2",
+  "name": "realme GT 2",
+  "brand": {
+    "id": 6,
+    "name": "realme",
+    "slug": "realme"
+  },
+  "segment": "upper-midrange",
+  "summary": "realme GT 2 · Cận cao cấp · Giá và tồn kho demo.",
+  "description": "realme GT 2 thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/realme-gt-2-1.svg",
+    "assets/images/catalog/realme-gt-2-2.svg",
+    "assets/images/catalog/realme-gt-2-3.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB / 256GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": false,
+  "is_new": false,
+  "created_at": "2026-11-01T02:43:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.realme.com/global/realme-gt-2/specs",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 16301,
+      "sku": "NOVA-0163-016301",
+      "color": "Paper White",
+      "color_hex": "#e8e5dc",
+      "storage": "128GB",
+      "price": 7490000,
+      "original_price": 7990000,
+      "stock": 21,
+      "image": "assets/images/catalog/realme-gt-2-1.svg"
+    },
+    {
+      "id": 16302,
+      "sku": "NOVA-0163-016302",
+      "color": "Paper White",
+      "color_hex": "#e8e5dc",
+      "storage": "256GB",
+      "price": 8490000,
+      "original_price": 8990000,
+      "stock": 4,
+      "image": "assets/images/catalog/realme-gt-2-1.svg"
+    },
+    {
+      "id": 16303,
+      "sku": "NOVA-0163-016303",
+      "color": "Paper Green",
+      "color_hex": "#729183",
+      "storage": "128GB",
+      "price": 7540000,
+      "original_price": 8040000,
+      "stock": 11,
+      "image": "assets/images/catalog/realme-gt-2-2.svg"
+    },
+    {
+      "id": 16304,
+      "sku": "NOVA-0163-016304",
+      "color": "Paper Green",
+      "color_hex": "#729183",
+      "storage": "256GB",
+      "price": 8540000,
+      "original_price": 9040000,
+      "stock": 18,
+      "image": "assets/images/catalog/realme-gt-2-2.svg"
+    },
+    {
+      "id": 16305,
+      "sku": "NOVA-0163-016305",
+      "color": "Steel Black",
+      "color_hex": "#30353c",
+      "storage": "128GB",
+      "price": 7590000,
+      "original_price": 8090000,
+      "stock": 1,
+      "image": "assets/images/catalog/realme-gt-2-3.svg"
+    },
+    {
+      "id": 16306,
+      "sku": "NOVA-0163-016306",
+      "color": "Steel Black",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 8590000,
+      "original_price": 9090000,
+      "stock": 8,
+      "image": "assets/images/catalog/realme-gt-2-3.svg"
+    }
+  ]
+}

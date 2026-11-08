@@ -1,0 +1,84 @@
+{
+  "id": 173,
+  "slug": "realme-c55",
+  "name": "realme C55",
+  "brand": {
+    "id": 6,
+    "name": "realme",
+    "slug": "realme"
+  },
+  "segment": "budget",
+  "summary": "realme C55 · Phổ thông · Giá và tồn kho demo.",
+  "description": "realme C55 thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/realme-c55-1.svg",
+    "assets/images/catalog/realme-c55-2.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB / 256GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": false,
+  "is_new": false,
+  "created_at": "2026-11-01T02:53:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.realme.com/global/realme-c55/specs",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 17301,
+      "sku": "NOVA-0173-017301",
+      "color": "Sunshower",
+      "color_hex": "#9aaab1",
+      "storage": "128GB",
+      "price": 3290000,
+      "original_price": 3790000,
+      "stock": 19,
+      "image": "assets/images/catalog/realme-c55-1.svg"
+    },
+    {
+      "id": 17302,
+      "sku": "NOVA-0173-017302",
+      "color": "Sunshower",
+      "color_hex": "#9aaab1",
+      "storage": "256GB",
+      "price": 4290000,
+      "original_price": 4790000,
+      "stock": 2,
+      "image": "assets/images/catalog/realme-c55-1.svg"
+    },
+    {
+      "id": 17303,
+      "sku": "NOVA-0173-017303",
+      "color": "Rainy Night",
+      "color_hex": "#9aaab1",
+      "storage": "128GB",
+      "price": 3340000,
+      "original_price": 3840000,
+      "stock": 9,
+      "image": "assets/images/catalog/realme-c55-2.svg"
+    },
+    {
+      "id": 17304,
+      "sku": "NOVA-0173-017304",
+      "color": "Rainy Night",
+      "color_hex": "#9aaab1",
+      "storage": "256GB",
+      "price": 4340000,
+      "original_price": 4840000,
+      "stock": 16,
+      "image": "assets/images/catalog/realme-c55-2.svg"
+    }
+  ]
+}

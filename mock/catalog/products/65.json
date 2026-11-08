@@ -1,0 +1,130 @@
+{
+  "id": 65,
+  "slug": "samsung-galaxy-a53-5g",
+  "name": "Samsung Galaxy A53 5G",
+  "brand": {
+    "id": 2,
+    "name": "Samsung",
+    "slug": "samsung"
+  },
+  "segment": "midrange",
+  "summary": "Samsung Galaxy A53 5G · Tầm trung · Giá và tồn kho demo.",
+  "description": "Samsung Galaxy A53 5G thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/samsung-galaxy-a53-5g-1.svg",
+    "assets/images/catalog/samsung-galaxy-a53-5g-2.svg",
+    "assets/images/catalog/samsung-galaxy-a53-5g-3.svg",
+    "assets/images/catalog/samsung-galaxy-a53-5g-4.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB / 256GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": false,
+  "is_new": false,
+  "created_at": "2026-11-01T01:05:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.samsung.com/global/galaxy/galaxy-a53-5g/specs/",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 6501,
+      "sku": "NOVA-0065-006501",
+      "color": "Awesome Black",
+      "color_hex": "#30353c",
+      "storage": "128GB",
+      "price": 6490000,
+      "original_price": 6990000,
+      "stock": 7,
+      "image": "assets/images/catalog/samsung-galaxy-a53-5g-1.svg"
+    },
+    {
+      "id": 6502,
+      "sku": "NOVA-0065-006502",
+      "color": "Awesome Black",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 7490000,
+      "original_price": 7990000,
+      "stock": 14,
+      "image": "assets/images/catalog/samsung-galaxy-a53-5g-1.svg"
+    },
+    {
+      "id": 6503,
+      "sku": "NOVA-0065-006503",
+      "color": "Awesome White",
+      "color_hex": "#e8e5dc",
+      "storage": "128GB",
+      "price": 6540000,
+      "original_price": 7040000,
+      "stock": 21,
+      "image": "assets/images/catalog/samsung-galaxy-a53-5g-2.svg"
+    },
+    {
+      "id": 6504,
+      "sku": "NOVA-0065-006504",
+      "color": "Awesome White",
+      "color_hex": "#e8e5dc",
+      "storage": "256GB",
+      "price": 7540000,
+      "original_price": 8040000,
+      "stock": 4,
+      "image": "assets/images/catalog/samsung-galaxy-a53-5g-2.svg"
+    },
+    {
+      "id": 6505,
+      "sku": "NOVA-0065-006505",
+      "color": "Awesome Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "128GB",
+      "price": 6590000,
+      "original_price": 7090000,
+      "stock": 11,
+      "image": "assets/images/catalog/samsung-galaxy-a53-5g-3.svg"
+    },
+    {
+      "id": 6506,
+      "sku": "NOVA-0065-006506",
+      "color": "Awesome Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "256GB",
+      "price": 7590000,
+      "original_price": 8090000,
+      "stock": 18,
+      "image": "assets/images/catalog/samsung-galaxy-a53-5g-3.svg"
+    },
+    {
+      "id": 6507,
+      "sku": "NOVA-0065-006507",
+      "color": "Awesome Peach",
+      "color_hex": "#9aaab1",
+      "storage": "128GB",
+      "price": 6640000,
+      "original_price": 7140000,
+      "stock": 1,
+      "image": "assets/images/catalog/samsung-galaxy-a53-5g-4.svg"
+    },
+    {
+      "id": 6508,
+      "sku": "NOVA-0065-006508",
+      "color": "Awesome Peach",
+      "color_hex": "#9aaab1",
+      "storage": "256GB",
+      "price": 7640000,
+      "original_price": 8140000,
+      "stock": 8,
+      "image": "assets/images/catalog/samsung-galaxy-a53-5g-4.svg"
+    }
+  ]
+}

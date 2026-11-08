@@ -1,0 +1,218 @@
+{
+  "id": 28,
+  "slug": "iphone-14-pro",
+  "name": "iPhone 14 Pro",
+  "brand": {
+    "id": 1,
+    "name": "Apple",
+    "slug": "apple"
+  },
+  "segment": "flagship",
+  "summary": "iPhone 14 Pro · Cao cấp · Giá và tồn kho demo.",
+  "description": "iPhone 14 Pro thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/iphone-14-pro-1.svg",
+    "assets/images/catalog/iphone-14-pro-2.svg",
+    "assets/images/catalog/iphone-14-pro-3.svg",
+    "assets/images/catalog/iphone-14-pro-4.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB / 256GB / 512GB / 1TB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": false,
+  "is_new": true,
+  "created_at": "2026-11-01T00:28:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://support.apple.com/en-gb/108044",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 2801,
+      "sku": "NOVA-0028-002801",
+      "color": "Space Black",
+      "color_hex": "#30353c",
+      "storage": "128GB",
+      "price": 18990000,
+      "original_price": 18990000,
+      "stock": 12,
+      "image": "assets/images/catalog/iphone-14-pro-1.svg"
+    },
+    {
+      "id": 2802,
+      "sku": "NOVA-0028-002802",
+      "color": "Space Black",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 19990000,
+      "original_price": 19990000,
+      "stock": 19,
+      "image": "assets/images/catalog/iphone-14-pro-1.svg"
+    },
+    {
+      "id": 2803,
+      "sku": "NOVA-0028-002803",
+      "color": "Space Black",
+      "color_hex": "#30353c",
+      "storage": "512GB",
+      "price": 20990000,
+      "original_price": 20990000,
+      "stock": 2,
+      "image": "assets/images/catalog/iphone-14-pro-1.svg"
+    },
+    {
+      "id": 2804,
+      "sku": "NOVA-0028-002804",
+      "color": "Space Black",
+      "color_hex": "#30353c",
+      "storage": "1TB",
+      "price": 21990000,
+      "original_price": 21990000,
+      "stock": 9,
+      "image": "assets/images/catalog/iphone-14-pro-1.svg"
+    },
+    {
+      "id": 2805,
+      "sku": "NOVA-0028-002805",
+      "color": "Silver",
+      "color_hex": "#bdc4cb",
+      "storage": "128GB",
+      "price": 19040000,
+      "original_price": 19040000,
+      "stock": 16,
+      "image": "assets/images/catalog/iphone-14-pro-2.svg"
+    },
+    {
+      "id": 2806,
+      "sku": "NOVA-0028-002806",
+      "color": "Silver",
+      "color_hex": "#bdc4cb",
+      "storage": "256GB",
+      "price": 20040000,
+      "original_price": 20040000,
+      "stock": 0,
+      "image": "assets/images/catalog/iphone-14-pro-2.svg"
+    },
+    {
+      "id": 2807,
+      "sku": "NOVA-0028-002807",
+      "color": "Silver",
+      "color_hex": "#bdc4cb",
+      "storage": "512GB",
+      "price": 21040000,
+      "original_price": 21040000,
+      "stock": 6,
+      "image": "assets/images/catalog/iphone-14-pro-2.svg"
+    },
+    {
+      "id": 2808,
+      "sku": "NOVA-0028-002808",
+      "color": "Silver",
+      "color_hex": "#bdc4cb",
+      "storage": "1TB",
+      "price": 22040000,
+      "original_price": 22040000,
+      "stock": 13,
+      "image": "assets/images/catalog/iphone-14-pro-2.svg"
+    },
+    {
+      "id": 2809,
+      "sku": "NOVA-0028-002809",
+      "color": "Gold",
+      "color_hex": "#c7af84",
+      "storage": "128GB",
+      "price": 19090000,
+      "original_price": 19090000,
+      "stock": 20,
+      "image": "assets/images/catalog/iphone-14-pro-3.svg"
+    },
+    {
+      "id": 2810,
+      "sku": "NOVA-0028-002810",
+      "color": "Gold",
+      "color_hex": "#c7af84",
+      "storage": "256GB",
+      "price": 20090000,
+      "original_price": 20090000,
+      "stock": 3,
+      "image": "assets/images/catalog/iphone-14-pro-3.svg"
+    },
+    {
+      "id": 2811,
+      "sku": "NOVA-0028-002811",
+      "color": "Gold",
+      "color_hex": "#c7af84",
+      "storage": "512GB",
+      "price": 21090000,
+      "original_price": 21090000,
+      "stock": 10,
+      "image": "assets/images/catalog/iphone-14-pro-3.svg"
+    },
+    {
+      "id": 2812,
+      "sku": "NOVA-0028-002812",
+      "color": "Gold",
+      "color_hex": "#c7af84",
+      "storage": "1TB",
+      "price": 22090000,
+      "original_price": 22090000,
+      "stock": 17,
+      "image": "assets/images/catalog/iphone-14-pro-3.svg"
+    },
+    {
+      "id": 2813,
+      "sku": "NOVA-0028-002813",
+      "color": "Deep Purple",
+      "color_hex": "#a399b7",
+      "storage": "128GB",
+      "price": 19140000,
+      "original_price": 19140000,
+      "stock": 24,
+      "image": "assets/images/catalog/iphone-14-pro-4.svg"
+    },
+    {
+      "id": 2814,
+      "sku": "NOVA-0028-002814",
+      "color": "Deep Purple",
+      "color_hex": "#a399b7",
+      "storage": "256GB",
+      "price": 20140000,
+      "original_price": 20140000,
+      "stock": 7,
+      "image": "assets/images/catalog/iphone-14-pro-4.svg"
+    },
+    {
+      "id": 2815,
+      "sku": "NOVA-0028-002815",
+      "color": "Deep Purple",
+      "color_hex": "#a399b7",
+      "storage": "512GB",
+      "price": 21140000,
+      "original_price": 21140000,
+      "stock": 14,
+      "image": "assets/images/catalog/iphone-14-pro-4.svg"
+    },
+    {
+      "id": 2816,
+      "sku": "NOVA-0028-002816",
+      "color": "Deep Purple",
+      "color_hex": "#a399b7",
+      "storage": "1TB",
+      "price": 22140000,
+      "original_price": 22140000,
+      "stock": 21,
+      "image": "assets/images/catalog/iphone-14-pro-4.svg"
+    }
+  ]
+}
