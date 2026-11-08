@@ -1,0 +1,106 @@
+{
+  "id": 109,
+  "slug": "poco-f6-pro",
+  "name": "POCO F6 Pro",
+  "brand": {
+    "id": 3,
+    "name": "Xiaomi",
+    "slug": "xiaomi"
+  },
+  "segment": "flagship",
+  "summary": "POCO F6 Pro · Cao cấp · Giá và tồn kho demo.",
+  "description": "POCO F6 Pro thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/poco-f6-pro-1.svg",
+    "assets/images/catalog/poco-f6-pro-2.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "256GB / 512GB / 1TB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": false,
+  "is_new": false,
+  "created_at": "2026-11-01T01:49:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.mi.com/global/product/poco-f6-pro/specs/",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 10901,
+      "sku": "NOVA-0109-010901",
+      "color": "Black",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 12990000,
+      "original_price": 13490000,
+      "stock": 3,
+      "image": "assets/images/catalog/poco-f6-pro-1.svg"
+    },
+    {
+      "id": 10902,
+      "sku": "NOVA-0109-010902",
+      "color": "Black",
+      "color_hex": "#30353c",
+      "storage": "512GB",
+      "price": 13990000,
+      "original_price": 14490000,
+      "stock": 0,
+      "image": "assets/images/catalog/poco-f6-pro-1.svg"
+    },
+    {
+      "id": 10903,
+      "sku": "NOVA-0109-010903",
+      "color": "Black",
+      "color_hex": "#30353c",
+      "storage": "1TB",
+      "price": 14990000,
+      "original_price": 15490000,
+      "stock": 17,
+      "image": "assets/images/catalog/poco-f6-pro-1.svg"
+    },
+    {
+      "id": 10904,
+      "sku": "NOVA-0109-010904",
+      "color": "White",
+      "color_hex": "#e8e5dc",
+      "storage": "256GB",
+      "price": 13040000,
+      "original_price": 13540000,
+      "stock": 24,
+      "image": "assets/images/catalog/poco-f6-pro-2.svg"
+    },
+    {
+      "id": 10905,
+      "sku": "NOVA-0109-010905",
+      "color": "White",
+      "color_hex": "#e8e5dc",
+      "storage": "512GB",
+      "price": 14040000,
+      "original_price": 14540000,
+      "stock": 7,
+      "image": "assets/images/catalog/poco-f6-pro-2.svg"
+    },
+    {
+      "id": 10906,
+      "sku": "NOVA-0109-010906",
+      "color": "White",
+      "color_hex": "#e8e5dc",
+      "storage": "1TB",
+      "price": 15040000,
+      "original_price": 15540000,
+      "stock": 14,
+      "image": "assets/images/catalog/poco-f6-pro-2.svg"
+    }
+  ]
+}

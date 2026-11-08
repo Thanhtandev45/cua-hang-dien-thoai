@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Apple",
+    "slug": "apple"
+  },
+  {
+    "id": 2,
+    "name": "Samsung",
+    "slug": "samsung"
+  },
+  {
+    "id": 3,
+    "name": "Xiaomi",
+    "slug": "xiaomi"
+  },
+  {
+    "id": 4,
+    "name": "OPPO",
+    "slug": "oppo"
+  },
+  {
+    "id": 5,
+    "name": "vivo",
+    "slug": "vivo"
+  },
+  {
+    "id": 6,
+    "name": "realme",
+    "slug": "realme"
+  },
+  {
+    "id": 7,
+    "name": "HONOR",
+    "slug": "honor"
+  },
+  {
+    "id": 8,
+    "name": "Google Pixel",
+    "slug": "google"
+  },
+  {
+    "id": 9,
+    "name": "OnePlus",
+    "slug": "oneplus"
+  },
+  {
+    "id": 10,
+    "name": "Motorola",
+    "slug": "motorola"
+  },
+  {
+    "id": 11,
+    "name": "Nothing",
+    "slug": "nothing"
+  },
+  {
+    "id": 12,
+    "name": "ASUS",
+    "slug": "asus"
+  },
+  {
+    "id": 13,
+    "name": "Sony Xperia",
+    "slug": "sony"
+  },
+  {
+    "id": 14,
+    "name": "TECNO",
+    "slug": "tecno"
+  }
+]

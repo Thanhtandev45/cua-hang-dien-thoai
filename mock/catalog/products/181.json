@@ -1,0 +1,84 @@
+{
+  "id": 181,
+  "slug": "honor-magic-vs",
+  "name": "HONOR Magic Vs",
+  "brand": {
+    "id": 7,
+    "name": "HONOR",
+    "slug": "honor"
+  },
+  "segment": "foldable",
+  "summary": "HONOR Magic Vs · Màn hình gập · Giá và tồn kho demo.",
+  "description": "HONOR Magic Vs thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/honor-magic-vs-1.svg",
+    "assets/images/catalog/honor-magic-vs-2.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "256GB / 512GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": false,
+  "is_new": false,
+  "created_at": "2026-11-01T03:01:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.honor.com/global/phones/honor-magic-vs/spec/",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 18101,
+      "sku": "NOVA-0181-018101",
+      "color": "Black",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 21990000,
+      "original_price": 22490000,
+      "stock": 3,
+      "image": "assets/images/catalog/honor-magic-vs-1.svg"
+    },
+    {
+      "id": 18102,
+      "sku": "NOVA-0181-018102",
+      "color": "Black",
+      "color_hex": "#30353c",
+      "storage": "512GB",
+      "price": 22990000,
+      "original_price": 23490000,
+      "stock": 10,
+      "image": "assets/images/catalog/honor-magic-vs-1.svg"
+    },
+    {
+      "id": 18103,
+      "sku": "NOVA-0181-018103",
+      "color": "Cyan",
+      "color_hex": "#8bbdbb",
+      "storage": "256GB",
+      "price": 22040000,
+      "original_price": 22540000,
+      "stock": 17,
+      "image": "assets/images/catalog/honor-magic-vs-2.svg"
+    },
+    {
+      "id": 18104,
+      "sku": "NOVA-0181-018104",
+      "color": "Cyan",
+      "color_hex": "#8bbdbb",
+      "storage": "512GB",
+      "price": 23040000,
+      "original_price": 23540000,
+      "stock": 24,
+      "image": "assets/images/catalog/honor-magic-vs-2.svg"
+    }
+  ]
+}

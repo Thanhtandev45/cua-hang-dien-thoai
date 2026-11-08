@@ -1,0 +1,84 @@
+{
+  "id": 154,
+  "slug": "vivo-y36",
+  "name": "vivo Y36",
+  "brand": {
+    "id": 5,
+    "name": "vivo",
+    "slug": "vivo"
+  },
+  "segment": "budget",
+  "summary": "vivo Y36 · Phổ thông · Giá và tồn kho demo.",
+  "description": "vivo Y36 thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/vivo-y36-1.svg",
+    "assets/images/catalog/vivo-y36-2.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB / 256GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": false,
+  "is_new": true,
+  "created_at": "2026-11-01T02:34:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.vivo.com/en/products/param/y36",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 15401,
+      "sku": "NOVA-0154-015401",
+      "color": "Glitter Aqua",
+      "color_hex": "#9aaab1",
+      "storage": "128GB",
+      "price": 3990000,
+      "original_price": 4490000,
+      "stock": 6,
+      "image": "assets/images/catalog/vivo-y36-1.svg"
+    },
+    {
+      "id": 15402,
+      "sku": "NOVA-0154-015402",
+      "color": "Glitter Aqua",
+      "color_hex": "#9aaab1",
+      "storage": "256GB",
+      "price": 4990000,
+      "original_price": 5490000,
+      "stock": 13,
+      "image": "assets/images/catalog/vivo-y36-1.svg"
+    },
+    {
+      "id": 15403,
+      "sku": "NOVA-0154-015403",
+      "color": "Meteor Black",
+      "color_hex": "#30353c",
+      "storage": "128GB",
+      "price": 4040000,
+      "original_price": 4540000,
+      "stock": 20,
+      "image": "assets/images/catalog/vivo-y36-2.svg"
+    },
+    {
+      "id": 15404,
+      "sku": "NOVA-0154-015404",
+      "color": "Meteor Black",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 5040000,
+      "original_price": 5540000,
+      "stock": 3,
+      "image": "assets/images/catalog/vivo-y36-2.svg"
+    }
+  ]
+}

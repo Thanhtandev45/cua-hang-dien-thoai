@@ -1,0 +1,75 @@
+{
+  "id": 7,
+  "slug": "vivo-v30-5g",
+  "name": "vivo V30 5G",
+  "brand": {
+    "id": 5,
+    "name": "vivo",
+    "slug": "vivo"
+  },
+  "summary": "Thiết kế hiện đại, màn hình sống động và trải nghiệm linh hoạt mỗi ngày.",
+  "description": "vivo V30 5G là lựa chọn dành cho những trải nghiệm công nghệ hằng ngày: lưu giữ khoảnh khắc, làm việc và giải trí. Thông tin, giá và cấu hình trong bản trình diễn là dữ liệu phát triển, cần được thay thế bằng dữ liệu đã xác minh từ backend trước khi bán hàng.",
+  "images": [
+    "assets/images/vivo-blue.svg",
+    "assets/images/phone-front.svg"
+  ],
+  "specs": {
+    "Màn hình": "AMOLED, cảm ứng đa điểm",
+    "Bộ nhớ": "256GB / 512GB",
+    "Kết nối": "Wi-Fi, Bluetooth, USB-C",
+    "Camera": "Hệ thống camera đa ống kính",
+    "Tình trạng": "Dữ liệu sản phẩm mẫu",
+    "Bảo hành": "Chính sách mẫu: 12 tháng"
+  },
+  "featured": true,
+  "is_new": false,
+  "created_at": "2026-10-22T08:00:00+07:00",
+  "variants": [
+    {
+      "id": 701,
+      "color": "Xanh biển",
+      "color_hex": "#82b6cf",
+      "storage": "256GB",
+      "price": 10490000,
+      "original_price": 11990000,
+      "stock": 8,
+      "image": "assets/images/vivo-blue.svg",
+      "sku": "NOVA-0007-000701"
+    },
+    {
+      "id": 702,
+      "color": "Xanh biển",
+      "color_hex": "#82b6cf",
+      "storage": "512GB",
+      "price": 12490000,
+      "original_price": 13990000,
+      "stock": 4,
+      "image": "assets/images/vivo-blue.svg",
+      "sku": "NOVA-0007-000702"
+    },
+    {
+      "id": 703,
+      "color": "Đen",
+      "color_hex": "#34363a",
+      "storage": "256GB",
+      "price": 10490000,
+      "original_price": 11990000,
+      "stock": 3,
+      "image": "assets/images/vivo-blue.svg",
+      "sku": "NOVA-0007-000703"
+    },
+    {
+      "id": 704,
+      "color": "Đen",
+      "color_hex": "#34363a",
+      "storage": "512GB",
+      "price": 12490000,
+      "original_price": 13990000,
+      "stock": 2,
+      "image": "assets/images/vivo-blue.svg",
+      "sku": "NOVA-0007-000704"
+    }
+  ],
+  "is_demo": true,
+  "data_quality": "legacy_unverified"
+}

@@ -1,0 +1,108 @@
+{
+  "id": 240,
+  "slug": "asus-zenfone-9",
+  "name": "ASUS Zenfone 9",
+  "brand": {
+    "id": 12,
+    "name": "ASUS",
+    "slug": "asus"
+  },
+  "segment": "upper-midrange",
+  "summary": "ASUS Zenfone 9 · Cận cao cấp · Giá và tồn kho demo.",
+  "description": "ASUS Zenfone 9 thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/asus-zenfone-9-1.svg",
+    "assets/images/catalog/asus-zenfone-9-2.svg",
+    "assets/images/catalog/asus-zenfone-9-3.svg",
+    "assets/images/catalog/asus-zenfone-9-4.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB / 256GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": true,
+  "is_new": false,
+  "created_at": "2026-11-01T04:00:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.asus.com/mobile-handhelds/phones/zenfone/zenfone-9/techspec/",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 24001,
+      "sku": "NOVA-0240-024001",
+      "color": "Midnight Black",
+      "color_hex": "#30353c",
+      "storage": "128GB",
+      "price": 10990000,
+      "original_price": 10990000,
+      "stock": 8,
+      "image": "assets/images/catalog/asus-zenfone-9-1.svg"
+    },
+    {
+      "id": 24002,
+      "sku": "NOVA-0240-024002",
+      "color": "Midnight Black",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 11990000,
+      "original_price": 11990000,
+      "stock": 15,
+      "image": "assets/images/catalog/asus-zenfone-9-1.svg"
+    },
+    {
+      "id": 24003,
+      "sku": "NOVA-0240-024003",
+      "color": "Moonlight White",
+      "color_hex": "#e8e5dc",
+      "storage": "128GB",
+      "price": 11040000,
+      "original_price": 11040000,
+      "stock": 22,
+      "image": "assets/images/catalog/asus-zenfone-9-2.svg"
+    },
+    {
+      "id": 24004,
+      "sku": "NOVA-0240-024004",
+      "color": "Moonlight White",
+      "color_hex": "#e8e5dc",
+      "storage": "256GB",
+      "price": 12040000,
+      "original_price": 12040000,
+      "stock": 5,
+      "image": "assets/images/catalog/asus-zenfone-9-2.svg"
+    },
+    {
+      "id": 24005,
+      "sku": "NOVA-0240-024005",
+      "color": "Sunset Red",
+      "color_hex": "#ac4b54",
+      "storage": "128GB",
+      "price": 11090000,
+      "original_price": 11090000,
+      "stock": 0,
+      "image": "assets/images/catalog/asus-zenfone-9-3.svg"
+    },
+    {
+      "id": 24006,
+      "sku": "NOVA-0240-024006",
+      "color": "Starry Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "128GB",
+      "price": 11140000,
+      "original_price": 11140000,
+      "stock": 19,
+      "image": "assets/images/catalog/asus-zenfone-9-4.svg"
+    }
+  ]
+}

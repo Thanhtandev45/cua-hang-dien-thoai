@@ -1,0 +1,107 @@
+{
+  "id": 186,
+  "slug": "honor-70",
+  "name": "HONOR 70",
+  "brand": {
+    "id": 7,
+    "name": "HONOR",
+    "slug": "honor"
+  },
+  "segment": "midrange",
+  "summary": "HONOR 70 · Tầm trung · Giá và tồn kho demo.",
+  "description": "HONOR 70 thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/honor-70-1.svg",
+    "assets/images/catalog/honor-70-2.svg",
+    "assets/images/catalog/honor-70-3.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB / 256GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": true,
+  "is_new": false,
+  "created_at": "2026-11-01T03:06:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.honor.com/global/phones/honor-70/spec/",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 18601,
+      "sku": "NOVA-0186-018601",
+      "color": "Crystal Silver",
+      "color_hex": "#bdc4cb",
+      "storage": "128GB",
+      "price": 5990000,
+      "original_price": 6490000,
+      "stock": 14,
+      "image": "assets/images/catalog/honor-70-1.svg"
+    },
+    {
+      "id": 18602,
+      "sku": "NOVA-0186-018602",
+      "color": "Crystal Silver",
+      "color_hex": "#bdc4cb",
+      "storage": "256GB",
+      "price": 6990000,
+      "original_price": 7490000,
+      "stock": 21,
+      "image": "assets/images/catalog/honor-70-1.svg"
+    },
+    {
+      "id": 18603,
+      "sku": "NOVA-0186-018603",
+      "color": "Emerald Green",
+      "color_hex": "#729183",
+      "storage": "128GB",
+      "price": 6040000,
+      "original_price": 6540000,
+      "stock": 4,
+      "image": "assets/images/catalog/honor-70-2.svg"
+    },
+    {
+      "id": 18604,
+      "sku": "NOVA-0186-018604",
+      "color": "Emerald Green",
+      "color_hex": "#729183",
+      "storage": "256GB",
+      "price": 7040000,
+      "original_price": 7540000,
+      "stock": 11,
+      "image": "assets/images/catalog/honor-70-2.svg"
+    },
+    {
+      "id": 18605,
+      "sku": "NOVA-0186-018605",
+      "color": "Midnight Black",
+      "color_hex": "#30353c",
+      "storage": "128GB",
+      "price": 6090000,
+      "original_price": 6590000,
+      "stock": 18,
+      "image": "assets/images/catalog/honor-70-3.svg"
+    },
+    {
+      "id": 18606,
+      "sku": "NOVA-0186-018606",
+      "color": "Midnight Black",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 7090000,
+      "original_price": 7590000,
+      "stock": 1,
+      "image": "assets/images/catalog/honor-70-3.svg"
+    }
+  ]
+}

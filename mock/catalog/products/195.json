@@ -1,0 +1,152 @@
+{
+  "id": 195,
+  "slug": "google-pixel-8-pro",
+  "name": "Google Pixel 8 Pro",
+  "brand": {
+    "id": 8,
+    "name": "Google Pixel",
+    "slug": "google"
+  },
+  "segment": "flagship",
+  "summary": "Google Pixel 8 Pro · Cao cấp · Giá và tồn kho demo.",
+  "description": "Google Pixel 8 Pro thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/google-pixel-8-pro-1.svg",
+    "assets/images/catalog/google-pixel-8-pro-2.svg",
+    "assets/images/catalog/google-pixel-8-pro-3.svg",
+    "assets/images/catalog/google-pixel-8-pro-4.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB / 256GB / 512GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": true,
+  "is_new": false,
+  "created_at": "2026-11-01T03:15:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 19501,
+      "sku": "NOVA-0195-019501",
+      "color": "Obsidian",
+      "color_hex": "#30353c",
+      "storage": "128GB",
+      "price": 16990000,
+      "original_price": 17490000,
+      "stock": 5,
+      "image": "assets/images/catalog/google-pixel-8-pro-1.svg"
+    },
+    {
+      "id": 19502,
+      "sku": "NOVA-0195-019502",
+      "color": "Obsidian",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 17990000,
+      "original_price": 18490000,
+      "stock": 12,
+      "image": "assets/images/catalog/google-pixel-8-pro-1.svg"
+    },
+    {
+      "id": 19503,
+      "sku": "NOVA-0195-019503",
+      "color": "Obsidian",
+      "color_hex": "#30353c",
+      "storage": "512GB",
+      "price": 18990000,
+      "original_price": 19490000,
+      "stock": 19,
+      "image": "assets/images/catalog/google-pixel-8-pro-1.svg"
+    },
+    {
+      "id": 19504,
+      "sku": "NOVA-0195-019504",
+      "color": "Porcelain",
+      "color_hex": "#e6dfce",
+      "storage": "128GB",
+      "price": 17040000,
+      "original_price": 17540000,
+      "stock": 2,
+      "image": "assets/images/catalog/google-pixel-8-pro-2.svg"
+    },
+    {
+      "id": 19505,
+      "sku": "NOVA-0195-019505",
+      "color": "Porcelain",
+      "color_hex": "#e6dfce",
+      "storage": "256GB",
+      "price": 18040000,
+      "original_price": 18540000,
+      "stock": 9,
+      "image": "assets/images/catalog/google-pixel-8-pro-2.svg"
+    },
+    {
+      "id": 19506,
+      "sku": "NOVA-0195-019506",
+      "color": "Porcelain",
+      "color_hex": "#e6dfce",
+      "storage": "512GB",
+      "price": 19040000,
+      "original_price": 19540000,
+      "stock": 16,
+      "image": "assets/images/catalog/google-pixel-8-pro-2.svg"
+    },
+    {
+      "id": 19507,
+      "sku": "NOVA-0195-019507",
+      "color": "Bay",
+      "color_hex": "#87accd",
+      "storage": "128GB",
+      "price": 17090000,
+      "original_price": 17590000,
+      "stock": 23,
+      "image": "assets/images/catalog/google-pixel-8-pro-3.svg"
+    },
+    {
+      "id": 19508,
+      "sku": "NOVA-0195-019508",
+      "color": "Bay",
+      "color_hex": "#87accd",
+      "storage": "256GB",
+      "price": 18090000,
+      "original_price": 18590000,
+      "stock": 6,
+      "image": "assets/images/catalog/google-pixel-8-pro-3.svg"
+    },
+    {
+      "id": 19509,
+      "sku": "NOVA-0195-019509",
+      "color": "Bay",
+      "color_hex": "#87accd",
+      "storage": "512GB",
+      "price": 19090000,
+      "original_price": 19590000,
+      "stock": 13,
+      "image": "assets/images/catalog/google-pixel-8-pro-3.svg"
+    },
+    {
+      "id": 19510,
+      "sku": "NOVA-0195-019510",
+      "color": "Mint",
+      "color_hex": "#a2c8b6",
+      "storage": "128GB",
+      "price": 17140000,
+      "original_price": 17640000,
+      "stock": 20,
+      "image": "assets/images/catalog/google-pixel-8-pro-4.svg"
+    }
+  ]
+}

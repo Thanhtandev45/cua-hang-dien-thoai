@@ -1,0 +1,84 @@
+{
+  "id": 165,
+  "slug": "realme-gt-master-edition",
+  "name": "realme GT Master Edition",
+  "brand": {
+    "id": 6,
+    "name": "realme",
+    "slug": "realme"
+  },
+  "segment": "midrange",
+  "summary": "realme GT Master Edition · Tầm trung · Giá và tồn kho demo.",
+  "description": "realme GT Master Edition thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/realme-gt-master-edition-1.svg",
+    "assets/images/catalog/realme-gt-master-edition-2.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB / 256GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": true,
+  "is_new": false,
+  "created_at": "2026-11-01T02:45:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.realme.com/global/realme-gt-master-edition/specs",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 16501,
+      "sku": "NOVA-0165-016501",
+      "color": "Voyager Grey",
+      "color_hex": "#8e969d",
+      "storage": "128GB",
+      "price": 4990000,
+      "original_price": 5490000,
+      "stock": 0,
+      "image": "assets/images/catalog/realme-gt-master-edition-1.svg"
+    },
+    {
+      "id": 16502,
+      "sku": "NOVA-0165-016502",
+      "color": "Voyager Grey",
+      "color_hex": "#8e969d",
+      "storage": "256GB",
+      "price": 5990000,
+      "original_price": 6490000,
+      "stock": 18,
+      "image": "assets/images/catalog/realme-gt-master-edition-1.svg"
+    },
+    {
+      "id": 16503,
+      "sku": "NOVA-0165-016503",
+      "color": "Daybreak Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "128GB",
+      "price": 5040000,
+      "original_price": 5540000,
+      "stock": 1,
+      "image": "assets/images/catalog/realme-gt-master-edition-2.svg"
+    },
+    {
+      "id": 16504,
+      "sku": "NOVA-0165-016504",
+      "color": "Daybreak Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "256GB",
+      "price": 6040000,
+      "original_price": 6540000,
+      "stock": 8,
+      "image": "assets/images/catalog/realme-gt-master-edition-2.svg"
+    }
+  ]
+}

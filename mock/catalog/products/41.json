@@ -1,0 +1,140 @@
+{
+  "id": 41,
+  "slug": "iphone-xs",
+  "name": "iPhone XS",
+  "brand": {
+    "id": 1,
+    "name": "Apple",
+    "slug": "apple"
+  },
+  "segment": "midrange",
+  "summary": "iPhone XS · Tầm trung · Giá và tồn kho demo.",
+  "description": "iPhone XS thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/iphone-xs-1.svg",
+    "assets/images/catalog/iphone-xs-2.svg",
+    "assets/images/catalog/iphone-xs-3.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "64GB / 256GB / 512GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": false,
+  "is_new": false,
+  "created_at": "2026-11-01T00:41:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://support.apple.com/en-gb/108044",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 4101,
+      "sku": "NOVA-0041-004101",
+      "color": "Space Gray",
+      "color_hex": "#8e969d",
+      "storage": "64GB",
+      "price": 4990000,
+      "original_price": 5490000,
+      "stock": 7,
+      "image": "assets/images/catalog/iphone-xs-1.svg"
+    },
+    {
+      "id": 4102,
+      "sku": "NOVA-0041-004102",
+      "color": "Space Gray",
+      "color_hex": "#8e969d",
+      "storage": "256GB",
+      "price": 5990000,
+      "original_price": 6490000,
+      "stock": 14,
+      "image": "assets/images/catalog/iphone-xs-1.svg"
+    },
+    {
+      "id": 4103,
+      "sku": "NOVA-0041-004103",
+      "color": "Space Gray",
+      "color_hex": "#8e969d",
+      "storage": "512GB",
+      "price": 6990000,
+      "original_price": 7490000,
+      "stock": 21,
+      "image": "assets/images/catalog/iphone-xs-1.svg"
+    },
+    {
+      "id": 4104,
+      "sku": "NOVA-0041-004104",
+      "color": "Silver",
+      "color_hex": "#bdc4cb",
+      "storage": "64GB",
+      "price": 5040000,
+      "original_price": 5540000,
+      "stock": 4,
+      "image": "assets/images/catalog/iphone-xs-2.svg"
+    },
+    {
+      "id": 4105,
+      "sku": "NOVA-0041-004105",
+      "color": "Silver",
+      "color_hex": "#bdc4cb",
+      "storage": "256GB",
+      "price": 6040000,
+      "original_price": 6540000,
+      "stock": 11,
+      "image": "assets/images/catalog/iphone-xs-2.svg"
+    },
+    {
+      "id": 4106,
+      "sku": "NOVA-0041-004106",
+      "color": "Silver",
+      "color_hex": "#bdc4cb",
+      "storage": "512GB",
+      "price": 7040000,
+      "original_price": 7540000,
+      "stock": 0,
+      "image": "assets/images/catalog/iphone-xs-2.svg"
+    },
+    {
+      "id": 4107,
+      "sku": "NOVA-0041-004107",
+      "color": "Gold",
+      "color_hex": "#c7af84",
+      "storage": "64GB",
+      "price": 5090000,
+      "original_price": 5590000,
+      "stock": 1,
+      "image": "assets/images/catalog/iphone-xs-3.svg"
+    },
+    {
+      "id": 4108,
+      "sku": "NOVA-0041-004108",
+      "color": "Gold",
+      "color_hex": "#c7af84",
+      "storage": "256GB",
+      "price": 6090000,
+      "original_price": 6590000,
+      "stock": 8,
+      "image": "assets/images/catalog/iphone-xs-3.svg"
+    },
+    {
+      "id": 4109,
+      "sku": "NOVA-0041-004109",
+      "color": "Gold",
+      "color_hex": "#c7af84",
+      "storage": "512GB",
+      "price": 7090000,
+      "original_price": 7590000,
+      "stock": 15,
+      "image": "assets/images/catalog/iphone-xs-3.svg"
+    }
+  ]
+}

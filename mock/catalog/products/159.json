@@ -1,0 +1,106 @@
+{
+  "id": 159,
+  "slug": "realme-gt5",
+  "name": "realme GT5",
+  "brand": {
+    "id": 6,
+    "name": "realme",
+    "slug": "realme"
+  },
+  "segment": "gaming",
+  "summary": "realme GT5 · Gaming · Giá và tồn kho demo.",
+  "description": "realme GT5 thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/realme-gt5-1.svg",
+    "assets/images/catalog/realme-gt5-2.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "256GB / 512GB / 1TB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": true,
+  "is_new": false,
+  "created_at": "2026-11-01T02:39:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.realme.com/global/realme-gt5/specs",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 15901,
+      "sku": "NOVA-0159-015901",
+      "color": "Flowing Silver",
+      "color_hex": "#bdc4cb",
+      "storage": "256GB",
+      "price": 11990000,
+      "original_price": 12490000,
+      "stock": 17,
+      "image": "assets/images/catalog/realme-gt5-1.svg"
+    },
+    {
+      "id": 15902,
+      "sku": "NOVA-0159-015902",
+      "color": "Flowing Silver",
+      "color_hex": "#bdc4cb",
+      "storage": "512GB",
+      "price": 12990000,
+      "original_price": 13490000,
+      "stock": 24,
+      "image": "assets/images/catalog/realme-gt5-1.svg"
+    },
+    {
+      "id": 15903,
+      "sku": "NOVA-0159-015903",
+      "color": "Flowing Silver",
+      "color_hex": "#bdc4cb",
+      "storage": "1TB",
+      "price": 13990000,
+      "original_price": 14490000,
+      "stock": 7,
+      "image": "assets/images/catalog/realme-gt5-1.svg"
+    },
+    {
+      "id": 15904,
+      "sku": "NOVA-0159-015904",
+      "color": "Starry Oasis",
+      "color_hex": "#9aaab1",
+      "storage": "256GB",
+      "price": 12040000,
+      "original_price": 12540000,
+      "stock": 14,
+      "image": "assets/images/catalog/realme-gt5-2.svg"
+    },
+    {
+      "id": 15905,
+      "sku": "NOVA-0159-015905",
+      "color": "Starry Oasis",
+      "color_hex": "#9aaab1",
+      "storage": "512GB",
+      "price": 13040000,
+      "original_price": 13540000,
+      "stock": 21,
+      "image": "assets/images/catalog/realme-gt5-2.svg"
+    },
+    {
+      "id": 15906,
+      "sku": "NOVA-0159-015906",
+      "color": "Starry Oasis",
+      "color_hex": "#9aaab1",
+      "storage": "1TB",
+      "price": 14040000,
+      "original_price": 14540000,
+      "stock": 4,
+      "image": "assets/images/catalog/realme-gt5-2.svg"
+    }
+  ]
+}

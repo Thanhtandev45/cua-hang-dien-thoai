@@ -1,0 +1,130 @@
+{
+  "id": 68,
+  "slug": "samsung-galaxy-a52",
+  "name": "Samsung Galaxy A52",
+  "brand": {
+    "id": 2,
+    "name": "Samsung",
+    "slug": "samsung"
+  },
+  "segment": "midrange",
+  "summary": "Samsung Galaxy A52 · Tầm trung · Giá và tồn kho demo.",
+  "description": "Samsung Galaxy A52 thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/samsung-galaxy-a52-1.svg",
+    "assets/images/catalog/samsung-galaxy-a52-2.svg",
+    "assets/images/catalog/samsung-galaxy-a52-3.svg",
+    "assets/images/catalog/samsung-galaxy-a52-4.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB / 256GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": false,
+  "is_new": false,
+  "created_at": "2026-11-01T01:08:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.samsung.com/global/galaxy/galaxy-a52/specs/",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 6801,
+      "sku": "NOVA-0068-006801",
+      "color": "Awesome Black",
+      "color_hex": "#30353c",
+      "storage": "128GB",
+      "price": 4490000,
+      "original_price": 4490000,
+      "stock": 4,
+      "image": "assets/images/catalog/samsung-galaxy-a52-1.svg"
+    },
+    {
+      "id": 6802,
+      "sku": "NOVA-0068-006802",
+      "color": "Awesome Black",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 5490000,
+      "original_price": 5490000,
+      "stock": 11,
+      "image": "assets/images/catalog/samsung-galaxy-a52-1.svg"
+    },
+    {
+      "id": 6803,
+      "sku": "NOVA-0068-006803",
+      "color": "Awesome White",
+      "color_hex": "#e8e5dc",
+      "storage": "128GB",
+      "price": 4540000,
+      "original_price": 4540000,
+      "stock": 18,
+      "image": "assets/images/catalog/samsung-galaxy-a52-2.svg"
+    },
+    {
+      "id": 6804,
+      "sku": "NOVA-0068-006804",
+      "color": "Awesome White",
+      "color_hex": "#e8e5dc",
+      "storage": "256GB",
+      "price": 5540000,
+      "original_price": 5540000,
+      "stock": 1,
+      "image": "assets/images/catalog/samsung-galaxy-a52-2.svg"
+    },
+    {
+      "id": 6805,
+      "sku": "NOVA-0068-006805",
+      "color": "Awesome Violet",
+      "color_hex": "#aaa0be",
+      "storage": "128GB",
+      "price": 4590000,
+      "original_price": 4590000,
+      "stock": 8,
+      "image": "assets/images/catalog/samsung-galaxy-a52-3.svg"
+    },
+    {
+      "id": 6806,
+      "sku": "NOVA-0068-006806",
+      "color": "Awesome Violet",
+      "color_hex": "#aaa0be",
+      "storage": "256GB",
+      "price": 5590000,
+      "original_price": 5590000,
+      "stock": 15,
+      "image": "assets/images/catalog/samsung-galaxy-a52-3.svg"
+    },
+    {
+      "id": 6807,
+      "sku": "NOVA-0068-006807",
+      "color": "Awesome Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "128GB",
+      "price": 4640000,
+      "original_price": 4640000,
+      "stock": 22,
+      "image": "assets/images/catalog/samsung-galaxy-a52-4.svg"
+    },
+    {
+      "id": 6808,
+      "sku": "NOVA-0068-006808",
+      "color": "Awesome Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "256GB",
+      "price": 5640000,
+      "original_price": 5640000,
+      "stock": 5,
+      "image": "assets/images/catalog/samsung-galaxy-a52-4.svg"
+    }
+  ]
+}

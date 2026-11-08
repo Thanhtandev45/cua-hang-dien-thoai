@@ -1,0 +1,130 @@
+{
+  "id": 194,
+  "slug": "google-pixel-8",
+  "name": "Google Pixel 8",
+  "brand": {
+    "id": 8,
+    "name": "Google Pixel",
+    "slug": "google"
+  },
+  "segment": "upper-midrange",
+  "summary": "Google Pixel 8 · Cận cao cấp · Giá và tồn kho demo.",
+  "description": "Google Pixel 8 thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/google-pixel-8-1.svg",
+    "assets/images/catalog/google-pixel-8-2.svg",
+    "assets/images/catalog/google-pixel-8-3.svg",
+    "assets/images/catalog/google-pixel-8-4.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB / 256GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": false,
+  "is_new": false,
+  "created_at": "2026-11-01T03:14:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 19401,
+      "sku": "NOVA-0194-019401",
+      "color": "Obsidian",
+      "color_hex": "#30353c",
+      "storage": "128GB",
+      "price": 12990000,
+      "original_price": 13490000,
+      "stock": 22,
+      "image": "assets/images/catalog/google-pixel-8-1.svg"
+    },
+    {
+      "id": 19402,
+      "sku": "NOVA-0194-019402",
+      "color": "Obsidian",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 13990000,
+      "original_price": 14490000,
+      "stock": 5,
+      "image": "assets/images/catalog/google-pixel-8-1.svg"
+    },
+    {
+      "id": 19403,
+      "sku": "NOVA-0194-019403",
+      "color": "Hazel",
+      "color_hex": "#9aaab1",
+      "storage": "128GB",
+      "price": 13040000,
+      "original_price": 13540000,
+      "stock": 12,
+      "image": "assets/images/catalog/google-pixel-8-2.svg"
+    },
+    {
+      "id": 19404,
+      "sku": "NOVA-0194-019404",
+      "color": "Hazel",
+      "color_hex": "#9aaab1",
+      "storage": "256GB",
+      "price": 14040000,
+      "original_price": 14540000,
+      "stock": 19,
+      "image": "assets/images/catalog/google-pixel-8-2.svg"
+    },
+    {
+      "id": 19405,
+      "sku": "NOVA-0194-019405",
+      "color": "Rose",
+      "color_hex": "#d8b4bd",
+      "storage": "128GB",
+      "price": 13090000,
+      "original_price": 13590000,
+      "stock": 2,
+      "image": "assets/images/catalog/google-pixel-8-3.svg"
+    },
+    {
+      "id": 19406,
+      "sku": "NOVA-0194-019406",
+      "color": "Rose",
+      "color_hex": "#d8b4bd",
+      "storage": "256GB",
+      "price": 14090000,
+      "original_price": 14590000,
+      "stock": 9,
+      "image": "assets/images/catalog/google-pixel-8-3.svg"
+    },
+    {
+      "id": 19407,
+      "sku": "NOVA-0194-019407",
+      "color": "Mint",
+      "color_hex": "#a2c8b6",
+      "storage": "128GB",
+      "price": 13140000,
+      "original_price": 13640000,
+      "stock": 16,
+      "image": "assets/images/catalog/google-pixel-8-4.svg"
+    },
+    {
+      "id": 19408,
+      "sku": "NOVA-0194-019408",
+      "color": "Mint",
+      "color_hex": "#a2c8b6",
+      "storage": "256GB",
+      "price": 14140000,
+      "original_price": 14640000,
+      "stock": 23,
+      "image": "assets/images/catalog/google-pixel-8-4.svg"
+    }
+  ]
+}

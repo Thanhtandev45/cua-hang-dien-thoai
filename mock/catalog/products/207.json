@@ -1,0 +1,84 @@
+{
+  "id": 207,
+  "slug": "oneplus-11",
+  "name": "OnePlus 11",
+  "brand": {
+    "id": 9,
+    "name": "OnePlus",
+    "slug": "oneplus"
+  },
+  "segment": "flagship",
+  "summary": "OnePlus 11 · Cao cấp · Giá và tồn kho demo.",
+  "description": "OnePlus 11 thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/oneplus-11-1.svg",
+    "assets/images/catalog/oneplus-11-2.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB / 256GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": true,
+  "is_new": false,
+  "created_at": "2026-11-01T03:27:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.oneplus.com/global/11/specs",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 20701,
+      "sku": "NOVA-0207-020701",
+      "color": "Titan Black",
+      "color_hex": "#30353c",
+      "storage": "128GB",
+      "price": 13990000,
+      "original_price": 14490000,
+      "stock": 17,
+      "image": "assets/images/catalog/oneplus-11-1.svg"
+    },
+    {
+      "id": 20702,
+      "sku": "NOVA-0207-020702",
+      "color": "Titan Black",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 14990000,
+      "original_price": 15490000,
+      "stock": 24,
+      "image": "assets/images/catalog/oneplus-11-1.svg"
+    },
+    {
+      "id": 20703,
+      "sku": "NOVA-0207-020703",
+      "color": "Eternal Green",
+      "color_hex": "#729183",
+      "storage": "128GB",
+      "price": 14040000,
+      "original_price": 14540000,
+      "stock": 7,
+      "image": "assets/images/catalog/oneplus-11-2.svg"
+    },
+    {
+      "id": 20704,
+      "sku": "NOVA-0207-020704",
+      "color": "Eternal Green",
+      "color_hex": "#729183",
+      "storage": "256GB",
+      "price": 15040000,
+      "original_price": 15540000,
+      "stock": 14,
+      "image": "assets/images/catalog/oneplus-11-2.svg"
+    }
+  ]
+}

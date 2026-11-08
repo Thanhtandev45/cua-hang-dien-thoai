@@ -1,0 +1,140 @@
+{
+  "id": 74,
+  "slug": "samsung-galaxy-z-fold6",
+  "name": "Samsung Galaxy Z Fold6",
+  "brand": {
+    "id": 2,
+    "name": "Samsung",
+    "slug": "samsung"
+  },
+  "segment": "foldable",
+  "summary": "Samsung Galaxy Z Fold6 · Màn hình gập · Giá và tồn kho demo.",
+  "description": "Samsung Galaxy Z Fold6 thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/samsung-galaxy-z-fold6-1.svg",
+    "assets/images/catalog/samsung-galaxy-z-fold6-2.svg",
+    "assets/images/catalog/samsung-galaxy-z-fold6-3.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "256GB / 512GB / 1TB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": false,
+  "is_new": false,
+  "created_at": "2026-11-01T01:14:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.samsung.com/global/galaxy/galaxy-z-fold6/specs/",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 7401,
+      "sku": "NOVA-0074-007401",
+      "color": "Silver Shadow",
+      "color_hex": "#bdc4cb",
+      "storage": "256GB",
+      "price": 35990000,
+      "original_price": 36490000,
+      "stock": 0,
+      "image": "assets/images/catalog/samsung-galaxy-z-fold6-1.svg"
+    },
+    {
+      "id": 7402,
+      "sku": "NOVA-0074-007402",
+      "color": "Silver Shadow",
+      "color_hex": "#bdc4cb",
+      "storage": "512GB",
+      "price": 36990000,
+      "original_price": 37490000,
+      "stock": 5,
+      "image": "assets/images/catalog/samsung-galaxy-z-fold6-1.svg"
+    },
+    {
+      "id": 7403,
+      "sku": "NOVA-0074-007403",
+      "color": "Silver Shadow",
+      "color_hex": "#bdc4cb",
+      "storage": "1TB",
+      "price": 37990000,
+      "original_price": 38490000,
+      "stock": 12,
+      "image": "assets/images/catalog/samsung-galaxy-z-fold6-1.svg"
+    },
+    {
+      "id": 7404,
+      "sku": "NOVA-0074-007404",
+      "color": "Pink",
+      "color_hex": "#d6a5b3",
+      "storage": "256GB",
+      "price": 36040000,
+      "original_price": 36540000,
+      "stock": 19,
+      "image": "assets/images/catalog/samsung-galaxy-z-fold6-2.svg"
+    },
+    {
+      "id": 7405,
+      "sku": "NOVA-0074-007405",
+      "color": "Pink",
+      "color_hex": "#d6a5b3",
+      "storage": "512GB",
+      "price": 37040000,
+      "original_price": 37540000,
+      "stock": 2,
+      "image": "assets/images/catalog/samsung-galaxy-z-fold6-2.svg"
+    },
+    {
+      "id": 7406,
+      "sku": "NOVA-0074-007406",
+      "color": "Pink",
+      "color_hex": "#d6a5b3",
+      "storage": "1TB",
+      "price": 38040000,
+      "original_price": 38540000,
+      "stock": 9,
+      "image": "assets/images/catalog/samsung-galaxy-z-fold6-2.svg"
+    },
+    {
+      "id": 7407,
+      "sku": "NOVA-0074-007407",
+      "color": "Navy",
+      "color_hex": "#9aaab1",
+      "storage": "256GB",
+      "price": 36090000,
+      "original_price": 36590000,
+      "stock": 16,
+      "image": "assets/images/catalog/samsung-galaxy-z-fold6-3.svg"
+    },
+    {
+      "id": 7408,
+      "sku": "NOVA-0074-007408",
+      "color": "Navy",
+      "color_hex": "#9aaab1",
+      "storage": "512GB",
+      "price": 37090000,
+      "original_price": 37590000,
+      "stock": 23,
+      "image": "assets/images/catalog/samsung-galaxy-z-fold6-3.svg"
+    },
+    {
+      "id": 7409,
+      "sku": "NOVA-0074-007409",
+      "color": "Navy",
+      "color_hex": "#9aaab1",
+      "storage": "1TB",
+      "price": 38090000,
+      "original_price": 38590000,
+      "stock": 6,
+      "image": "assets/images/catalog/samsung-galaxy-z-fold6-3.svg"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "id": 76,
+  "slug": "samsung-galaxy-z-fold5",
+  "name": "Samsung Galaxy Z Fold5",
+  "brand": {
+    "id": 2,
+    "name": "Samsung",
+    "slug": "samsung"
+  },
+  "segment": "foldable",
+  "summary": "Samsung Galaxy Z Fold5 · Màn hình gập · Giá và tồn kho demo.",
+  "description": "Samsung Galaxy Z Fold5 thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/samsung-galaxy-z-fold5-1.svg",
+    "assets/images/catalog/samsung-galaxy-z-fold5-2.svg",
+    "assets/images/catalog/samsung-galaxy-z-fold5-3.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "256GB / 512GB / 1TB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": false,
+  "is_new": false,
+  "created_at": "2026-11-01T01:16:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.samsung.com/global/galaxy/galaxy-z-fold5/specs/",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 7601,
+      "sku": "NOVA-0076-007601",
+      "color": "Icy Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "256GB",
+      "price": 29990000,
+      "original_price": 29990000,
+      "stock": 12,
+      "image": "assets/images/catalog/samsung-galaxy-z-fold5-1.svg"
+    },
+    {
+      "id": 7602,
+      "sku": "NOVA-0076-007602",
+      "color": "Icy Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "512GB",
+      "price": 30990000,
+      "original_price": 30990000,
+      "stock": 19,
+      "image": "assets/images/catalog/samsung-galaxy-z-fold5-1.svg"
+    },
+    {
+      "id": 7603,
+      "sku": "NOVA-0076-007603",
+      "color": "Icy Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "1TB",
+      "price": 31990000,
+      "original_price": 31990000,
+      "stock": 2,
+      "image": "assets/images/catalog/samsung-galaxy-z-fold5-1.svg"
+    },
+    {
+      "id": 7604,
+      "sku": "NOVA-0076-007604",
+      "color": "Phantom Black",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 30040000,
+      "original_price": 30040000,
+      "stock": 9,
+      "image": "assets/images/catalog/samsung-galaxy-z-fold5-2.svg"
+    },
+    {
+      "id": 7605,
+      "sku": "NOVA-0076-007605",
+      "color": "Phantom Black",
+      "color_hex": "#30353c",
+      "storage": "512GB",
+      "price": 31040000,
+      "original_price": 31040000,
+      "stock": 16,
+      "image": "assets/images/catalog/samsung-galaxy-z-fold5-2.svg"
+    },
+    {
+      "id": 7606,
+      "sku": "NOVA-0076-007606",
+      "color": "Phantom Black",
+      "color_hex": "#30353c",
+      "storage": "1TB",
+      "price": 32040000,
+      "original_price": 32040000,
+      "stock": 23,
+      "image": "assets/images/catalog/samsung-galaxy-z-fold5-2.svg"
+    },
+    {
+      "id": 7607,
+      "sku": "NOVA-0076-007607",
+      "color": "Cream",
+      "color_hex": "#9aaab1",
+      "storage": "256GB",
+      "price": 30090000,
+      "original_price": 30090000,
+      "stock": 0,
+      "image": "assets/images/catalog/samsung-galaxy-z-fold5-3.svg"
+    },
+    {
+      "id": 7608,
+      "sku": "NOVA-0076-007608",
+      "color": "Cream",
+      "color_hex": "#9aaab1",
+      "storage": "512GB",
+      "price": 31090000,
+      "original_price": 31090000,
+      "stock": 13,
+      "image": "assets/images/catalog/samsung-galaxy-z-fold5-3.svg"
+    },
+    {
+      "id": 7609,
+      "sku": "NOVA-0076-007609",
+      "color": "Cream",
+      "color_hex": "#9aaab1",
+      "storage": "1TB",
+      "price": 32090000,
+      "original_price": 32090000,
+      "stock": 20,
+      "image": "assets/images/catalog/samsung-galaxy-z-fold5-3.svg"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "id": 46,
+  "slug": "iphone-se-2nd-generation",
+  "name": "iPhone SE (2nd generation)",
+  "brand": {
+    "id": 1,
+    "name": "Apple",
+    "slug": "apple"
+  },
+  "segment": "budget",
+  "summary": "iPhone SE (2nd generation) · Phổ thông · Giá và tồn kho demo.",
+  "description": "iPhone SE (2nd generation) thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/iphone-se-2nd-generation-1.svg",
+    "assets/images/catalog/iphone-se-2nd-generation-2.svg",
+    "assets/images/catalog/iphone-se-2nd-generation-3.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "64GB / 128GB / 256GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": false,
+  "is_new": false,
+  "created_at": "2026-11-01T00:46:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://support.apple.com/en-gb/108044",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 4601,
+      "sku": "NOVA-0046-004601",
+      "color": "Black",
+      "color_hex": "#30353c",
+      "storage": "64GB",
+      "price": 3490000,
+      "original_price": 3990000,
+      "stock": 18,
+      "image": "assets/images/catalog/iphone-se-2nd-generation-1.svg"
+    },
+    {
+      "id": 4602,
+      "sku": "NOVA-0046-004602",
+      "color": "Black",
+      "color_hex": "#30353c",
+      "storage": "128GB",
+      "price": 4490000,
+      "original_price": 4990000,
+      "stock": 1,
+      "image": "assets/images/catalog/iphone-se-2nd-generation-1.svg"
+    },
+    {
+      "id": 4603,
+      "sku": "NOVA-0046-004603",
+      "color": "Black",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 5490000,
+      "original_price": 5990000,
+      "stock": 8,
+      "image": "assets/images/catalog/iphone-se-2nd-generation-1.svg"
+    },
+    {
+      "id": 4604,
+      "sku": "NOVA-0046-004604",
+      "color": "White",
+      "color_hex": "#e8e5dc",
+      "storage": "64GB",
+      "price": 3540000,
+      "original_price": 4040000,
+      "stock": 15,
+      "image": "assets/images/catalog/iphone-se-2nd-generation-2.svg"
+    },
+    {
+      "id": 4605,
+      "sku": "NOVA-0046-004605",
+      "color": "White",
+      "color_hex": "#e8e5dc",
+      "storage": "128GB",
+      "price": 4540000,
+      "original_price": 5040000,
+      "stock": 22,
+      "image": "assets/images/catalog/iphone-se-2nd-generation-2.svg"
+    },
+    {
+      "id": 4606,
+      "sku": "NOVA-0046-004606",
+      "color": "White",
+      "color_hex": "#e8e5dc",
+      "storage": "256GB",
+      "price": 5540000,
+      "original_price": 6040000,
+      "stock": 5,
+      "image": "assets/images/catalog/iphone-se-2nd-generation-2.svg"
+    },
+    {
+      "id": 4607,
+      "sku": "NOVA-0046-004607",
+      "color": "(PRODUCT)RED",
+      "color_hex": "#ac4b54",
+      "storage": "64GB",
+      "price": 3590000,
+      "original_price": 4090000,
+      "stock": 12,
+      "image": "assets/images/catalog/iphone-se-2nd-generation-3.svg"
+    },
+    {
+      "id": 4608,
+      "sku": "NOVA-0046-004608",
+      "color": "(PRODUCT)RED",
+      "color_hex": "#ac4b54",
+      "storage": "128GB",
+      "price": 4590000,
+      "original_price": 5090000,
+      "stock": 0,
+      "image": "assets/images/catalog/iphone-se-2nd-generation-3.svg"
+    },
+    {
+      "id": 4609,
+      "sku": "NOVA-0046-004609",
+      "color": "(PRODUCT)RED",
+      "color_hex": "#ac4b54",
+      "storage": "256GB",
+      "price": 5590000,
+      "original_price": 6090000,
+      "stock": 2,
+      "image": "assets/images/catalog/iphone-se-2nd-generation-3.svg"
+    }
+  ]
+}

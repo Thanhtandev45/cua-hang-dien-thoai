@@ -1,0 +1,130 @@
+{
+  "id": 77,
+  "slug": "samsung-galaxy-z-flip5",
+  "name": "Samsung Galaxy Z Flip5",
+  "brand": {
+    "id": 2,
+    "name": "Samsung",
+    "slug": "samsung"
+  },
+  "segment": "foldable",
+  "summary": "Samsung Galaxy Z Flip5 · Màn hình gập · Giá và tồn kho demo.",
+  "description": "Samsung Galaxy Z Flip5 thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/samsung-galaxy-z-flip5-1.svg",
+    "assets/images/catalog/samsung-galaxy-z-flip5-2.svg",
+    "assets/images/catalog/samsung-galaxy-z-flip5-3.svg",
+    "assets/images/catalog/samsung-galaxy-z-flip5-4.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "256GB / 512GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": false,
+  "is_new": true,
+  "created_at": "2026-11-01T01:17:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.samsung.com/global/galaxy/galaxy-z-flip5/specs/",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 7701,
+      "sku": "NOVA-0077-007701",
+      "color": "Mint",
+      "color_hex": "#a2c8b6",
+      "storage": "256GB",
+      "price": 17990000,
+      "original_price": 18490000,
+      "stock": 19,
+      "image": "assets/images/catalog/samsung-galaxy-z-flip5-1.svg"
+    },
+    {
+      "id": 7702,
+      "sku": "NOVA-0077-007702",
+      "color": "Mint",
+      "color_hex": "#a2c8b6",
+      "storage": "512GB",
+      "price": 18990000,
+      "original_price": 19490000,
+      "stock": 2,
+      "image": "assets/images/catalog/samsung-galaxy-z-flip5-1.svg"
+    },
+    {
+      "id": 7703,
+      "sku": "NOVA-0077-007703",
+      "color": "Graphite",
+      "color_hex": "#555962",
+      "storage": "256GB",
+      "price": 18040000,
+      "original_price": 18540000,
+      "stock": 9,
+      "image": "assets/images/catalog/samsung-galaxy-z-flip5-2.svg"
+    },
+    {
+      "id": 7704,
+      "sku": "NOVA-0077-007704",
+      "color": "Graphite",
+      "color_hex": "#555962",
+      "storage": "512GB",
+      "price": 19040000,
+      "original_price": 19540000,
+      "stock": 16,
+      "image": "assets/images/catalog/samsung-galaxy-z-flip5-2.svg"
+    },
+    {
+      "id": 7705,
+      "sku": "NOVA-0077-007705",
+      "color": "Cream",
+      "color_hex": "#9aaab1",
+      "storage": "256GB",
+      "price": 18090000,
+      "original_price": 18590000,
+      "stock": 23,
+      "image": "assets/images/catalog/samsung-galaxy-z-flip5-3.svg"
+    },
+    {
+      "id": 7706,
+      "sku": "NOVA-0077-007706",
+      "color": "Cream",
+      "color_hex": "#9aaab1",
+      "storage": "512GB",
+      "price": 19090000,
+      "original_price": 19590000,
+      "stock": 6,
+      "image": "assets/images/catalog/samsung-galaxy-z-flip5-3.svg"
+    },
+    {
+      "id": 7707,
+      "sku": "NOVA-0077-007707",
+      "color": "Lavender",
+      "color_hex": "#beb0cc",
+      "storage": "256GB",
+      "price": 18140000,
+      "original_price": 18640000,
+      "stock": 13,
+      "image": "assets/images/catalog/samsung-galaxy-z-flip5-4.svg"
+    },
+    {
+      "id": 7708,
+      "sku": "NOVA-0077-007708",
+      "color": "Lavender",
+      "color_hex": "#beb0cc",
+      "storage": "512GB",
+      "price": 19140000,
+      "original_price": 19640000,
+      "stock": 20,
+      "image": "assets/images/catalog/samsung-galaxy-z-flip5-4.svg"
+    }
+  ]
+}

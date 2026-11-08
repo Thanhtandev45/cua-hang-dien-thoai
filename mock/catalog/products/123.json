@@ -1,0 +1,62 @@
+{
+  "id": 123,
+  "slug": "oppo-reno12-pro-5g",
+  "name": "OPPO Reno12 Pro 5G",
+  "brand": {
+    "id": 4,
+    "name": "OPPO",
+    "slug": "oppo"
+  },
+  "segment": "upper-midrange",
+  "summary": "OPPO Reno12 Pro 5G · Cận cao cấp · Giá và tồn kho demo.",
+  "description": "OPPO Reno12 Pro 5G thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/oppo-reno12-pro-5g-1.svg",
+    "assets/images/catalog/oppo-reno12-pro-5g-2.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "512GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": true,
+  "is_new": false,
+  "created_at": "2026-11-01T02:03:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.oppo.com/en/smartphones/series-reno/reno12-pro/specs/",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 12301,
+      "sku": "NOVA-0123-012301",
+      "color": "Nebula Silver",
+      "color_hex": "#bdc4cb",
+      "storage": "512GB",
+      "price": 14990000,
+      "original_price": 15490000,
+      "stock": 5,
+      "image": "assets/images/catalog/oppo-reno12-pro-5g-1.svg"
+    },
+    {
+      "id": 12302,
+      "sku": "NOVA-0123-012302",
+      "color": "Space Brown",
+      "color_hex": "#9c8174",
+      "storage": "512GB",
+      "price": 15040000,
+      "original_price": 15540000,
+      "stock": 12,
+      "image": "assets/images/catalog/oppo-reno12-pro-5g-2.svg"
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+brand|name|storage|colors|demo_price|segment|design
+apple|iPhone 16 Pro|128,256,512,1024|Black Titanium,White Titanium,Natural Titanium,Desert Titanium|26990000|flagship|apple-pro
+apple|iPhone 16 Plus|128,256,512|Black,White,Pink,Teal,Ultramarine|22990000|flagship|apple-dual
+apple|iPhone 16e|128,256,512|Black,White|15990000|upper-midrange|apple-single
+apple|iPhone 15 Plus|128,256,512|Black,Blue,Green,Yellow,Pink|18990000|flagship|apple-dual
+apple|iPhone 15 Pro Max|256,512,1024|Black Titanium,White Titanium,Blue Titanium,Natural Titanium|24990000|flagship|apple-pro
+apple|iPhone 14|128,256,512|Midnight,Starlight,Blue,Purple,Yellow,(PRODUCT)RED|12990000|upper-midrange|apple-dual
+apple|iPhone 14 Plus|128,256,512|Midnight,Starlight,Blue,Purple,Yellow,(PRODUCT)RED|14990000|upper-midrange|apple-dual
+apple|iPhone 14 Pro|128,256,512,1024|Space Black,Silver,Gold,Deep Purple|18990000|flagship|apple-pro
+apple|iPhone 14 Pro Max|128,256,512,1024|Space Black,Silver,Gold,Deep Purple|20990000|flagship|apple-pro
+apple|iPhone 13|128,256,512|Midnight,Starlight,Blue,Pink,Green,(PRODUCT)RED|10990000|upper-midrange|apple-dual
+apple|iPhone 13 mini|128,256,512|Midnight,Starlight,Blue,Pink,Green,(PRODUCT)RED|9990000|upper-midrange|apple-dual
+apple|iPhone 13 Pro|128,256,512,1024|Graphite,Gold,Silver,Sierra Blue,Alpine Green|14990000|flagship|apple-pro
+apple|iPhone 13 Pro Max|128,256,512,1024|Graphite,Gold,Silver,Sierra Blue,Alpine Green|16990000|flagship|apple-pro
+apple|iPhone 12|64,128,256|Black,White,Green,Blue,Purple,(PRODUCT)RED|7990000|midrange|apple-dual
+apple|iPhone 12 mini|64,128,256|Black,White,Green,Blue,Purple,(PRODUCT)RED|6990000|midrange|apple-dual
+apple|iPhone 12 Pro|128,256,512|Silver,Graphite,Gold,Pacific Blue|10990000|upper-midrange|apple-pro
+apple|iPhone 12 Pro Max|128,256,512|Silver,Graphite,Gold,Pacific Blue|12990000|upper-midrange|apple-pro
+apple|iPhone 11|64,128,256|Black,Green,Yellow,Purple,White,(PRODUCT)RED|5990000|midrange|apple-dual
+apple|iPhone 11 Pro|64,256,512|Space Gray,Silver,Gold,Midnight Green|7990000|upper-midrange|apple-pro
+apple|iPhone 11 Pro Max|64,256,512|Space Gray,Silver,Gold,Midnight Green|8990000|upper-midrange|apple-pro
+apple|iPhone XS|64,256,512|Space Gray,Silver,Gold|4990000|midrange|apple-dual
+apple|iPhone XS Max|64,256,512|Space Gray,Silver,Gold|5990000|midrange|apple-dual
+apple|iPhone XR|64,128,256|Black,White,Blue,Yellow,Coral,(PRODUCT)RED|3990000|budget|apple-single
+apple|iPhone X|64,256|Space Gray,Silver|3490000|budget|apple-dual
+apple|iPhone SE (3rd generation)|64,128,256|Midnight,Starlight,(PRODUCT)RED|6990000|midrange|apple-single
+apple|iPhone SE (2nd generation)|64,128,256|Black,White,(PRODUCT)RED|3490000|budget|apple-single
+samsung|Samsung Galaxy S24|128,256,512|Onyx Black,Marble Gray,Cobalt Violet,Amber Yellow|16990000|flagship|samsung-line
+samsung|Samsung Galaxy S23|128,256|Phantom Black,Cream,Green,Lavender|13990000|flagship|samsung-line
+samsung|Samsung Galaxy S23+|256,512|Phantom Black,Cream,Green,Lavender|16990000|flagship|samsung-line
+samsung|Samsung Galaxy S23 Ultra|256,512,1024|Phantom Black,Cream,Green,Lavender|19990000|flagship|samsung-ultra
+samsung|Samsung Galaxy S23 FE|128,256|Mint,Graphite,Cream,Purple|9990000|upper-midrange|samsung-line
+samsung|Samsung Galaxy S22|128,256|Phantom Black,Phantom White,Green,Pink Gold|10990000|flagship|samsung-line
+samsung|Samsung Galaxy S22+|128,256|Phantom Black,Phantom White,Green,Pink Gold|12990000|flagship|samsung-line
+samsung|Samsung Galaxy S22 Ultra|128,256,512|Phantom Black,Phantom White,Green,Burgundy|15990000|flagship|samsung-ultra
+samsung|Samsung Galaxy S21|128,256|Phantom Gray,Phantom White,Phantom Violet,Phantom Pink|8990000|upper-midrange|samsung-line
+samsung|Samsung Galaxy S21+|128,256|Phantom Black,Phantom Silver,Phantom Violet|10990000|upper-midrange|samsung-line
+samsung|Samsung Galaxy S21 Ultra|128,256,512|Phantom Black,Phantom Silver|13990000|flagship|samsung-ultra
+samsung|Samsung Galaxy S21 FE|128,256|Olive,Graphite,White,Lavender|7990000|upper-midrange|samsung-line
+samsung|Samsung Galaxy S20|128|Cosmic Gray,Cloud Blue,Cloud Pink|6490000|midrange|samsung-line
+samsung|Samsung Galaxy S20+|128|Cosmic Gray,Cosmic Black,Cloud Blue|7490000|upper-midrange|samsung-line
+samsung|Samsung Galaxy S20 Ultra|128,512|Cosmic Gray,Cosmic Black|9490000|flagship|samsung-ultra
+samsung|Samsung Galaxy S20 FE|128,256|Cloud Navy,Cloud Lavender,Cloud Mint,Cloud Red,Cloud White,Cloud Orange|5990000|midrange|samsung-line
+samsung|Samsung Galaxy A54 5G|128,256|Awesome Lime,Awesome Graphite,Awesome Violet,Awesome White|7490000|midrange|samsung-line
+samsung|Samsung Galaxy A34 5G|128,256|Awesome Lime,Awesome Graphite,Awesome Violet,Awesome Silver|5990000|midrange|samsung-line
+samsung|Samsung Galaxy A53 5G|128,256|Awesome Black,Awesome White,Awesome Blue,Awesome Peach|6490000|midrange|samsung-line
+samsung|Samsung Galaxy A33 5G|128,256|Awesome Black,Awesome White,Awesome Blue,Awesome Peach|4990000|midrange|samsung-line
+samsung|Samsung Galaxy A52s 5G|128,256|Awesome Black,Awesome White,Awesome Violet,Awesome Mint|5490000|midrange|samsung-line
+samsung|Samsung Galaxy A52|128,256|Awesome Black,Awesome White,Awesome Violet,Awesome Blue|4490000|midrange|samsung-line
+samsung|Samsung Galaxy A25 5G|128,256|Blue Black,Blue,Light Blue,Yellow|4990000|midrange|samsung-line
+samsung|Samsung Galaxy A24|128|Black,Dark Red,Light Green,Silver|3990000|budget|samsung-line
+samsung|Samsung Galaxy A15|128,256|Blue Black,Blue,Light Blue,Yellow|3490000|budget|samsung-line
+samsung|Samsung Galaxy A14|64,128|Black,Dark Red,Silver,Green|2990000|budget|samsung-line
+samsung|Samsung Galaxy A05s|64,128|Black,Silver,Light Green,Light Violet|2490000|budget|samsung-line
+samsung|Samsung Galaxy Z Fold6|256,512,1024|Silver Shadow,Pink,Navy|35990000|foldable|fold
+samsung|Samsung Galaxy Z Flip6|256,512|Silver Shadow,Yellow,Blue,Mint|22990000|foldable|flip
+samsung|Samsung Galaxy Z Fold5|256,512,1024|Icy Blue,Phantom Black,Cream|29990000|foldable|fold
+samsung|Samsung Galaxy Z Flip5|256,512|Mint,Graphite,Cream,Lavender|17990000|foldable|flip
+samsung|Samsung Galaxy Z Fold4|256,512,1024|Graygreen,Phantom Black,Beige|24990000|foldable|fold
+samsung|Samsung Galaxy Z Flip4|128,256,512|Bora Purple,Graphite,Pink Gold,Blue|13990000|foldable|flip
+samsung|Samsung Galaxy Z Fold3 5G|256,512|Phantom Black,Phantom Green,Phantom Silver|19990000|foldable|fold
+samsung|Samsung Galaxy Z Flip3 5G|128,256|Cream,Phantom Black,Green,Lavender|10990000|foldable|flip
+xiaomi|Xiaomi 14 Ultra|512|Black,White|24990000|flagship|round
+xiaomi|Xiaomi 13|256|Black,White,Flora Green|13990000|flagship|square
+xiaomi|Xiaomi 13 Pro|256|Ceramic Black,Ceramic White|17990000|flagship|square
+xiaomi|Xiaomi 13 Ultra|512|Black,Olive Green|21990000|flagship|round
+xiaomi|Xiaomi 13T|256|Black,Meadow Green,Alpine Blue|10990000|upper-midrange|square
+xiaomi|Xiaomi 13T Pro|256,512,1024|Black,Meadow Green,Alpine Blue|14990000|flagship|square
+xiaomi|Xiaomi 12|128,256|Gray,Purple,Blue|9990000|upper-midrange|square
+xiaomi|Xiaomi 12 Pro|256|Gray,Purple,Blue|13990000|flagship|square
+xiaomi|Xiaomi 12T|128,256|Black,Silver,Blue|7990000|upper-midrange|square
+xiaomi|Xiaomi 12T Pro|128,256|Black,Silver,Blue|10990000|flagship|square
+xiaomi|Xiaomi 11T|128,256|Meteorite Gray,Moonlight White,Celestial Blue|6990000|midrange|square
+xiaomi|Xiaomi 11T Pro|128,256|Meteorite Gray,Moonlight White,Celestial Blue|8990000|upper-midrange|square
+xiaomi|Xiaomi Mi 11|128,256|Midnight Gray,Horizon Blue|9990000|flagship|square
+xiaomi|Xiaomi Mi 11 Lite 5G|128|Truffle Black,Mint Green,Citrus Yellow|5990000|midrange|square
+xiaomi|Xiaomi Redmi Note 13 Pro 5G|128,256,512|Midnight Black,Ocean Teal,Aurora Purple|7990000|midrange|square
+xiaomi|Xiaomi Redmi Note 13 Pro+ 5G|256,512|Midnight Black,Moonlight White,Aurora Purple|9990000|upper-midrange|square
+xiaomi|Xiaomi Redmi Note 13 5G|128,256|Graphite Black,Arctic White,Ocean Teal|5490000|midrange|square
+xiaomi|Xiaomi Redmi Note 12|64,128,256|Onyx Gray,Mint Green,Ice Blue|3990000|budget|square
+xiaomi|Xiaomi Redmi Note 12 Pro 5G|128,256|Midnight Black,Polar White,Sky Blue|6490000|midrange|square
+xiaomi|Xiaomi Redmi Note 12 Pro+ 5G|256|Midnight Black,Polar White,Sky Blue|8490000|upper-midrange|square
+xiaomi|Xiaomi Redmi Note 11|64,128|Graphite Gray,Twilight Blue,Star Blue|3490000|budget|square
+xiaomi|Xiaomi Redmi Note 11 Pro 5G|64,128|Graphite Gray,Polar White,Atlantic Blue|4990000|midrange|square
+xiaomi|Xiaomi Redmi 12 5G|128,256|Midnight Black,Sky Blue,Polar Silver|3990000|budget|square
+xiaomi|Xiaomi Redmi 13C|128,256|Midnight Black,Navy Blue,Glacier White,Clover Green|2990000|budget|square
+xiaomi|Xiaomi Redmi 12C|32,64,128|Graphite Gray,Ocean Blue,Mint Green,Lavender Purple|1990000|budget|square
+xiaomi|Xiaomi Redmi A3|64,128|Midnight Black,Star Blue,Forest Green|1890000|budget|round
+xiaomi|POCO F6|256,512|Black,Green,Titanium|9990000|upper-midrange|poco
+xiaomi|POCO F6 Pro|256,512,1024|Black,White|12990000|flagship|poco
+xiaomi|POCO F5|256|Black,Blue,White|8990000|upper-midrange|poco
+xiaomi|POCO F5 Pro|256,512|Black,White|10990000|upper-midrange|poco
+xiaomi|POCO X6 5G|256,512|Black,Blue,White|6490000|midrange|poco
+xiaomi|POCO X6 Pro 5G|256,512|Black,Gray,Yellow|7990000|upper-midrange|poco
+oppo|OPPO Find X7 Ultra|256,512|Ocean Blue,Sepia Brown,Tailored Black|22990000|flagship|round
+oppo|OPPO Find X6|256,512|Black,Green,Gold|16990000|flagship|round
+oppo|OPPO Find X6 Pro|256,512|Black,Green,Brown|20990000|flagship|round
+oppo|OPPO Find X5|256|Black,White|11990000|upper-midrange|oppo
+oppo|OPPO Find X5 Pro|256|Ceramic Black,Ceramic White|15990000|flagship|oppo
+oppo|OPPO Find X3 Pro|256|Gloss Black,Blue|10990000|flagship|oppo
+oppo|OPPO Find N3|512|Champagne Gold,Classic Black|34990000|foldable|fold
+oppo|OPPO Find N3 Flip|256|Cream Gold,Misty Pink,Sleek Black|19990000|foldable|flip
+oppo|OPPO Find N2 Flip|256|Astral Black,Moonlit Purple|15990000|foldable|flip
+oppo|OPPO Reno12 Pro 5G|512|Nebula Silver,Space Brown|14990000|upper-midrange|oppo
+oppo|OPPO Reno11 5G|256|Wave Green,Rock Grey|8990000|midrange|oppo
+oppo|OPPO Reno11 Pro 5G|256|Pearl White,Rock Grey|11990000|upper-midrange|oppo
+oppo|OPPO Reno10 5G|256|Silvery Grey,Ice Blue|7490000|midrange|oppo
+oppo|OPPO Reno10 Pro 5G|256|Silvery Grey,Glossy Purple|9990000|upper-midrange|oppo
+oppo|OPPO Reno10 Pro+ 5G|256|Silvery Grey,Glossy Purple|14990000|flagship|oppo
+oppo|OPPO Reno8 5G|256|Shimmer Gold,Shimmer Black|6990000|midrange|oppo
+oppo|OPPO Reno8 Pro 5G|256|Glazed Green,Glazed Black|9990000|upper-midrange|oppo
+oppo|OPPO Reno8 T 5G|128,256|Sunrise Gold,Midnight Black|5990000|midrange|oppo
+oppo|OPPO Reno7 5G|256|Startrails Blue,Starry Black|5990000|midrange|oppo
+oppo|OPPO A78 5G|128|Glowing Black,Glowing Blue|3990000|budget|oppo
+oppo|OPPO A58|128|Glowing Black,Dazzling Green|3490000|budget|oppo
+oppo|OPPO A38|128|Glowing Black,Glowing Gold|2990000|budget|oppo
+vivo|vivo X100|256,512|Startrail Blue,Asteroid Black|16990000|flagship|round
+vivo|vivo X100 Pro|512|Asteroid Black|22990000|flagship|round
+vivo|vivo X90|256|Asteroid Black,Breeze Blue|13990000|flagship|round
+vivo|vivo X90 Pro|256|Legendary Black|18990000|flagship|round
+vivo|vivo X80|256|Cosmic Black,Urban Blue|11990000|flagship|round
+vivo|vivo X80 Pro|256|Cosmic Black|15990000|flagship|round
+vivo|vivo X70 Pro|128,256|Cosmic Black,Aurora Dawn|9990000|upper-midrange|vivo
+vivo|vivo X60 Pro|256|Midnight Black,Shimmer Blue|8990000|upper-midrange|vivo
+vivo|vivo V30 Pro|256,512|Bloom White,Lush Green|12990000|upper-midrange|vivo
+vivo|vivo V29|256,512|Peak Blue,Noble Black|9490000|upper-midrange|vivo
+vivo|vivo V29e|256|Forest Black,Rose Gold|6490000|midrange|vivo
+vivo|vivo V27|128,256|Magic Blue,Noble Black|7990000|midrange|vivo
+vivo|vivo V27 Pro|128,256|Magic Blue,Noble Black|9990000|upper-midrange|vivo
+vivo|vivo V25|128,256|Aquamarine Blue,Sunrise Gold,Diamond Black|6490000|midrange|vivo
+vivo|vivo V25 Pro|128,256|Sailing Blue,Pure Black|8490000|upper-midrange|vivo
+vivo|vivo V23 5G|128,256|Sunshine Gold,Stardust Black|5990000|midrange|vivo
+vivo|vivo V23e|128|Sunshine Coast,Moonlight Shadow|4990000|midrange|vivo
+vivo|vivo V21 5G|128,256|Dusk Blue,Sunset Dazzle,Arctic White|4990000|midrange|vivo
+vivo|vivo Y36|128,256|Glitter Aqua,Meteor Black|3990000|budget|vivo
+vivo|vivo Y27|128|Burgundy Black,Sea Blue|3290000|budget|vivo
+vivo|vivo Y22|64,128|Starlit Blue,Metaverse Green|2790000|budget|vivo
+vivo|vivo Y17s|64,128|Glitter Purple,Forest Green|2490000|budget|vivo
+realme|realme GT5 Pro|256,512,1024|Red Rock,Bright Moon,Starry Night|15990000|gaming|round
+realme|realme GT5|256,512,1024|Flowing Silver,Starry Oasis|11990000|gaming|gaming
+realme|realme GT Neo 5|256,512,1024|Purple,Black,White|9990000|gaming|gaming
+realme|realme GT Neo 3|128,256|Nitro Blue,Sprint White,Asphalt Black|7990000|gaming|gaming
+realme|realme GT Neo 3T|128,256|Dash Yellow,Drifting White,Shade Black|5990000|gaming|gaming
+realme|realme GT 2|128,256|Paper White,Paper Green,Steel Black|7490000|upper-midrange|realme
+realme|realme GT 2 Pro|128,256|Paper White,Paper Green,Steel Black|10990000|flagship|realme
+realme|realme GT Master Edition|128,256|Voyager Grey,Daybreak Blue|4990000|midrange|realme
+realme|realme 12 Pro 5G|128,256|Submarine Blue,Navigator Beige|7490000|midrange|round
+realme|realme 12+ 5G|128,256|Pioneer Green,Navigator Beige|5990000|midrange|round
+realme|realme 11 Pro 5G|128,256|Astral Black,Sunrise Beige,Oasis Green|6490000|midrange|round
+realme|realme 11 Pro+ 5G|256,512|Astral Black,Sunrise Beige,Oasis Green|8490000|upper-midrange|round
+realme|realme 11 5G|128,256|Glory Gold,Glory Black|4990000|midrange|round
+realme|realme 10 Pro 5G|128,256|Dark Matter,Nebula Blue,Hyperspace|4490000|midrange|realme
+realme|realme 10 Pro+ 5G|128,256|Dark Matter,Nebula Blue,Hyperspace|6490000|midrange|round
+realme|realme C55|128,256|Sunshower,Rainy Night|3290000|budget|realme
+realme|realme C53|128|Champion Gold,Mighty Black|2790000|budget|realme
+honor|HONOR Magic6 Pro|512|Black,Epi Green|23990000|flagship|round
+honor|HONOR Magic6|256,512|Black,Green,White|18990000|flagship|round
+honor|HONOR Magic5 Pro|512|Black,Meadow Green|17990000|flagship|round
+honor|HONOR Magic5|256|Black,Meadow Green|13990000|flagship|round
+honor|HONOR Magic4 Pro|256|Black,Cyan|11990000|flagship|round
+honor|HONOR Magic V2|512|Black,Purple|29990000|foldable|fold
+honor|HONOR Magic Vs|256,512|Black,Cyan|21990000|foldable|fold
+honor|HONOR 200|256,512|Moonlight White,Emerald Green,Black|9990000|upper-midrange|round
+honor|HONOR 200 Pro|512|Ocean Cyan,Moonlight White,Black|14990000|flagship|round
+honor|HONOR 90|256,512|Diamond Silver,Emerald Green,Midnight Black|7990000|midrange|honor
+honor|HONOR 90 Lite|256|Cyan Lake,Titanium Silver,Midnight Black|4990000|midrange|honor
+honor|HONOR 70|128,256|Crystal Silver,Emerald Green,Midnight Black|5990000|midrange|honor
+honor|HONOR X9b|256|Sunrise Orange,Midnight Black,Emerald Green|6490000|midrange|round
+honor|HONOR X8b|128,256,512|Glamorous Green,Titanium Silver,Midnight Black|4490000|midrange|square
+honor|HONOR X7b|128,256|Flowing Silver,Emerald Green,Midnight Black|3490000|budget|honor
+google|Google Pixel 9|128,256|Obsidian,Porcelain,Wintergreen,Peony|17990000|flagship|pixel
+google|Google Pixel 9 Pro|128,256,512,1024|Obsidian,Porcelain,Hazel,Rose Quartz|22990000|flagship|pixel
+google|Google Pixel 9 Pro XL|128,256,512,1024|Obsidian,Porcelain,Hazel,Rose Quartz|24990000|flagship|pixel
+google|Google Pixel 9 Pro Fold|256,512|Obsidian,Porcelain|36990000|foldable|fold
+google|Google Pixel 8|128,256|Obsidian,Hazel,Rose,Mint|12990000|upper-midrange|pixel
+google|Google Pixel 8 Pro|128,256,512|Obsidian,Porcelain,Bay,Mint|16990000|flagship|pixel
+google|Google Pixel 8a|128,256|Obsidian,Porcelain,Bay,Aloe|9990000|midrange|pixel
+google|Google Pixel 7|128,256|Obsidian,Snow,Lemongrass|9490000|upper-midrange|pixel
+google|Google Pixel 7 Pro|128,256,512|Obsidian,Snow,Hazel|12990000|flagship|pixel
+google|Google Pixel 7a|128|Charcoal,Snow,Sea,Coral|7490000|midrange|pixel
+google|Google Pixel 6|128,256|Stormy Black,Kinda Coral,Sorta Seafoam|6490000|midrange|pixel
+google|Google Pixel 6 Pro|128,256,512|Stormy Black,Cloudy White,Sorta Sunny|8990000|upper-midrange|pixel
+google|Google Pixel 6a|128|Charcoal,Chalk,Sage|5490000|midrange|pixel
+google|Google Pixel 5|128|Just Black,Sorta Sage|4490000|midrange|pixel-square
+google|Google Pixel 4a|128|Just Black,Barely Blue|2990000|budget|pixel-single
+oneplus|OnePlus 12|256,512|Silky Black,Flowy Emerald|16990000|flagship|round
+oneplus|OnePlus 12R|128,256|Iron Gray,Cool Blue|11990000|upper-midrange|round
+oneplus|OnePlus 11|128,256|Titan Black,Eternal Green|13990000|flagship|round
+oneplus|OnePlus 10 Pro|128,256|Volcanic Black,Emerald Forest|10990000|flagship|square
+oneplus|OnePlus 10T|128,256|Moonstone Black,Jade Green|8990000|upper-midrange|square
+oneplus|OnePlus 9|128,256|Winter Mist,Arctic Sky,Astral Black|7490000|upper-midrange|square
+oneplus|OnePlus 9 Pro|128,256|Morning Mist,Pine Green,Stellar Black|9990000|flagship|square
+oneplus|OnePlus 8T|128,256|Aquamarine Green,Lunar Silver|6490000|midrange|square
+oneplus|OnePlus 8|128,256|Onyx Black,Glacial Green,Interstellar Glow|5490000|midrange|oneplus
+oneplus|OnePlus 8 Pro|128,256|Onyx Black,Glacial Green,Ultramarine Blue|7490000|upper-midrange|oneplus
+oneplus|OnePlus Open|512|Emerald Dusk,Voyager Black|32990000|foldable|fold
+oneplus|OnePlus Nord 4|128,256,512|Obsidian Midnight,Mercurial Silver,Oasis Green|9990000|upper-midrange|oneplus
+oneplus|OnePlus Nord 3 5G|128,256|Misty Green,Tempest Gray|7490000|midrange|oneplus
+oneplus|OnePlus Nord CE4|128,256|Celadon Marble,Dark Chrome|6490000|midrange|oneplus
+oneplus|OnePlus Nord CE 3 Lite 5G|128,256|Pastel Lime,Chromatic Gray|4990000|midrange|oneplus
+motorola|Motorola edge 50 ultra|512,1024|Forest Grey,Nordic Wood,Peach Fuzz|19990000|flagship|moto
+motorola|Motorola edge 50 pro|256,512|Black Beauty,Luxe Lavender,Moonlight Pearl|13990000|upper-midrange|moto
+motorola|Motorola edge 50 fusion|128,256,512|Forest Blue,Marshmallow Blue,Hot Pink|8990000|midrange|moto
+motorola|Motorola edge 40|256|Eclipse Black,Nebula Green,Lunar Blue|9990000|upper-midrange|moto
+motorola|Motorola edge 40 neo|128,256|Black Beauty,Caneel Bay,Soothing Sea|7490000|midrange|moto
+motorola|Motorola edge 30 ultra|128,256,512|Interstellar Black,Starlight White|12990000|flagship|moto
+motorola|Motorola razr 50 ultra|512|Midnight Blue,Spring Green,Peach Fuzz|26990000|foldable|flip
+motorola|Motorola razr 40 ultra|256|Infinite Black,Glacier Blue,Viva Magenta|19990000|foldable|flip
+motorola|Motorola moto g84 5G|256|Midnight Blue,Marshmallow Blue,Viva Magenta|5990000|midrange|moto
+motorola|Motorola moto g54 5G|128,256|Midnight Blue,Mint Green,Pearl Blue|4490000|midrange|moto
+nothing|Nothing Phone (1)|128,256|Black,White|6990000|midrange|nothing
+nothing|Nothing Phone (2)|128,256,512|Dark Grey,White|10990000|upper-midrange|nothing
+nothing|Nothing Phone (2a)|128,256|Black,White,Milk|6490000|midrange|nothing
+nothing|Nothing Phone (2a) Plus|256|Black,Grey|7990000|midrange|nothing
+nothing|Nothing Phone (3a)|128,256|Black,White,Blue|8990000|midrange|nothing
+nothing|Nothing Phone (3a) Pro|256|Black,Grey|11990000|upper-midrange|nothing
+asus|ASUS ROG Phone 8|256|Phantom Black,Rebel Grey|18990000|gaming|gaming
+asus|ASUS ROG Phone 8 Pro|512|Phantom Black|24990000|gaming|gaming
+asus|ASUS ROG Phone 7|256,512|Phantom Black,Storm White|16990000|gaming|gaming
+asus|ASUS Zenfone 10|128,256,512|Midnight Black,Comet White,Starry Blue,Eclipse Red,Aurora Green|13990000|upper-midrange|zenfone
+asus|ASUS Zenfone 9|128,256|Midnight Black,Moonlight White,Sunset Red,Starry Blue|10990000|upper-midrange|zenfone
+sony|Sony Xperia 1 VI|256|Black,Platinum Silver,Khaki Green|24990000|flagship|sony
+sony|Sony Xperia 1 V|256|Black,Platinum Silver,Khaki Green|19990000|flagship|sony
+sony|Sony Xperia 5 V|128|Black,Blue,Platinum Silver|16990000|upper-midrange|sony
+sony|Sony Xperia 10 VI|128|Black,White,Blue|9990000|midrange|sony
+sony|Sony Xperia 10 V|128|Black,White,Lavender,Sage Green|7990000|midrange|sony
+tecno|TECNO CAMON 30 Premier 5G|512|Alps Snowy Silver,Hawaii Lava Black|12990000|upper-midrange|round
+tecno|TECNO CAMON 30 Pro 5G|256,512|Iceland Basaltic Dark,Alps Snowy Silver|9490000|upper-midrange|round
+tecno|TECNO CAMON 30 5G|256,512|Iceland Basaltic Dark,Uyuni Salt White|6490000|midrange|round
+tecno|TECNO PHANTOM V Fold|256,512|Black,White|21990000|foldable|fold
+tecno|TECNO POVA 6 Pro 5G|256|Comet Green,Meteorite Grey|5990000|gaming|gaming

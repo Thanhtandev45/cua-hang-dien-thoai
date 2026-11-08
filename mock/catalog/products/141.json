@@ -1,0 +1,50 @@
+{
+  "id": 141,
+  "slug": "vivo-x80-pro",
+  "name": "vivo X80 Pro",
+  "brand": {
+    "id": 5,
+    "name": "vivo",
+    "slug": "vivo"
+  },
+  "segment": "flagship",
+  "summary": "vivo X80 Pro · Cao cấp · Giá và tồn kho demo.",
+  "description": "vivo X80 Pro thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/vivo-x80-pro-1.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "256GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": true,
+  "is_new": false,
+  "created_at": "2026-11-01T02:21:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.vivo.com/en/products/param/x80pro",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 14101,
+      "sku": "NOVA-0141-014101",
+      "color": "Cosmic Black",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 15990000,
+      "original_price": 16490000,
+      "stock": 11,
+      "image": "assets/images/catalog/vivo-x80-pro-1.svg"
+    }
+  ]
+}

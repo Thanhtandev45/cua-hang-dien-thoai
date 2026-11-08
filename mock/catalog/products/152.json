@@ -1,0 +1,62 @@
+{
+  "id": 152,
+  "slug": "vivo-v23e",
+  "name": "vivo V23e",
+  "brand": {
+    "id": 5,
+    "name": "vivo",
+    "slug": "vivo"
+  },
+  "segment": "midrange",
+  "summary": "vivo V23e · Tầm trung · Giá và tồn kho demo.",
+  "description": "vivo V23e thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/vivo-v23e-1.svg",
+    "assets/images/catalog/vivo-v23e-2.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": false,
+  "is_new": false,
+  "created_at": "2026-11-01T02:32:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.vivo.com/en/products/param/v23e",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 15201,
+      "sku": "NOVA-0152-015201",
+      "color": "Sunshine Coast",
+      "color_hex": "#9aaab1",
+      "storage": "128GB",
+      "price": 4990000,
+      "original_price": 4990000,
+      "stock": 0,
+      "image": "assets/images/catalog/vivo-v23e-1.svg"
+    },
+    {
+      "id": 15202,
+      "sku": "NOVA-0152-015202",
+      "color": "Moonlight Shadow",
+      "color_hex": "#9aaab1",
+      "storage": "128GB",
+      "price": 5040000,
+      "original_price": 5040000,
+      "stock": 23,
+      "image": "assets/images/catalog/vivo-v23e-2.svg"
+    }
+  ]
+}

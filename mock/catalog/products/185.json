@@ -1,0 +1,74 @@
+{
+  "id": 185,
+  "slug": "honor-90-lite",
+  "name": "HONOR 90 Lite",
+  "brand": {
+    "id": 7,
+    "name": "HONOR",
+    "slug": "honor"
+  },
+  "segment": "midrange",
+  "summary": "HONOR 90 Lite · Tầm trung · Giá và tồn kho demo.",
+  "description": "HONOR 90 Lite thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/honor-90-lite-1.svg",
+    "assets/images/catalog/honor-90-lite-2.svg",
+    "assets/images/catalog/honor-90-lite-3.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "256GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": false,
+  "is_new": false,
+  "created_at": "2026-11-01T03:05:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.honor.com/global/phones/honor-90-lite/spec/",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 18501,
+      "sku": "NOVA-0185-018501",
+      "color": "Cyan Lake",
+      "color_hex": "#8bbdbb",
+      "storage": "256GB",
+      "price": 4990000,
+      "original_price": 5490000,
+      "stock": 7,
+      "image": "assets/images/catalog/honor-90-lite-1.svg"
+    },
+    {
+      "id": 18502,
+      "sku": "NOVA-0185-018502",
+      "color": "Titanium Silver",
+      "color_hex": "#bdc4cb",
+      "storage": "256GB",
+      "price": 5040000,
+      "original_price": 5540000,
+      "stock": 14,
+      "image": "assets/images/catalog/honor-90-lite-2.svg"
+    },
+    {
+      "id": 18503,
+      "sku": "NOVA-0185-018503",
+      "color": "Midnight Black",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 5090000,
+      "original_price": 5590000,
+      "stock": 21,
+      "image": "assets/images/catalog/honor-90-lite-3.svg"
+    }
+  ]
+}

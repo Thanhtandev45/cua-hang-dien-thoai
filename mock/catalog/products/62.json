@@ -1,0 +1,176 @@
+{
+  "id": 62,
+  "slug": "samsung-galaxy-s20-fe",
+  "name": "Samsung Galaxy S20 FE",
+  "brand": {
+    "id": 2,
+    "name": "Samsung",
+    "slug": "samsung"
+  },
+  "segment": "midrange",
+  "summary": "Samsung Galaxy S20 FE · Tầm trung · Giá và tồn kho demo.",
+  "description": "Samsung Galaxy S20 FE thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/samsung-galaxy-s20-fe-1.svg",
+    "assets/images/catalog/samsung-galaxy-s20-fe-2.svg",
+    "assets/images/catalog/samsung-galaxy-s20-fe-3.svg",
+    "assets/images/catalog/samsung-galaxy-s20-fe-4.svg",
+    "assets/images/catalog/samsung-galaxy-s20-fe-5.svg",
+    "assets/images/catalog/samsung-galaxy-s20-fe-6.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB / 256GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": false,
+  "is_new": false,
+  "created_at": "2026-11-01T01:02:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.samsung.com/global/galaxy/galaxy-s20-fe/specs/",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 6201,
+      "sku": "NOVA-0062-006201",
+      "color": "Cloud Navy",
+      "color_hex": "#9aaab1",
+      "storage": "128GB",
+      "price": 5990000,
+      "original_price": 6490000,
+      "stock": 10,
+      "image": "assets/images/catalog/samsung-galaxy-s20-fe-1.svg"
+    },
+    {
+      "id": 6202,
+      "sku": "NOVA-0062-006202",
+      "color": "Cloud Navy",
+      "color_hex": "#9aaab1",
+      "storage": "256GB",
+      "price": 6990000,
+      "original_price": 7490000,
+      "stock": 17,
+      "image": "assets/images/catalog/samsung-galaxy-s20-fe-1.svg"
+    },
+    {
+      "id": 6203,
+      "sku": "NOVA-0062-006203",
+      "color": "Cloud Lavender",
+      "color_hex": "#beb0cc",
+      "storage": "128GB",
+      "price": 6040000,
+      "original_price": 6540000,
+      "stock": 24,
+      "image": "assets/images/catalog/samsung-galaxy-s20-fe-2.svg"
+    },
+    {
+      "id": 6204,
+      "sku": "NOVA-0062-006204",
+      "color": "Cloud Lavender",
+      "color_hex": "#beb0cc",
+      "storage": "256GB",
+      "price": 7040000,
+      "original_price": 7540000,
+      "stock": 0,
+      "image": "assets/images/catalog/samsung-galaxy-s20-fe-2.svg"
+    },
+    {
+      "id": 6205,
+      "sku": "NOVA-0062-006205",
+      "color": "Cloud Mint",
+      "color_hex": "#a2c8b6",
+      "storage": "128GB",
+      "price": 6090000,
+      "original_price": 6590000,
+      "stock": 14,
+      "image": "assets/images/catalog/samsung-galaxy-s20-fe-3.svg"
+    },
+    {
+      "id": 6206,
+      "sku": "NOVA-0062-006206",
+      "color": "Cloud Mint",
+      "color_hex": "#a2c8b6",
+      "storage": "256GB",
+      "price": 7090000,
+      "original_price": 7590000,
+      "stock": 21,
+      "image": "assets/images/catalog/samsung-galaxy-s20-fe-3.svg"
+    },
+    {
+      "id": 6207,
+      "sku": "NOVA-0062-006207",
+      "color": "Cloud Red",
+      "color_hex": "#ac4b54",
+      "storage": "128GB",
+      "price": 6140000,
+      "original_price": 6640000,
+      "stock": 4,
+      "image": "assets/images/catalog/samsung-galaxy-s20-fe-4.svg"
+    },
+    {
+      "id": 6208,
+      "sku": "NOVA-0062-006208",
+      "color": "Cloud Red",
+      "color_hex": "#ac4b54",
+      "storage": "256GB",
+      "price": 7140000,
+      "original_price": 7640000,
+      "stock": 11,
+      "image": "assets/images/catalog/samsung-galaxy-s20-fe-4.svg"
+    },
+    {
+      "id": 6209,
+      "sku": "NOVA-0062-006209",
+      "color": "Cloud White",
+      "color_hex": "#e8e5dc",
+      "storage": "128GB",
+      "price": 6190000,
+      "original_price": 6690000,
+      "stock": 18,
+      "image": "assets/images/catalog/samsung-galaxy-s20-fe-5.svg"
+    },
+    {
+      "id": 6210,
+      "sku": "NOVA-0062-006210",
+      "color": "Cloud White",
+      "color_hex": "#e8e5dc",
+      "storage": "256GB",
+      "price": 7190000,
+      "original_price": 7690000,
+      "stock": 1,
+      "image": "assets/images/catalog/samsung-galaxy-s20-fe-5.svg"
+    },
+    {
+      "id": 6211,
+      "sku": "NOVA-0062-006211",
+      "color": "Cloud Orange",
+      "color_hex": "#cc9370",
+      "storage": "128GB",
+      "price": 6240000,
+      "original_price": 6740000,
+      "stock": 8,
+      "image": "assets/images/catalog/samsung-galaxy-s20-fe-6.svg"
+    },
+    {
+      "id": 6212,
+      "sku": "NOVA-0062-006212",
+      "color": "Cloud Orange",
+      "color_hex": "#cc9370",
+      "storage": "256GB",
+      "price": 7240000,
+      "original_price": 7740000,
+      "stock": 15,
+      "image": "assets/images/catalog/samsung-galaxy-s20-fe-6.svg"
+    }
+  ]
+}

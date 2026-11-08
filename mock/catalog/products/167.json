@@ -1,0 +1,84 @@
+{
+  "id": 167,
+  "slug": "realme-12-plus-5g",
+  "name": "realme 12+ 5G",
+  "brand": {
+    "id": 6,
+    "name": "realme",
+    "slug": "realme"
+  },
+  "segment": "midrange",
+  "summary": "realme 12+ 5G · Tầm trung · Giá và tồn kho demo.",
+  "description": "realme 12+ 5G thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/realme-12-plus-5g-1.svg",
+    "assets/images/catalog/realme-12-plus-5g-2.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB / 256GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": false,
+  "is_new": false,
+  "created_at": "2026-11-01T02:47:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.realme.com/global/realme-12-plus-5g/specs",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 16701,
+      "sku": "NOVA-0167-016701",
+      "color": "Pioneer Green",
+      "color_hex": "#729183",
+      "storage": "128GB",
+      "price": 5990000,
+      "original_price": 6490000,
+      "stock": 1,
+      "image": "assets/images/catalog/realme-12-plus-5g-1.svg"
+    },
+    {
+      "id": 16702,
+      "sku": "NOVA-0167-016702",
+      "color": "Pioneer Green",
+      "color_hex": "#729183",
+      "storage": "256GB",
+      "price": 6990000,
+      "original_price": 7490000,
+      "stock": 8,
+      "image": "assets/images/catalog/realme-12-plus-5g-1.svg"
+    },
+    {
+      "id": 16703,
+      "sku": "NOVA-0167-016703",
+      "color": "Navigator Beige",
+      "color_hex": "#d4c2a0",
+      "storage": "128GB",
+      "price": 6040000,
+      "original_price": 6540000,
+      "stock": 15,
+      "image": "assets/images/catalog/realme-12-plus-5g-2.svg"
+    },
+    {
+      "id": 16704,
+      "sku": "NOVA-0167-016704",
+      "color": "Navigator Beige",
+      "color_hex": "#d4c2a0",
+      "storage": "256GB",
+      "price": 7040000,
+      "original_price": 7540000,
+      "stock": 22,
+      "image": "assets/images/catalog/realme-12-plus-5g-2.svg"
+    }
+  ]
+}

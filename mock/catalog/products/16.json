@@ -1,0 +1,75 @@
+{
+  "id": 16,
+  "slug": "oppo-find-x7",
+  "name": "OPPO Find X7",
+  "brand": {
+    "id": 4,
+    "name": "OPPO",
+    "slug": "oppo"
+  },
+  "summary": "Thiết kế hiện đại, màn hình sống động và trải nghiệm linh hoạt mỗi ngày.",
+  "description": "OPPO Find X7 là lựa chọn dành cho những trải nghiệm công nghệ hằng ngày: lưu giữ khoảnh khắc, làm việc và giải trí. Thông tin, giá và cấu hình trong bản trình diễn là dữ liệu phát triển, cần được thay thế bằng dữ liệu đã xác minh từ backend trước khi bán hàng.",
+  "images": [
+    "assets/images/oppo-green.svg",
+    "assets/images/phone-front.svg"
+  ],
+  "specs": {
+    "Màn hình": "AMOLED, cảm ứng đa điểm",
+    "Bộ nhớ": "256GB / 512GB",
+    "Kết nối": "Wi-Fi, Bluetooth, USB-C",
+    "Camera": "Hệ thống camera đa ống kính",
+    "Tình trạng": "Dữ liệu sản phẩm mẫu",
+    "Bảo hành": "Chính sách mẫu: 12 tháng"
+  },
+  "featured": false,
+  "is_new": true,
+  "created_at": "2026-10-13T08:00:00+07:00",
+  "variants": [
+    {
+      "id": 1601,
+      "color": "Xanh ngọc",
+      "color_hex": "#597b6e",
+      "storage": "256GB",
+      "price": 18990000,
+      "original_price": 20490000,
+      "stock": 10,
+      "image": "assets/images/oppo-green.svg",
+      "sku": "NOVA-0016-001601"
+    },
+    {
+      "id": 1602,
+      "color": "Xanh ngọc",
+      "color_hex": "#597b6e",
+      "storage": "512GB",
+      "price": 20990000,
+      "original_price": 22490000,
+      "stock": 4,
+      "image": "assets/images/oppo-green.svg",
+      "sku": "NOVA-0016-001602"
+    },
+    {
+      "id": 1603,
+      "color": "Đen",
+      "color_hex": "#34363a",
+      "storage": "256GB",
+      "price": 18990000,
+      "original_price": 20490000,
+      "stock": 3,
+      "image": "assets/images/oppo-green.svg",
+      "sku": "NOVA-0016-001603"
+    },
+    {
+      "id": 1604,
+      "color": "Đen",
+      "color_hex": "#34363a",
+      "storage": "512GB",
+      "price": 20990000,
+      "original_price": 22490000,
+      "stock": 2,
+      "image": "assets/images/oppo-green.svg",
+      "sku": "NOVA-0016-001604"
+    }
+  ],
+  "is_demo": true,
+  "data_quality": "legacy_unverified"
+}

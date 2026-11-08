@@ -1,0 +1,74 @@
+{
+  "id": 241,
+  "slug": "sony-xperia-1-vi",
+  "name": "Sony Xperia 1 VI",
+  "brand": {
+    "id": 13,
+    "name": "Sony Xperia",
+    "slug": "sony"
+  },
+  "segment": "flagship",
+  "summary": "Sony Xperia 1 VI · Cao cấp · Giá và tồn kho demo.",
+  "description": "Sony Xperia 1 VI thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/sony-xperia-1-vi-1.svg",
+    "assets/images/catalog/sony-xperia-1-vi-2.svg",
+    "assets/images/catalog/sony-xperia-1-vi-3.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "256GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": true,
+  "is_new": false,
+  "created_at": "2026-11-01T04:01:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.sony.co.uk/electronics/support/mobile-phones-tablets-mobile-phones/xperia-1-vi/specifications",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 24101,
+      "sku": "NOVA-0241-024101",
+      "color": "Black",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 24990000,
+      "original_price": 25490000,
+      "stock": 15,
+      "image": "assets/images/catalog/sony-xperia-1-vi-1.svg"
+    },
+    {
+      "id": 24102,
+      "sku": "NOVA-0241-024102",
+      "color": "Platinum Silver",
+      "color_hex": "#bdc4cb",
+      "storage": "256GB",
+      "price": 25040000,
+      "original_price": 25540000,
+      "stock": 22,
+      "image": "assets/images/catalog/sony-xperia-1-vi-2.svg"
+    },
+    {
+      "id": 24103,
+      "sku": "NOVA-0241-024103",
+      "color": "Khaki Green",
+      "color_hex": "#729183",
+      "storage": "256GB",
+      "price": 25090000,
+      "original_price": 25590000,
+      "stock": 5,
+      "image": "assets/images/catalog/sony-xperia-1-vi-3.svg"
+    }
+  ]
+}

@@ -1,0 +1,1416 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "slug": "iphone-16-pro-max",
+      "name": "iPhone 16 Pro Max",
+      "brand": {
+        "id": 1,
+        "name": "Apple",
+        "slug": "apple"
+      },
+      "summary": "Trải nghiệm mượt mà, thiết kế tinh tế và hệ sinh thái quen thuộc.",
+      "description": "iPhone 16 Pro Max là lựa chọn dành cho những trải nghiệm công nghệ hằng ngày: lưu giữ khoảnh khắc, làm việc và giải trí. Thông tin, giá và cấu hình trong bản trình diễn là dữ liệu phát triển, cần được thay thế bằng dữ liệu đã xác minh từ backend trước khi bán hàng.",
+      "images": [
+        "assets/images/apple-titanium.svg",
+        "assets/images/phone-front.svg"
+      ],
+      "specs": {
+        "Màn hình": "OLED, cảm ứng đa điểm",
+        "Bộ nhớ": "256GB / 512GB",
+        "Kết nối": "Wi-Fi, Bluetooth, USB-C",
+        "Camera": "Hệ thống camera đa ống kính",
+        "Tình trạng": "Dữ liệu sản phẩm mẫu",
+        "Bảo hành": "Chính sách mẫu: 12 tháng"
+      },
+      "featured": true,
+      "is_new": true,
+      "created_at": "2026-10-28T08:00:00+07:00",
+      "variants": [
+        {
+          "id": 101,
+          "color": "Titan sa mạc",
+          "color_hex": "#c6b5a4",
+          "storage": "256GB",
+          "price": 29990000,
+          "original_price": 31490000,
+          "stock": 9,
+          "image": "assets/images/apple-titanium.svg"
+        },
+        {
+          "id": 102,
+          "color": "Titan sa mạc",
+          "color_hex": "#c6b5a4",
+          "storage": "512GB",
+          "price": 31990000,
+          "original_price": 33490000,
+          "stock": 4,
+          "image": "assets/images/apple-titanium.svg"
+        },
+        {
+          "id": 103,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "256GB",
+          "price": 29990000,
+          "original_price": 31490000,
+          "stock": 3,
+          "image": "assets/images/apple-titanium.svg"
+        },
+        {
+          "id": 104,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "512GB",
+          "price": 31990000,
+          "original_price": 33490000,
+          "stock": 2,
+          "image": "assets/images/apple-titanium.svg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "samsung-galaxy-s24-ultra",
+      "name": "Samsung Galaxy S24 Ultra",
+      "brand": {
+        "id": 2,
+        "name": "Samsung",
+        "slug": "samsung"
+      },
+      "summary": "Thiết kế hiện đại, màn hình sống động và trải nghiệm linh hoạt mỗi ngày.",
+      "description": "Samsung Galaxy S24 Ultra là lựa chọn dành cho những trải nghiệm công nghệ hằng ngày: lưu giữ khoảnh khắc, làm việc và giải trí. Thông tin, giá và cấu hình trong bản trình diễn là dữ liệu phát triển, cần được thay thế bằng dữ liệu đã xác minh từ backend trước khi bán hàng.",
+      "images": [
+        "assets/images/samsung-gray.svg",
+        "assets/images/phone-front.svg"
+      ],
+      "specs": {
+        "Màn hình": "AMOLED, cảm ứng đa điểm",
+        "Bộ nhớ": "256GB / 512GB",
+        "Kết nối": "Wi-Fi, Bluetooth, USB-C",
+        "Camera": "Hệ thống camera đa ống kính",
+        "Tình trạng": "Dữ liệu sản phẩm mẫu",
+        "Bảo hành": "Chính sách mẫu: 12 tháng"
+      },
+      "featured": true,
+      "is_new": false,
+      "created_at": "2026-10-27T08:00:00+07:00",
+      "variants": [
+        {
+          "id": 201,
+          "color": "Xám titan",
+          "color_hex": "#9b9a95",
+          "storage": "256GB",
+          "price": 24990000,
+          "original_price": 26990000,
+          "stock": 10,
+          "image": "assets/images/samsung-gray.svg"
+        },
+        {
+          "id": 202,
+          "color": "Xám titan",
+          "color_hex": "#9b9a95",
+          "storage": "512GB",
+          "price": 26990000,
+          "original_price": 28990000,
+          "stock": 4,
+          "image": "assets/images/samsung-gray.svg"
+        },
+        {
+          "id": 203,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "256GB",
+          "price": 24990000,
+          "original_price": 26990000,
+          "stock": 3,
+          "image": "assets/images/samsung-gray.svg"
+        },
+        {
+          "id": 204,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "512GB",
+          "price": 26990000,
+          "original_price": 28990000,
+          "stock": 2,
+          "image": "assets/images/samsung-gray.svg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "iphone-16",
+      "name": "iPhone 16",
+      "brand": {
+        "id": 1,
+        "name": "Apple",
+        "slug": "apple"
+      },
+      "summary": "Trải nghiệm mượt mà, thiết kế tinh tế và hệ sinh thái quen thuộc.",
+      "description": "iPhone 16 là lựa chọn dành cho những trải nghiệm công nghệ hằng ngày: lưu giữ khoảnh khắc, làm việc và giải trí. Thông tin, giá và cấu hình trong bản trình diễn là dữ liệu phát triển, cần được thay thế bằng dữ liệu đã xác minh từ backend trước khi bán hàng.",
+      "images": [
+        "assets/images/apple-blue.svg",
+        "assets/images/phone-front.svg"
+      ],
+      "specs": {
+        "Màn hình": "OLED, cảm ứng đa điểm",
+        "Bộ nhớ": "128GB / 256GB",
+        "Kết nối": "Wi-Fi, Bluetooth, USB-C",
+        "Camera": "Hệ thống camera đa ống kính",
+        "Tình trạng": "Dữ liệu sản phẩm mẫu",
+        "Bảo hành": "Chính sách mẫu: 12 tháng"
+      },
+      "featured": true,
+      "is_new": true,
+      "created_at": "2026-10-26T08:00:00+07:00",
+      "variants": [
+        {
+          "id": 301,
+          "color": "Xanh lưu ly",
+          "color_hex": "#657aa8",
+          "storage": "128GB",
+          "price": 19990000,
+          "original_price": 20990000,
+          "stock": 11,
+          "image": "assets/images/apple-blue.svg"
+        },
+        {
+          "id": 302,
+          "color": "Xanh lưu ly",
+          "color_hex": "#657aa8",
+          "storage": "256GB",
+          "price": 21990000,
+          "original_price": 22990000,
+          "stock": 4,
+          "image": "assets/images/apple-blue.svg"
+        },
+        {
+          "id": 303,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "128GB",
+          "price": 19990000,
+          "original_price": 20990000,
+          "stock": 3,
+          "image": "assets/images/apple-blue.svg"
+        },
+        {
+          "id": 304,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "256GB",
+          "price": 21990000,
+          "original_price": 22990000,
+          "stock": 2,
+          "image": "assets/images/apple-blue.svg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "xiaomi-14",
+      "name": "Xiaomi 14",
+      "brand": {
+        "id": 3,
+        "name": "Xiaomi",
+        "slug": "xiaomi"
+      },
+      "summary": "Thiết kế hiện đại, màn hình sống động và trải nghiệm linh hoạt mỗi ngày.",
+      "description": "Xiaomi 14 là lựa chọn dành cho những trải nghiệm công nghệ hằng ngày: lưu giữ khoảnh khắc, làm việc và giải trí. Thông tin, giá và cấu hình trong bản trình diễn là dữ liệu phát triển, cần được thay thế bằng dữ liệu đã xác minh từ backend trước khi bán hàng.",
+      "images": [
+        "assets/images/xiaomi-black.svg",
+        "assets/images/phone-front.svg"
+      ],
+      "specs": {
+        "Màn hình": "AMOLED, cảm ứng đa điểm",
+        "Bộ nhớ": "256GB / 512GB",
+        "Kết nối": "Wi-Fi, Bluetooth, USB-C",
+        "Camera": "Hệ thống camera đa ống kính",
+        "Tình trạng": "Dữ liệu sản phẩm mẫu",
+        "Bảo hành": "Chính sách mẫu: 12 tháng"
+      },
+      "featured": true,
+      "is_new": false,
+      "created_at": "2026-10-25T08:00:00+07:00",
+      "variants": [
+        {
+          "id": 401,
+          "color": "Đen",
+          "color_hex": "#343638",
+          "storage": "256GB",
+          "price": 15990000,
+          "original_price": 17490000,
+          "stock": 12,
+          "image": "assets/images/xiaomi-black.svg"
+        },
+        {
+          "id": 402,
+          "color": "Đen",
+          "color_hex": "#343638",
+          "storage": "512GB",
+          "price": 17990000,
+          "original_price": 19490000,
+          "stock": 4,
+          "image": "assets/images/xiaomi-black.svg"
+        },
+        {
+          "id": 403,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "256GB",
+          "price": 15990000,
+          "original_price": 17490000,
+          "stock": 3,
+          "image": "assets/images/xiaomi-black.svg"
+        },
+        {
+          "id": 404,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "512GB",
+          "price": 17990000,
+          "original_price": 19490000,
+          "stock": 2,
+          "image": "assets/images/xiaomi-black.svg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "oppo-reno12-5g",
+      "name": "OPPO Reno12 5G",
+      "brand": {
+        "id": 4,
+        "name": "OPPO",
+        "slug": "oppo"
+      },
+      "summary": "Thiết kế hiện đại, màn hình sống động và trải nghiệm linh hoạt mỗi ngày.",
+      "description": "OPPO Reno12 5G là lựa chọn dành cho những trải nghiệm công nghệ hằng ngày: lưu giữ khoảnh khắc, làm việc và giải trí. Thông tin, giá và cấu hình trong bản trình diễn là dữ liệu phát triển, cần được thay thế bằng dữ liệu đã xác minh từ backend trước khi bán hàng.",
+      "images": [
+        "assets/images/oppo-green.svg",
+        "assets/images/phone-front.svg"
+      ],
+      "specs": {
+        "Màn hình": "AMOLED, cảm ứng đa điểm",
+        "Bộ nhớ": "256GB / 512GB",
+        "Kết nối": "Wi-Fi, Bluetooth, USB-C",
+        "Camera": "Hệ thống camera đa ống kính",
+        "Tình trạng": "Dữ liệu sản phẩm mẫu",
+        "Bảo hành": "Chính sách mẫu: 12 tháng"
+      },
+      "featured": true,
+      "is_new": true,
+      "created_at": "2026-10-24T08:00:00+07:00",
+      "variants": [
+        {
+          "id": 501,
+          "color": "Xanh lục",
+          "color_hex": "#85a798",
+          "storage": "256GB",
+          "price": 10990000,
+          "original_price": 12990000,
+          "stock": 13,
+          "image": "assets/images/oppo-green.svg"
+        },
+        {
+          "id": 502,
+          "color": "Xanh lục",
+          "color_hex": "#85a798",
+          "storage": "512GB",
+          "price": 12990000,
+          "original_price": 14990000,
+          "stock": 0,
+          "image": "assets/images/oppo-green.svg"
+        },
+        {
+          "id": 503,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "256GB",
+          "price": 10990000,
+          "original_price": 12990000,
+          "stock": 3,
+          "image": "assets/images/oppo-green.svg"
+        },
+        {
+          "id": 504,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "512GB",
+          "price": 12990000,
+          "original_price": 14990000,
+          "stock": 2,
+          "image": "assets/images/oppo-green.svg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "samsung-galaxy-a55-5g",
+      "name": "Samsung Galaxy A55 5G",
+      "brand": {
+        "id": 2,
+        "name": "Samsung",
+        "slug": "samsung"
+      },
+      "summary": "Thiết kế hiện đại, màn hình sống động và trải nghiệm linh hoạt mỗi ngày.",
+      "description": "Samsung Galaxy A55 5G là lựa chọn dành cho những trải nghiệm công nghệ hằng ngày: lưu giữ khoảnh khắc, làm việc và giải trí. Thông tin, giá và cấu hình trong bản trình diễn là dữ liệu phát triển, cần được thay thế bằng dữ liệu đã xác minh từ backend trước khi bán hàng.",
+      "images": [
+        "assets/images/samsung-violet.svg",
+        "assets/images/phone-front.svg"
+      ],
+      "specs": {
+        "Màn hình": "AMOLED, cảm ứng đa điểm",
+        "Bộ nhớ": "128GB / 256GB",
+        "Kết nối": "Wi-Fi, Bluetooth, USB-C",
+        "Camera": "Hệ thống camera đa ống kính",
+        "Tình trạng": "Dữ liệu sản phẩm mẫu",
+        "Bảo hành": "Chính sách mẫu: 12 tháng"
+      },
+      "featured": true,
+      "is_new": false,
+      "created_at": "2026-10-23T08:00:00+07:00",
+      "variants": [
+        {
+          "id": 601,
+          "color": "Tím nhạt",
+          "color_hex": "#b8b0c6",
+          "storage": "128GB",
+          "price": 8490000,
+          "original_price": 9490000,
+          "stock": 14,
+          "image": "assets/images/samsung-violet.svg"
+        },
+        {
+          "id": 602,
+          "color": "Tím nhạt",
+          "color_hex": "#b8b0c6",
+          "storage": "256GB",
+          "price": 10490000,
+          "original_price": 11490000,
+          "stock": 4,
+          "image": "assets/images/samsung-violet.svg"
+        },
+        {
+          "id": 603,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "128GB",
+          "price": 8490000,
+          "original_price": 9490000,
+          "stock": 3,
+          "image": "assets/images/samsung-violet.svg"
+        },
+        {
+          "id": 604,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "256GB",
+          "price": 10490000,
+          "original_price": 11490000,
+          "stock": 2,
+          "image": "assets/images/samsung-violet.svg"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "vivo-v30-5g",
+      "name": "vivo V30 5G",
+      "brand": {
+        "id": 5,
+        "name": "vivo",
+        "slug": "vivo"
+      },
+      "summary": "Thiết kế hiện đại, màn hình sống động và trải nghiệm linh hoạt mỗi ngày.",
+      "description": "vivo V30 5G là lựa chọn dành cho những trải nghiệm công nghệ hằng ngày: lưu giữ khoảnh khắc, làm việc và giải trí. Thông tin, giá và cấu hình trong bản trình diễn là dữ liệu phát triển, cần được thay thế bằng dữ liệu đã xác minh từ backend trước khi bán hàng.",
+      "images": [
+        "assets/images/vivo-blue.svg",
+        "assets/images/phone-front.svg"
+      ],
+      "specs": {
+        "Màn hình": "AMOLED, cảm ứng đa điểm",
+        "Bộ nhớ": "256GB / 512GB",
+        "Kết nối": "Wi-Fi, Bluetooth, USB-C",
+        "Camera": "Hệ thống camera đa ống kính",
+        "Tình trạng": "Dữ liệu sản phẩm mẫu",
+        "Bảo hành": "Chính sách mẫu: 12 tháng"
+      },
+      "featured": true,
+      "is_new": false,
+      "created_at": "2026-10-22T08:00:00+07:00",
+      "variants": [
+        {
+          "id": 701,
+          "color": "Xanh biển",
+          "color_hex": "#82b6cf",
+          "storage": "256GB",
+          "price": 10490000,
+          "original_price": 11990000,
+          "stock": 8,
+          "image": "assets/images/vivo-blue.svg"
+        },
+        {
+          "id": 702,
+          "color": "Xanh biển",
+          "color_hex": "#82b6cf",
+          "storage": "512GB",
+          "price": 12490000,
+          "original_price": 13990000,
+          "stock": 4,
+          "image": "assets/images/vivo-blue.svg"
+        },
+        {
+          "id": 703,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "256GB",
+          "price": 10490000,
+          "original_price": 11990000,
+          "stock": 3,
+          "image": "assets/images/vivo-blue.svg"
+        },
+        {
+          "id": 704,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "512GB",
+          "price": 12490000,
+          "original_price": 13990000,
+          "stock": 2,
+          "image": "assets/images/vivo-blue.svg"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "realme-12-pro-5g",
+      "name": "realme 12 Pro+ 5G",
+      "brand": {
+        "id": 6,
+        "name": "realme",
+        "slug": "realme"
+      },
+      "summary": "Thiết kế hiện đại, màn hình sống động và trải nghiệm linh hoạt mỗi ngày.",
+      "description": "realme 12 Pro+ 5G là lựa chọn dành cho những trải nghiệm công nghệ hằng ngày: lưu giữ khoảnh khắc, làm việc và giải trí. Thông tin, giá và cấu hình trong bản trình diễn là dữ liệu phát triển, cần được thay thế bằng dữ liệu đã xác minh từ backend trước khi bán hàng.",
+      "images": [
+        "assets/images/realme-gold.svg",
+        "assets/images/phone-front.svg"
+      ],
+      "specs": {
+        "Màn hình": "AMOLED, cảm ứng đa điểm",
+        "Bộ nhớ": "256GB / 512GB",
+        "Kết nối": "Wi-Fi, Bluetooth, USB-C",
+        "Camera": "Hệ thống camera đa ống kính",
+        "Tình trạng": "Dữ liệu sản phẩm mẫu",
+        "Bảo hành": "Chính sách mẫu: 12 tháng"
+      },
+      "featured": true,
+      "is_new": false,
+      "created_at": "2026-10-21T08:00:00+07:00",
+      "variants": [
+        {
+          "id": 801,
+          "color": "Vàng",
+          "color_hex": "#c9ae7f",
+          "storage": "256GB",
+          "price": 9490000,
+          "original_price": 11490000,
+          "stock": 9,
+          "image": "assets/images/realme-gold.svg"
+        },
+        {
+          "id": 802,
+          "color": "Vàng",
+          "color_hex": "#c9ae7f",
+          "storage": "512GB",
+          "price": 11490000,
+          "original_price": 13490000,
+          "stock": 4,
+          "image": "assets/images/realme-gold.svg"
+        },
+        {
+          "id": 803,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "256GB",
+          "price": 9490000,
+          "original_price": 11490000,
+          "stock": 3,
+          "image": "assets/images/realme-gold.svg"
+        },
+        {
+          "id": 804,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "512GB",
+          "price": 11490000,
+          "original_price": 13490000,
+          "stock": 2,
+          "image": "assets/images/realme-gold.svg"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "slug": "iphone-15",
+      "name": "iPhone 15",
+      "brand": {
+        "id": 1,
+        "name": "Apple",
+        "slug": "apple"
+      },
+      "summary": "Trải nghiệm mượt mà, thiết kế tinh tế và hệ sinh thái quen thuộc.",
+      "description": "iPhone 15 là lựa chọn dành cho những trải nghiệm công nghệ hằng ngày: lưu giữ khoảnh khắc, làm việc và giải trí. Thông tin, giá và cấu hình trong bản trình diễn là dữ liệu phát triển, cần được thay thế bằng dữ liệu đã xác minh từ backend trước khi bán hàng.",
+      "images": [
+        "assets/images/apple-blue.svg",
+        "assets/images/phone-front.svg"
+      ],
+      "specs": {
+        "Màn hình": "OLED, cảm ứng đa điểm",
+        "Bộ nhớ": "128GB / 256GB",
+        "Kết nối": "Wi-Fi, Bluetooth, USB-C",
+        "Camera": "Hệ thống camera đa ống kính",
+        "Tình trạng": "Dữ liệu sản phẩm mẫu",
+        "Bảo hành": "Chính sách mẫu: 12 tháng"
+      },
+      "featured": false,
+      "is_new": false,
+      "created_at": "2026-10-20T08:00:00+07:00",
+      "variants": [
+        {
+          "id": 901,
+          "color": "Xanh dương",
+          "color_hex": "#b2cfdd",
+          "storage": "128GB",
+          "price": 15990000,
+          "original_price": 16990000,
+          "stock": 10,
+          "image": "assets/images/apple-blue.svg"
+        },
+        {
+          "id": 902,
+          "color": "Xanh dương",
+          "color_hex": "#b2cfdd",
+          "storage": "256GB",
+          "price": 17990000,
+          "original_price": 18990000,
+          "stock": 4,
+          "image": "assets/images/apple-blue.svg"
+        },
+        {
+          "id": 903,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "128GB",
+          "price": 15990000,
+          "original_price": 16990000,
+          "stock": 3,
+          "image": "assets/images/apple-blue.svg"
+        },
+        {
+          "id": 904,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "256GB",
+          "price": 17990000,
+          "original_price": 18990000,
+          "stock": 2,
+          "image": "assets/images/apple-blue.svg"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "slug": "iphone-15-pro",
+      "name": "iPhone 15 Pro",
+      "brand": {
+        "id": 1,
+        "name": "Apple",
+        "slug": "apple"
+      },
+      "summary": "Trải nghiệm mượt mà, thiết kế tinh tế và hệ sinh thái quen thuộc.",
+      "description": "iPhone 15 Pro là lựa chọn dành cho những trải nghiệm công nghệ hằng ngày: lưu giữ khoảnh khắc, làm việc và giải trí. Thông tin, giá và cấu hình trong bản trình diễn là dữ liệu phát triển, cần được thay thế bằng dữ liệu đã xác minh từ backend trước khi bán hàng.",
+      "images": [
+        "assets/images/apple-titanium.svg",
+        "assets/images/phone-front.svg"
+      ],
+      "specs": {
+        "Màn hình": "OLED, cảm ứng đa điểm",
+        "Bộ nhớ": "128GB / 256GB",
+        "Kết nối": "Wi-Fi, Bluetooth, USB-C",
+        "Camera": "Hệ thống camera đa ống kính",
+        "Tình trạng": "Dữ liệu sản phẩm mẫu",
+        "Bảo hành": "Chính sách mẫu: 12 tháng"
+      },
+      "featured": false,
+      "is_new": false,
+      "created_at": "2026-10-19T08:00:00+07:00",
+      "variants": [
+        {
+          "id": 1001,
+          "color": "Titan tự nhiên",
+          "color_hex": "#aaa59b",
+          "storage": "128GB",
+          "price": 22990000,
+          "original_price": 24490000,
+          "stock": 11,
+          "image": "assets/images/apple-titanium.svg"
+        },
+        {
+          "id": 1002,
+          "color": "Titan tự nhiên",
+          "color_hex": "#aaa59b",
+          "storage": "256GB",
+          "price": 24990000,
+          "original_price": 26490000,
+          "stock": 0,
+          "image": "assets/images/apple-titanium.svg"
+        },
+        {
+          "id": 1003,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "128GB",
+          "price": 22990000,
+          "original_price": 24490000,
+          "stock": 3,
+          "image": "assets/images/apple-titanium.svg"
+        },
+        {
+          "id": 1004,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "256GB",
+          "price": 24990000,
+          "original_price": 26490000,
+          "stock": 2,
+          "image": "assets/images/apple-titanium.svg"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "slug": "samsung-galaxy-s24",
+      "name": "Samsung Galaxy S24+",
+      "brand": {
+        "id": 2,
+        "name": "Samsung",
+        "slug": "samsung"
+      },
+      "summary": "Thiết kế hiện đại, màn hình sống động và trải nghiệm linh hoạt mỗi ngày.",
+      "description": "Samsung Galaxy S24+ là lựa chọn dành cho những trải nghiệm công nghệ hằng ngày: lưu giữ khoảnh khắc, làm việc và giải trí. Thông tin, giá và cấu hình trong bản trình diễn là dữ liệu phát triển, cần được thay thế bằng dữ liệu đã xác minh từ backend trước khi bán hàng.",
+      "images": [
+        "assets/images/samsung-violet.svg",
+        "assets/images/phone-front.svg"
+      ],
+      "specs": {
+        "Màn hình": "AMOLED, cảm ứng đa điểm",
+        "Bộ nhớ": "256GB / 512GB",
+        "Kết nối": "Wi-Fi, Bluetooth, USB-C",
+        "Camera": "Hệ thống camera đa ống kính",
+        "Tình trạng": "Dữ liệu sản phẩm mẫu",
+        "Bảo hành": "Chính sách mẫu: 12 tháng"
+      },
+      "featured": false,
+      "is_new": false,
+      "created_at": "2026-10-18T08:00:00+07:00",
+      "variants": [
+        {
+          "id": 1101,
+          "color": "Tím cobalt",
+          "color_hex": "#777184",
+          "storage": "256GB",
+          "price": 19990000,
+          "original_price": 21990000,
+          "stock": 12,
+          "image": "assets/images/samsung-violet.svg"
+        },
+        {
+          "id": 1102,
+          "color": "Tím cobalt",
+          "color_hex": "#777184",
+          "storage": "512GB",
+          "price": 21990000,
+          "original_price": 23990000,
+          "stock": 4,
+          "image": "assets/images/samsung-violet.svg"
+        },
+        {
+          "id": 1103,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "256GB",
+          "price": 19990000,
+          "original_price": 21990000,
+          "stock": 3,
+          "image": "assets/images/samsung-violet.svg"
+        },
+        {
+          "id": 1104,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "512GB",
+          "price": 21990000,
+          "original_price": 23990000,
+          "stock": 2,
+          "image": "assets/images/samsung-violet.svg"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "slug": "samsung-galaxy-a35-5g",
+      "name": "Samsung Galaxy A35 5G",
+      "brand": {
+        "id": 2,
+        "name": "Samsung",
+        "slug": "samsung"
+      },
+      "summary": "Thiết kế hiện đại, màn hình sống động và trải nghiệm linh hoạt mỗi ngày.",
+      "description": "Samsung Galaxy A35 5G là lựa chọn dành cho những trải nghiệm công nghệ hằng ngày: lưu giữ khoảnh khắc, làm việc và giải trí. Thông tin, giá và cấu hình trong bản trình diễn là dữ liệu phát triển, cần được thay thế bằng dữ liệu đã xác minh từ backend trước khi bán hàng.",
+      "images": [
+        "assets/images/samsung-gray.svg",
+        "assets/images/phone-front.svg"
+      ],
+      "specs": {
+        "Màn hình": "AMOLED, cảm ứng đa điểm",
+        "Bộ nhớ": "128GB / 256GB",
+        "Kết nối": "Wi-Fi, Bluetooth, USB-C",
+        "Camera": "Hệ thống camera đa ống kính",
+        "Tình trạng": "Dữ liệu sản phẩm mẫu",
+        "Bảo hành": "Chính sách mẫu: 12 tháng"
+      },
+      "featured": false,
+      "is_new": false,
+      "created_at": "2026-10-17T08:00:00+07:00",
+      "variants": [
+        {
+          "id": 1201,
+          "color": "Xanh navy",
+          "color_hex": "#344455",
+          "storage": "128GB",
+          "price": 6490000,
+          "original_price": 7490000,
+          "stock": 13,
+          "image": "assets/images/samsung-gray.svg"
+        },
+        {
+          "id": 1202,
+          "color": "Xanh navy",
+          "color_hex": "#344455",
+          "storage": "256GB",
+          "price": 8490000,
+          "original_price": 9490000,
+          "stock": 4,
+          "image": "assets/images/samsung-gray.svg"
+        },
+        {
+          "id": 1203,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "128GB",
+          "price": 6490000,
+          "original_price": 7490000,
+          "stock": 3,
+          "image": "assets/images/samsung-gray.svg"
+        },
+        {
+          "id": 1204,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "256GB",
+          "price": 8490000,
+          "original_price": 9490000,
+          "stock": 2,
+          "image": "assets/images/samsung-gray.svg"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "slug": "xiaomi-redmi-note-13-pro",
+      "name": "Xiaomi Redmi Note 13 Pro",
+      "brand": {
+        "id": 3,
+        "name": "Xiaomi",
+        "slug": "xiaomi"
+      },
+      "summary": "Thiết kế hiện đại, màn hình sống động và trải nghiệm linh hoạt mỗi ngày.",
+      "description": "Xiaomi Redmi Note 13 Pro là lựa chọn dành cho những trải nghiệm công nghệ hằng ngày: lưu giữ khoảnh khắc, làm việc và giải trí. Thông tin, giá và cấu hình trong bản trình diễn là dữ liệu phát triển, cần được thay thế bằng dữ liệu đã xác minh từ backend trước khi bán hàng.",
+      "images": [
+        "assets/images/xiaomi-black.svg",
+        "assets/images/phone-front.svg"
+      ],
+      "specs": {
+        "Màn hình": "AMOLED, cảm ứng đa điểm",
+        "Bộ nhớ": "128GB / 256GB",
+        "Kết nối": "Wi-Fi, Bluetooth, USB-C",
+        "Camera": "Hệ thống camera đa ống kính",
+        "Tình trạng": "Dữ liệu sản phẩm mẫu",
+        "Bảo hành": "Chính sách mẫu: 12 tháng"
+      },
+      "featured": false,
+      "is_new": true,
+      "created_at": "2026-10-16T08:00:00+07:00",
+      "variants": [
+        {
+          "id": 1301,
+          "color": "Đen",
+          "color_hex": "#353535",
+          "storage": "128GB",
+          "price": 6490000,
+          "original_price": 7990000,
+          "stock": 14,
+          "image": "assets/images/xiaomi-black.svg"
+        },
+        {
+          "id": 1302,
+          "color": "Đen",
+          "color_hex": "#353535",
+          "storage": "256GB",
+          "price": 8490000,
+          "original_price": 9990000,
+          "stock": 4,
+          "image": "assets/images/xiaomi-black.svg"
+        },
+        {
+          "id": 1303,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "128GB",
+          "price": 6490000,
+          "original_price": 7990000,
+          "stock": 3,
+          "image": "assets/images/xiaomi-black.svg"
+        },
+        {
+          "id": 1304,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "256GB",
+          "price": 8490000,
+          "original_price": 9990000,
+          "stock": 2,
+          "image": "assets/images/xiaomi-black.svg"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "slug": "xiaomi-redmi-note-13",
+      "name": "Xiaomi Redmi Note 13",
+      "brand": {
+        "id": 3,
+        "name": "Xiaomi",
+        "slug": "xiaomi"
+      },
+      "summary": "Thiết kế hiện đại, màn hình sống động và trải nghiệm linh hoạt mỗi ngày.",
+      "description": "Xiaomi Redmi Note 13 là lựa chọn dành cho những trải nghiệm công nghệ hằng ngày: lưu giữ khoảnh khắc, làm việc và giải trí. Thông tin, giá và cấu hình trong bản trình diễn là dữ liệu phát triển, cần được thay thế bằng dữ liệu đã xác minh từ backend trước khi bán hàng.",
+      "images": [
+        "assets/images/xiaomi-black.svg",
+        "assets/images/phone-front.svg"
+      ],
+      "specs": {
+        "Màn hình": "AMOLED, cảm ứng đa điểm",
+        "Bộ nhớ": "128GB / 256GB",
+        "Kết nối": "Wi-Fi, Bluetooth, USB-C",
+        "Camera": "Hệ thống camera đa ống kính",
+        "Tình trạng": "Dữ liệu sản phẩm mẫu",
+        "Bảo hành": "Chính sách mẫu: 12 tháng"
+      },
+      "featured": false,
+      "is_new": false,
+      "created_at": "2026-10-15T08:00:00+07:00",
+      "variants": [
+        {
+          "id": 1401,
+          "color": "Đen",
+          "color_hex": "#3d4144",
+          "storage": "128GB",
+          "price": 3990000,
+          "original_price": 5990000,
+          "stock": 8,
+          "image": "assets/images/xiaomi-black.svg"
+        },
+        {
+          "id": 1402,
+          "color": "Đen",
+          "color_hex": "#3d4144",
+          "storage": "256GB",
+          "price": 5990000,
+          "original_price": 7990000,
+          "stock": 4,
+          "image": "assets/images/xiaomi-black.svg"
+        },
+        {
+          "id": 1403,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "128GB",
+          "price": 3990000,
+          "original_price": 5990000,
+          "stock": 3,
+          "image": "assets/images/xiaomi-black.svg"
+        },
+        {
+          "id": 1404,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "256GB",
+          "price": 5990000,
+          "original_price": 7990000,
+          "stock": 2,
+          "image": "assets/images/xiaomi-black.svg"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "slug": "oppo-a79-5g",
+      "name": "OPPO A79 5G",
+      "brand": {
+        "id": 4,
+        "name": "OPPO",
+        "slug": "oppo"
+      },
+      "summary": "Thiết kế hiện đại, màn hình sống động và trải nghiệm linh hoạt mỗi ngày.",
+      "description": "OPPO A79 5G là lựa chọn dành cho những trải nghiệm công nghệ hằng ngày: lưu giữ khoảnh khắc, làm việc và giải trí. Thông tin, giá và cấu hình trong bản trình diễn là dữ liệu phát triển, cần được thay thế bằng dữ liệu đã xác minh từ backend trước khi bán hàng.",
+      "images": [
+        "assets/images/oppo-green.svg",
+        "assets/images/phone-front.svg"
+      ],
+      "specs": {
+        "Màn hình": "AMOLED, cảm ứng đa điểm",
+        "Bộ nhớ": "128GB / 256GB",
+        "Kết nối": "Wi-Fi, Bluetooth, USB-C",
+        "Camera": "Hệ thống camera đa ống kính",
+        "Tình trạng": "Dữ liệu sản phẩm mẫu",
+        "Bảo hành": "Chính sách mẫu: 12 tháng"
+      },
+      "featured": false,
+      "is_new": false,
+      "created_at": "2026-10-14T08:00:00+07:00",
+      "variants": [
+        {
+          "id": 1501,
+          "color": "Xanh lá",
+          "color_hex": "#91bda6",
+          "storage": "128GB",
+          "price": 5490000,
+          "original_price": 6490000,
+          "stock": 9,
+          "image": "assets/images/oppo-green.svg"
+        },
+        {
+          "id": 1502,
+          "color": "Xanh lá",
+          "color_hex": "#91bda6",
+          "storage": "256GB",
+          "price": 7490000,
+          "original_price": 8490000,
+          "stock": 0,
+          "image": "assets/images/oppo-green.svg"
+        },
+        {
+          "id": 1503,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "128GB",
+          "price": 5490000,
+          "original_price": 6490000,
+          "stock": 3,
+          "image": "assets/images/oppo-green.svg"
+        },
+        {
+          "id": 1504,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "256GB",
+          "price": 7490000,
+          "original_price": 8490000,
+          "stock": 2,
+          "image": "assets/images/oppo-green.svg"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "slug": "oppo-find-x7",
+      "name": "OPPO Find X7",
+      "brand": {
+        "id": 4,
+        "name": "OPPO",
+        "slug": "oppo"
+      },
+      "summary": "Thiết kế hiện đại, màn hình sống động và trải nghiệm linh hoạt mỗi ngày.",
+      "description": "OPPO Find X7 là lựa chọn dành cho những trải nghiệm công nghệ hằng ngày: lưu giữ khoảnh khắc, làm việc và giải trí. Thông tin, giá và cấu hình trong bản trình diễn là dữ liệu phát triển, cần được thay thế bằng dữ liệu đã xác minh từ backend trước khi bán hàng.",
+      "images": [
+        "assets/images/oppo-green.svg",
+        "assets/images/phone-front.svg"
+      ],
+      "specs": {
+        "Màn hình": "AMOLED, cảm ứng đa điểm",
+        "Bộ nhớ": "256GB / 512GB",
+        "Kết nối": "Wi-Fi, Bluetooth, USB-C",
+        "Camera": "Hệ thống camera đa ống kính",
+        "Tình trạng": "Dữ liệu sản phẩm mẫu",
+        "Bảo hành": "Chính sách mẫu: 12 tháng"
+      },
+      "featured": false,
+      "is_new": true,
+      "created_at": "2026-10-13T08:00:00+07:00",
+      "variants": [
+        {
+          "id": 1601,
+          "color": "Xanh ngọc",
+          "color_hex": "#597b6e",
+          "storage": "256GB",
+          "price": 18990000,
+          "original_price": 20490000,
+          "stock": 10,
+          "image": "assets/images/oppo-green.svg"
+        },
+        {
+          "id": 1602,
+          "color": "Xanh ngọc",
+          "color_hex": "#597b6e",
+          "storage": "512GB",
+          "price": 20990000,
+          "original_price": 22490000,
+          "stock": 4,
+          "image": "assets/images/oppo-green.svg"
+        },
+        {
+          "id": 1603,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "256GB",
+          "price": 18990000,
+          "original_price": 20490000,
+          "stock": 3,
+          "image": "assets/images/oppo-green.svg"
+        },
+        {
+          "id": 1604,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "512GB",
+          "price": 20990000,
+          "original_price": 22490000,
+          "stock": 2,
+          "image": "assets/images/oppo-green.svg"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "slug": "vivo-y28",
+      "name": "vivo Y28",
+      "brand": {
+        "id": 5,
+        "name": "vivo",
+        "slug": "vivo"
+      },
+      "summary": "Thiết kế hiện đại, màn hình sống động và trải nghiệm linh hoạt mỗi ngày.",
+      "description": "vivo Y28 là lựa chọn dành cho những trải nghiệm công nghệ hằng ngày: lưu giữ khoảnh khắc, làm việc và giải trí. Thông tin, giá và cấu hình trong bản trình diễn là dữ liệu phát triển, cần được thay thế bằng dữ liệu đã xác minh từ backend trước khi bán hàng.",
+      "images": [
+        "assets/images/vivo-blue.svg",
+        "assets/images/phone-front.svg"
+      ],
+      "specs": {
+        "Màn hình": "AMOLED, cảm ứng đa điểm",
+        "Bộ nhớ": "128GB / 256GB",
+        "Kết nối": "Wi-Fi, Bluetooth, USB-C",
+        "Camera": "Hệ thống camera đa ống kính",
+        "Tình trạng": "Dữ liệu sản phẩm mẫu",
+        "Bảo hành": "Chính sách mẫu: 12 tháng"
+      },
+      "featured": false,
+      "is_new": false,
+      "created_at": "2026-10-12T08:00:00+07:00",
+      "variants": [
+        {
+          "id": 1701,
+          "color": "Xanh lam",
+          "color_hex": "#7796ab",
+          "storage": "128GB",
+          "price": 4490000,
+          "original_price": 6490000,
+          "stock": 11,
+          "image": "assets/images/vivo-blue.svg"
+        },
+        {
+          "id": 1702,
+          "color": "Xanh lam",
+          "color_hex": "#7796ab",
+          "storage": "256GB",
+          "price": 6490000,
+          "original_price": 8490000,
+          "stock": 4,
+          "image": "assets/images/vivo-blue.svg"
+        },
+        {
+          "id": 1703,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "128GB",
+          "price": 4490000,
+          "original_price": 6490000,
+          "stock": 3,
+          "image": "assets/images/vivo-blue.svg"
+        },
+        {
+          "id": 1704,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "256GB",
+          "price": 6490000,
+          "original_price": 8490000,
+          "stock": 2,
+          "image": "assets/images/vivo-blue.svg"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "slug": "vivo-v30e",
+      "name": "vivo V30e",
+      "brand": {
+        "id": 5,
+        "name": "vivo",
+        "slug": "vivo"
+      },
+      "summary": "Thiết kế hiện đại, màn hình sống động và trải nghiệm linh hoạt mỗi ngày.",
+      "description": "vivo V30e là lựa chọn dành cho những trải nghiệm công nghệ hằng ngày: lưu giữ khoảnh khắc, làm việc và giải trí. Thông tin, giá và cấu hình trong bản trình diễn là dữ liệu phát triển, cần được thay thế bằng dữ liệu đã xác minh từ backend trước khi bán hàng.",
+      "images": [
+        "assets/images/vivo-blue.svg",
+        "assets/images/phone-front.svg"
+      ],
+      "specs": {
+        "Màn hình": "AMOLED, cảm ứng đa điểm",
+        "Bộ nhớ": "128GB / 256GB",
+        "Kết nối": "Wi-Fi, Bluetooth, USB-C",
+        "Camera": "Hệ thống camera đa ống kính",
+        "Tình trạng": "Dữ liệu sản phẩm mẫu",
+        "Bảo hành": "Chính sách mẫu: 12 tháng"
+      },
+      "featured": false,
+      "is_new": true,
+      "created_at": "2026-10-11T08:00:00+07:00",
+      "variants": [
+        {
+          "id": 1801,
+          "color": "Xanh băng",
+          "color_hex": "#a9d1dd",
+          "storage": "128GB",
+          "price": 7490000,
+          "original_price": 8490000,
+          "stock": 12,
+          "image": "assets/images/vivo-blue.svg"
+        },
+        {
+          "id": 1802,
+          "color": "Xanh băng",
+          "color_hex": "#a9d1dd",
+          "storage": "256GB",
+          "price": 9490000,
+          "original_price": 10490000,
+          "stock": 4,
+          "image": "assets/images/vivo-blue.svg"
+        },
+        {
+          "id": 1803,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "128GB",
+          "price": 7490000,
+          "original_price": 8490000,
+          "stock": 3,
+          "image": "assets/images/vivo-blue.svg"
+        },
+        {
+          "id": 1804,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "256GB",
+          "price": 9490000,
+          "original_price": 10490000,
+          "stock": 2,
+          "image": "assets/images/vivo-blue.svg"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "slug": "realme-c67",
+      "name": "realme C67",
+      "brand": {
+        "id": 6,
+        "name": "realme",
+        "slug": "realme"
+      },
+      "summary": "Thiết kế hiện đại, màn hình sống động và trải nghiệm linh hoạt mỗi ngày.",
+      "description": "realme C67 là lựa chọn dành cho những trải nghiệm công nghệ hằng ngày: lưu giữ khoảnh khắc, làm việc và giải trí. Thông tin, giá và cấu hình trong bản trình diễn là dữ liệu phát triển, cần được thay thế bằng dữ liệu đã xác minh từ backend trước khi bán hàng.",
+      "images": [
+        "assets/images/realme-gold.svg",
+        "assets/images/phone-front.svg"
+      ],
+      "specs": {
+        "Màn hình": "AMOLED, cảm ứng đa điểm",
+        "Bộ nhớ": "128GB / 256GB",
+        "Kết nối": "Wi-Fi, Bluetooth, USB-C",
+        "Camera": "Hệ thống camera đa ống kính",
+        "Tình trạng": "Dữ liệu sản phẩm mẫu",
+        "Bảo hành": "Chính sách mẫu: 12 tháng"
+      },
+      "featured": false,
+      "is_new": false,
+      "created_at": "2026-10-10T08:00:00+07:00",
+      "variants": [
+        {
+          "id": 1901,
+          "color": "Vàng ánh kim",
+          "color_hex": "#bfaa7c",
+          "storage": "128GB",
+          "price": 3990000,
+          "original_price": 5490000,
+          "stock": 13,
+          "image": "assets/images/realme-gold.svg"
+        },
+        {
+          "id": 1902,
+          "color": "Vàng ánh kim",
+          "color_hex": "#bfaa7c",
+          "storage": "256GB",
+          "price": 5990000,
+          "original_price": 7490000,
+          "stock": 4,
+          "image": "assets/images/realme-gold.svg"
+        },
+        {
+          "id": 1903,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "128GB",
+          "price": 3990000,
+          "original_price": 5490000,
+          "stock": 3,
+          "image": "assets/images/realme-gold.svg"
+        },
+        {
+          "id": 1904,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "256GB",
+          "price": 5990000,
+          "original_price": 7490000,
+          "stock": 2,
+          "image": "assets/images/realme-gold.svg"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "slug": "realme-note-50",
+      "name": "realme Note 50",
+      "brand": {
+        "id": 6,
+        "name": "realme",
+        "slug": "realme"
+      },
+      "summary": "Thiết kế hiện đại, màn hình sống động và trải nghiệm linh hoạt mỗi ngày.",
+      "description": "realme Note 50 là lựa chọn dành cho những trải nghiệm công nghệ hằng ngày: lưu giữ khoảnh khắc, làm việc và giải trí. Thông tin, giá và cấu hình trong bản trình diễn là dữ liệu phát triển, cần được thay thế bằng dữ liệu đã xác minh từ backend trước khi bán hàng.",
+      "images": [
+        "assets/images/realme-gold.svg",
+        "assets/images/phone-front.svg"
+      ],
+      "specs": {
+        "Màn hình": "AMOLED, cảm ứng đa điểm",
+        "Bộ nhớ": "64GB / 128GB",
+        "Kết nối": "Wi-Fi, Bluetooth, USB-C",
+        "Camera": "Hệ thống camera đa ống kính",
+        "Tình trạng": "Dữ liệu sản phẩm mẫu",
+        "Bảo hành": "Chính sách mẫu: 12 tháng"
+      },
+      "featured": false,
+      "is_new": false,
+      "created_at": "2026-10-09T08:00:00+07:00",
+      "variants": [
+        {
+          "id": 2001,
+          "color": "Đen",
+          "color_hex": "#4a4b4d",
+          "storage": "64GB",
+          "price": 2490000,
+          "original_price": 4490000,
+          "stock": 0,
+          "image": "assets/images/realme-gold.svg"
+        },
+        {
+          "id": 2002,
+          "color": "Đen",
+          "color_hex": "#4a4b4d",
+          "storage": "128GB",
+          "price": 4490000,
+          "original_price": 6490000,
+          "stock": 0,
+          "image": "assets/images/realme-gold.svg"
+        },
+        {
+          "id": 2003,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "64GB",
+          "price": 2490000,
+          "original_price": 4490000,
+          "stock": 0,
+          "image": "assets/images/realme-gold.svg"
+        },
+        {
+          "id": 2004,
+          "color": "Đen",
+          "color_hex": "#34363a",
+          "storage": "128GB",
+          "price": 4490000,
+          "original_price": 6490000,
+          "stock": 0,
+          "image": "assets/images/realme-gold.svg"
+        }
+      ]
+    }
+  ],
+  "brands": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "slug": "apple"
+    },
+    {
+      "id": 2,
+      "name": "Samsung",
+      "slug": "samsung"
+    },
+    {
+      "id": 3,
+      "name": "Xiaomi",
+      "slug": "xiaomi"
+    },
+    {
+      "id": 4,
+      "name": "OPPO",
+      "slug": "oppo"
+    },
+    {
+      "id": 5,
+      "name": "vivo",
+      "slug": "vivo"
+    },
+    {
+      "id": 6,
+      "name": "realme",
+      "slug": "realme"
+    }
+  ]
+}

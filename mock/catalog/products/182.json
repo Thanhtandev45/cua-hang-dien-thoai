@@ -1,0 +1,107 @@
+{
+  "id": 182,
+  "slug": "honor-200",
+  "name": "HONOR 200",
+  "brand": {
+    "id": 7,
+    "name": "HONOR",
+    "slug": "honor"
+  },
+  "segment": "upper-midrange",
+  "summary": "HONOR 200 · Cận cao cấp · Giá và tồn kho demo.",
+  "description": "HONOR 200 thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/honor-200-1.svg",
+    "assets/images/catalog/honor-200-2.svg",
+    "assets/images/catalog/honor-200-3.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "256GB / 512GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": false,
+  "is_new": true,
+  "created_at": "2026-11-01T03:02:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.honor.com/global/phones/honor-200/spec/",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 18201,
+      "sku": "NOVA-0182-018201",
+      "color": "Moonlight White",
+      "color_hex": "#e8e5dc",
+      "storage": "256GB",
+      "price": 9990000,
+      "original_price": 10490000,
+      "stock": 10,
+      "image": "assets/images/catalog/honor-200-1.svg"
+    },
+    {
+      "id": 18202,
+      "sku": "NOVA-0182-018202",
+      "color": "Moonlight White",
+      "color_hex": "#e8e5dc",
+      "storage": "512GB",
+      "price": 10990000,
+      "original_price": 11490000,
+      "stock": 17,
+      "image": "assets/images/catalog/honor-200-1.svg"
+    },
+    {
+      "id": 18203,
+      "sku": "NOVA-0182-018203",
+      "color": "Emerald Green",
+      "color_hex": "#729183",
+      "storage": "256GB",
+      "price": 10040000,
+      "original_price": 10540000,
+      "stock": 24,
+      "image": "assets/images/catalog/honor-200-2.svg"
+    },
+    {
+      "id": 18204,
+      "sku": "NOVA-0182-018204",
+      "color": "Emerald Green",
+      "color_hex": "#729183",
+      "storage": "512GB",
+      "price": 11040000,
+      "original_price": 11540000,
+      "stock": 7,
+      "image": "assets/images/catalog/honor-200-2.svg"
+    },
+    {
+      "id": 18205,
+      "sku": "NOVA-0182-018205",
+      "color": "Black",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 10090000,
+      "original_price": 10590000,
+      "stock": 14,
+      "image": "assets/images/catalog/honor-200-3.svg"
+    },
+    {
+      "id": 18206,
+      "sku": "NOVA-0182-018206",
+      "color": "Black",
+      "color_hex": "#30353c",
+      "storage": "512GB",
+      "price": 11090000,
+      "original_price": 11590000,
+      "stock": 21,
+      "image": "assets/images/catalog/honor-200-3.svg"
+    }
+  ]
+}

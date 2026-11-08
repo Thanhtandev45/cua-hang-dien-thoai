@@ -1,0 +1,130 @@
+{
+  "id": 51,
+  "slug": "samsung-galaxy-s23-fe",
+  "name": "Samsung Galaxy S23 FE",
+  "brand": {
+    "id": 2,
+    "name": "Samsung",
+    "slug": "samsung"
+  },
+  "segment": "upper-midrange",
+  "summary": "Samsung Galaxy S23 FE · Cận cao cấp · Giá và tồn kho demo.",
+  "description": "Samsung Galaxy S23 FE thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/samsung-galaxy-s23-fe-1.svg",
+    "assets/images/catalog/samsung-galaxy-s23-fe-2.svg",
+    "assets/images/catalog/samsung-galaxy-s23-fe-3.svg",
+    "assets/images/catalog/samsung-galaxy-s23-fe-4.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB / 256GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": true,
+  "is_new": false,
+  "created_at": "2026-11-01T00:51:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.samsung.com/global/galaxy/galaxy-s23-fe/specs/",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 5101,
+      "sku": "NOVA-0051-005101",
+      "color": "Mint",
+      "color_hex": "#a2c8b6",
+      "storage": "128GB",
+      "price": 9990000,
+      "original_price": 10490000,
+      "stock": 5,
+      "image": "assets/images/catalog/samsung-galaxy-s23-fe-1.svg"
+    },
+    {
+      "id": 5102,
+      "sku": "NOVA-0051-005102",
+      "color": "Mint",
+      "color_hex": "#a2c8b6",
+      "storage": "256GB",
+      "price": 10990000,
+      "original_price": 11490000,
+      "stock": 12,
+      "image": "assets/images/catalog/samsung-galaxy-s23-fe-1.svg"
+    },
+    {
+      "id": 5103,
+      "sku": "NOVA-0051-005103",
+      "color": "Graphite",
+      "color_hex": "#555962",
+      "storage": "128GB",
+      "price": 10040000,
+      "original_price": 10540000,
+      "stock": 19,
+      "image": "assets/images/catalog/samsung-galaxy-s23-fe-2.svg"
+    },
+    {
+      "id": 5104,
+      "sku": "NOVA-0051-005104",
+      "color": "Graphite",
+      "color_hex": "#555962",
+      "storage": "256GB",
+      "price": 11040000,
+      "original_price": 11540000,
+      "stock": 2,
+      "image": "assets/images/catalog/samsung-galaxy-s23-fe-2.svg"
+    },
+    {
+      "id": 5105,
+      "sku": "NOVA-0051-005105",
+      "color": "Cream",
+      "color_hex": "#9aaab1",
+      "storage": "128GB",
+      "price": 10090000,
+      "original_price": 10590000,
+      "stock": 9,
+      "image": "assets/images/catalog/samsung-galaxy-s23-fe-3.svg"
+    },
+    {
+      "id": 5106,
+      "sku": "NOVA-0051-005106",
+      "color": "Cream",
+      "color_hex": "#9aaab1",
+      "storage": "256GB",
+      "price": 11090000,
+      "original_price": 11590000,
+      "stock": 16,
+      "image": "assets/images/catalog/samsung-galaxy-s23-fe-3.svg"
+    },
+    {
+      "id": 5107,
+      "sku": "NOVA-0051-005107",
+      "color": "Purple",
+      "color_hex": "#a399b7",
+      "storage": "128GB",
+      "price": 10140000,
+      "original_price": 10640000,
+      "stock": 23,
+      "image": "assets/images/catalog/samsung-galaxy-s23-fe-4.svg"
+    },
+    {
+      "id": 5108,
+      "sku": "NOVA-0051-005108",
+      "color": "Purple",
+      "color_hex": "#a399b7",
+      "storage": "256GB",
+      "price": 11140000,
+      "original_price": 11640000,
+      "stock": 6,
+      "image": "assets/images/catalog/samsung-galaxy-s23-fe-4.svg"
+    }
+  ]
+}

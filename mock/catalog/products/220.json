@@ -1,0 +1,107 @@
+{
+  "id": 220,
+  "slug": "motorola-edge-50-ultra",
+  "name": "Motorola edge 50 ultra",
+  "brand": {
+    "id": 10,
+    "name": "Motorola",
+    "slug": "motorola"
+  },
+  "segment": "flagship",
+  "summary": "Motorola edge 50 ultra · Cao cấp · Giá và tồn kho demo.",
+  "description": "Motorola edge 50 ultra thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/motorola-edge-50-ultra-1.svg",
+    "assets/images/catalog/motorola-edge-50-ultra-2.svg",
+    "assets/images/catalog/motorola-edge-50-ultra-3.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "512GB / 1TB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": true,
+  "is_new": false,
+  "created_at": "2026-11-01T03:40:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.motorola.com/gb/en/p/phones/motorola-edge-50-ultra/",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 22001,
+      "sku": "NOVA-0220-022001",
+      "color": "Forest Grey",
+      "color_hex": "#8e969d",
+      "storage": "512GB",
+      "price": 19990000,
+      "original_price": 19990000,
+      "stock": 12,
+      "image": "assets/images/catalog/motorola-edge-50-ultra-1.svg"
+    },
+    {
+      "id": 22002,
+      "sku": "NOVA-0220-022002",
+      "color": "Forest Grey",
+      "color_hex": "#8e969d",
+      "storage": "1TB",
+      "price": 20990000,
+      "original_price": 20990000,
+      "stock": 19,
+      "image": "assets/images/catalog/motorola-edge-50-ultra-1.svg"
+    },
+    {
+      "id": 22003,
+      "sku": "NOVA-0220-022003",
+      "color": "Nordic Wood",
+      "color_hex": "#9aaab1",
+      "storage": "512GB",
+      "price": 20040000,
+      "original_price": 20040000,
+      "stock": 2,
+      "image": "assets/images/catalog/motorola-edge-50-ultra-2.svg"
+    },
+    {
+      "id": 22004,
+      "sku": "NOVA-0220-022004",
+      "color": "Nordic Wood",
+      "color_hex": "#9aaab1",
+      "storage": "1TB",
+      "price": 21040000,
+      "original_price": 21040000,
+      "stock": 9,
+      "image": "assets/images/catalog/motorola-edge-50-ultra-2.svg"
+    },
+    {
+      "id": 22005,
+      "sku": "NOVA-0220-022005",
+      "color": "Peach Fuzz",
+      "color_hex": "#9aaab1",
+      "storage": "512GB",
+      "price": 20090000,
+      "original_price": 20090000,
+      "stock": 16,
+      "image": "assets/images/catalog/motorola-edge-50-ultra-3.svg"
+    },
+    {
+      "id": 22006,
+      "sku": "NOVA-0220-022006",
+      "color": "Peach Fuzz",
+      "color_hex": "#9aaab1",
+      "storage": "1TB",
+      "price": 21090000,
+      "original_price": 21090000,
+      "stock": 23,
+      "image": "assets/images/catalog/motorola-edge-50-ultra-3.svg"
+    }
+  ]
+}

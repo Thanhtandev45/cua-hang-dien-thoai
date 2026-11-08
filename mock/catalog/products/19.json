@@ -1,0 +1,75 @@
+{
+  "id": 19,
+  "slug": "realme-c67",
+  "name": "realme C67",
+  "brand": {
+    "id": 6,
+    "name": "realme",
+    "slug": "realme"
+  },
+  "summary": "Thiết kế hiện đại, màn hình sống động và trải nghiệm linh hoạt mỗi ngày.",
+  "description": "realme C67 là lựa chọn dành cho những trải nghiệm công nghệ hằng ngày: lưu giữ khoảnh khắc, làm việc và giải trí. Thông tin, giá và cấu hình trong bản trình diễn là dữ liệu phát triển, cần được thay thế bằng dữ liệu đã xác minh từ backend trước khi bán hàng.",
+  "images": [
+    "assets/images/realme-gold.svg",
+    "assets/images/phone-front.svg"
+  ],
+  "specs": {
+    "Màn hình": "AMOLED, cảm ứng đa điểm",
+    "Bộ nhớ": "128GB / 256GB",
+    "Kết nối": "Wi-Fi, Bluetooth, USB-C",
+    "Camera": "Hệ thống camera đa ống kính",
+    "Tình trạng": "Dữ liệu sản phẩm mẫu",
+    "Bảo hành": "Chính sách mẫu: 12 tháng"
+  },
+  "featured": false,
+  "is_new": false,
+  "created_at": "2026-10-10T08:00:00+07:00",
+  "variants": [
+    {
+      "id": 1901,
+      "color": "Vàng ánh kim",
+      "color_hex": "#bfaa7c",
+      "storage": "128GB",
+      "price": 3990000,
+      "original_price": 5490000,
+      "stock": 13,
+      "image": "assets/images/realme-gold.svg",
+      "sku": "NOVA-0019-001901"
+    },
+    {
+      "id": 1902,
+      "color": "Vàng ánh kim",
+      "color_hex": "#bfaa7c",
+      "storage": "256GB",
+      "price": 5990000,
+      "original_price": 7490000,
+      "stock": 4,
+      "image": "assets/images/realme-gold.svg",
+      "sku": "NOVA-0019-001902"
+    },
+    {
+      "id": 1903,
+      "color": "Đen",
+      "color_hex": "#34363a",
+      "storage": "128GB",
+      "price": 3990000,
+      "original_price": 5490000,
+      "stock": 3,
+      "image": "assets/images/realme-gold.svg",
+      "sku": "NOVA-0019-001903"
+    },
+    {
+      "id": 1904,
+      "color": "Đen",
+      "color_hex": "#34363a",
+      "storage": "256GB",
+      "price": 5990000,
+      "original_price": 7490000,
+      "stock": 2,
+      "image": "assets/images/realme-gold.svg",
+      "sku": "NOVA-0019-001904"
+    }
+  ],
+  "is_demo": true,
+  "data_quality": "legacy_unverified"
+}

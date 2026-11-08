@@ -1,0 +1,84 @@
+{
+  "id": 147,
+  "slug": "vivo-v27",
+  "name": "vivo V27",
+  "brand": {
+    "id": 5,
+    "name": "vivo",
+    "slug": "vivo"
+  },
+  "segment": "midrange",
+  "summary": "vivo V27 · Tầm trung · Giá và tồn kho demo.",
+  "description": "vivo V27 thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/vivo-v27-1.svg",
+    "assets/images/catalog/vivo-v27-2.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB / 256GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": true,
+  "is_new": true,
+  "created_at": "2026-11-01T02:27:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.vivo.com/en/products/param/v27",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 14701,
+      "sku": "NOVA-0147-014701",
+      "color": "Magic Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "128GB",
+      "price": 7990000,
+      "original_price": 8490000,
+      "stock": 5,
+      "image": "assets/images/catalog/vivo-v27-1.svg"
+    },
+    {
+      "id": 14702,
+      "sku": "NOVA-0147-014702",
+      "color": "Magic Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "256GB",
+      "price": 8990000,
+      "original_price": 9490000,
+      "stock": 12,
+      "image": "assets/images/catalog/vivo-v27-1.svg"
+    },
+    {
+      "id": 14703,
+      "sku": "NOVA-0147-014703",
+      "color": "Noble Black",
+      "color_hex": "#30353c",
+      "storage": "128GB",
+      "price": 8040000,
+      "original_price": 8540000,
+      "stock": 19,
+      "image": "assets/images/catalog/vivo-v27-2.svg"
+    },
+    {
+      "id": 14704,
+      "sku": "NOVA-0147-014704",
+      "color": "Noble Black",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 9040000,
+      "original_price": 9540000,
+      "stock": 2,
+      "image": "assets/images/catalog/vivo-v27-2.svg"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": 155,
+  "slug": "vivo-y27",
+  "name": "vivo Y27",
+  "brand": {
+    "id": 5,
+    "name": "vivo",
+    "slug": "vivo"
+  },
+  "segment": "budget",
+  "summary": "vivo Y27 · Phổ thông · Giá và tồn kho demo.",
+  "description": "vivo Y27 thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/vivo-y27-1.svg",
+    "assets/images/catalog/vivo-y27-2.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": false,
+  "is_new": false,
+  "created_at": "2026-11-01T02:35:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.vivo.com/en/products/param/y27",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 15501,
+      "sku": "NOVA-0155-015501",
+      "color": "Burgundy Black",
+      "color_hex": "#30353c",
+      "storage": "128GB",
+      "price": 3290000,
+      "original_price": 3790000,
+      "stock": 13,
+      "image": "assets/images/catalog/vivo-y27-1.svg"
+    },
+    {
+      "id": 15502,
+      "sku": "NOVA-0155-015502",
+      "color": "Sea Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "128GB",
+      "price": 3340000,
+      "original_price": 3840000,
+      "stock": 20,
+      "image": "assets/images/catalog/vivo-y27-2.svg"
+    }
+  ]
+}

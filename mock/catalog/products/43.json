@@ -1,0 +1,242 @@
+{
+  "id": 43,
+  "slug": "iphone-xr",
+  "name": "iPhone XR",
+  "brand": {
+    "id": 1,
+    "name": "Apple",
+    "slug": "apple"
+  },
+  "segment": "budget",
+  "summary": "iPhone XR · Phổ thông · Giá và tồn kho demo.",
+  "description": "iPhone XR thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/iphone-xr-1.svg",
+    "assets/images/catalog/iphone-xr-2.svg",
+    "assets/images/catalog/iphone-xr-3.svg",
+    "assets/images/catalog/iphone-xr-4.svg",
+    "assets/images/catalog/iphone-xr-5.svg",
+    "assets/images/catalog/iphone-xr-6.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "64GB / 128GB / 256GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": false,
+  "is_new": false,
+  "created_at": "2026-11-01T00:43:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://support.apple.com/en-gb/108044",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 4301,
+      "sku": "NOVA-0043-004301",
+      "color": "Black",
+      "color_hex": "#30353c",
+      "storage": "64GB",
+      "price": 3990000,
+      "original_price": 4490000,
+      "stock": 21,
+      "image": "assets/images/catalog/iphone-xr-1.svg"
+    },
+    {
+      "id": 4302,
+      "sku": "NOVA-0043-004302",
+      "color": "Black",
+      "color_hex": "#30353c",
+      "storage": "128GB",
+      "price": 4990000,
+      "original_price": 5490000,
+      "stock": 4,
+      "image": "assets/images/catalog/iphone-xr-1.svg"
+    },
+    {
+      "id": 4303,
+      "sku": "NOVA-0043-004303",
+      "color": "Black",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 5990000,
+      "original_price": 6490000,
+      "stock": 11,
+      "image": "assets/images/catalog/iphone-xr-1.svg"
+    },
+    {
+      "id": 4304,
+      "sku": "NOVA-0043-004304",
+      "color": "White",
+      "color_hex": "#e8e5dc",
+      "storage": "64GB",
+      "price": 4040000,
+      "original_price": 4540000,
+      "stock": 18,
+      "image": "assets/images/catalog/iphone-xr-2.svg"
+    },
+    {
+      "id": 4305,
+      "sku": "NOVA-0043-004305",
+      "color": "White",
+      "color_hex": "#e8e5dc",
+      "storage": "128GB",
+      "price": 5040000,
+      "original_price": 5540000,
+      "stock": 1,
+      "image": "assets/images/catalog/iphone-xr-2.svg"
+    },
+    {
+      "id": 4306,
+      "sku": "NOVA-0043-004306",
+      "color": "White",
+      "color_hex": "#e8e5dc",
+      "storage": "256GB",
+      "price": 6040000,
+      "original_price": 6540000,
+      "stock": 8,
+      "image": "assets/images/catalog/iphone-xr-2.svg"
+    },
+    {
+      "id": 4307,
+      "sku": "NOVA-0043-004307",
+      "color": "Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "64GB",
+      "price": 4090000,
+      "original_price": 4590000,
+      "stock": 15,
+      "image": "assets/images/catalog/iphone-xr-3.svg"
+    },
+    {
+      "id": 4308,
+      "sku": "NOVA-0043-004308",
+      "color": "Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "128GB",
+      "price": 5090000,
+      "original_price": 5590000,
+      "stock": 22,
+      "image": "assets/images/catalog/iphone-xr-3.svg"
+    },
+    {
+      "id": 4309,
+      "sku": "NOVA-0043-004309",
+      "color": "Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "256GB",
+      "price": 6090000,
+      "original_price": 6590000,
+      "stock": 5,
+      "image": "assets/images/catalog/iphone-xr-3.svg"
+    },
+    {
+      "id": 4310,
+      "sku": "NOVA-0043-004310",
+      "color": "Yellow",
+      "color_hex": "#d8c779",
+      "storage": "64GB",
+      "price": 4140000,
+      "original_price": 4640000,
+      "stock": 12,
+      "image": "assets/images/catalog/iphone-xr-4.svg"
+    },
+    {
+      "id": 4311,
+      "sku": "NOVA-0043-004311",
+      "color": "Yellow",
+      "color_hex": "#d8c779",
+      "storage": "128GB",
+      "price": 5140000,
+      "original_price": 5640000,
+      "stock": 19,
+      "image": "assets/images/catalog/iphone-xr-4.svg"
+    },
+    {
+      "id": 4312,
+      "sku": "NOVA-0043-004312",
+      "color": "Yellow",
+      "color_hex": "#d8c779",
+      "storage": "256GB",
+      "price": 6140000,
+      "original_price": 6640000,
+      "stock": 0,
+      "image": "assets/images/catalog/iphone-xr-4.svg"
+    },
+    {
+      "id": 4313,
+      "sku": "NOVA-0043-004313",
+      "color": "Coral",
+      "color_hex": "#ce8a7c",
+      "storage": "64GB",
+      "price": 4190000,
+      "original_price": 4690000,
+      "stock": 9,
+      "image": "assets/images/catalog/iphone-xr-5.svg"
+    },
+    {
+      "id": 4314,
+      "sku": "NOVA-0043-004314",
+      "color": "Coral",
+      "color_hex": "#ce8a7c",
+      "storage": "128GB",
+      "price": 5190000,
+      "original_price": 5690000,
+      "stock": 16,
+      "image": "assets/images/catalog/iphone-xr-5.svg"
+    },
+    {
+      "id": 4315,
+      "sku": "NOVA-0043-004315",
+      "color": "Coral",
+      "color_hex": "#ce8a7c",
+      "storage": "256GB",
+      "price": 6190000,
+      "original_price": 6690000,
+      "stock": 23,
+      "image": "assets/images/catalog/iphone-xr-5.svg"
+    },
+    {
+      "id": 4316,
+      "sku": "NOVA-0043-004316",
+      "color": "(PRODUCT)RED",
+      "color_hex": "#ac4b54",
+      "storage": "64GB",
+      "price": 4240000,
+      "original_price": 4740000,
+      "stock": 6,
+      "image": "assets/images/catalog/iphone-xr-6.svg"
+    },
+    {
+      "id": 4317,
+      "sku": "NOVA-0043-004317",
+      "color": "(PRODUCT)RED",
+      "color_hex": "#ac4b54",
+      "storage": "128GB",
+      "price": 5240000,
+      "original_price": 5740000,
+      "stock": 13,
+      "image": "assets/images/catalog/iphone-xr-6.svg"
+    },
+    {
+      "id": 4318,
+      "sku": "NOVA-0043-004318",
+      "color": "(PRODUCT)RED",
+      "color_hex": "#ac4b54",
+      "storage": "256GB",
+      "price": 6240000,
+      "original_price": 6740000,
+      "stock": 20,
+      "image": "assets/images/catalog/iphone-xr-6.svg"
+    }
+  ]
+}

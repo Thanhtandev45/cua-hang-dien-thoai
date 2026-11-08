@@ -1,0 +1,107 @@
+{
+  "id": 189,
+  "slug": "honor-x7b",
+  "name": "HONOR X7b",
+  "brand": {
+    "id": 7,
+    "name": "HONOR",
+    "slug": "honor"
+  },
+  "segment": "budget",
+  "summary": "HONOR X7b · Phổ thông · Giá và tồn kho demo.",
+  "description": "HONOR X7b thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/honor-x7b-1.svg",
+    "assets/images/catalog/honor-x7b-2.svg",
+    "assets/images/catalog/honor-x7b-3.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB / 256GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": true,
+  "is_new": true,
+  "created_at": "2026-11-01T03:09:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.honor.com/global/phones/honor-x7b/spec/",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 18901,
+      "sku": "NOVA-0189-018901",
+      "color": "Flowing Silver",
+      "color_hex": "#bdc4cb",
+      "storage": "128GB",
+      "price": 3490000,
+      "original_price": 3990000,
+      "stock": 11,
+      "image": "assets/images/catalog/honor-x7b-1.svg"
+    },
+    {
+      "id": 18902,
+      "sku": "NOVA-0189-018902",
+      "color": "Flowing Silver",
+      "color_hex": "#bdc4cb",
+      "storage": "256GB",
+      "price": 4490000,
+      "original_price": 4990000,
+      "stock": 18,
+      "image": "assets/images/catalog/honor-x7b-1.svg"
+    },
+    {
+      "id": 18903,
+      "sku": "NOVA-0189-018903",
+      "color": "Emerald Green",
+      "color_hex": "#729183",
+      "storage": "128GB",
+      "price": 3540000,
+      "original_price": 4040000,
+      "stock": 1,
+      "image": "assets/images/catalog/honor-x7b-2.svg"
+    },
+    {
+      "id": 18904,
+      "sku": "NOVA-0189-018904",
+      "color": "Emerald Green",
+      "color_hex": "#729183",
+      "storage": "256GB",
+      "price": 4540000,
+      "original_price": 5040000,
+      "stock": 8,
+      "image": "assets/images/catalog/honor-x7b-2.svg"
+    },
+    {
+      "id": 18905,
+      "sku": "NOVA-0189-018905",
+      "color": "Midnight Black",
+      "color_hex": "#30353c",
+      "storage": "128GB",
+      "price": 3590000,
+      "original_price": 4090000,
+      "stock": 15,
+      "image": "assets/images/catalog/honor-x7b-3.svg"
+    },
+    {
+      "id": 18906,
+      "sku": "NOVA-0189-018906",
+      "color": "Midnight Black",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 4590000,
+      "original_price": 5090000,
+      "stock": 22,
+      "image": "assets/images/catalog/honor-x7b-3.svg"
+    }
+  ]
+}

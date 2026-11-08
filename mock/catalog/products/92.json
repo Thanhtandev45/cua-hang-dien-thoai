@@ -1,0 +1,107 @@
+{
+  "id": 92,
+  "slug": "xiaomi-11t",
+  "name": "Xiaomi 11T",
+  "brand": {
+    "id": 3,
+    "name": "Xiaomi",
+    "slug": "xiaomi"
+  },
+  "segment": "midrange",
+  "summary": "Xiaomi 11T · Tầm trung · Giá và tồn kho demo.",
+  "description": "Xiaomi 11T thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/xiaomi-11t-1.svg",
+    "assets/images/catalog/xiaomi-11t-2.svg",
+    "assets/images/catalog/xiaomi-11t-3.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB / 256GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": false,
+  "is_new": false,
+  "created_at": "2026-11-01T01:32:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.mi.com/global/product/xiaomi-11t/specs/",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 9201,
+      "sku": "NOVA-0092-009201",
+      "color": "Meteorite Gray",
+      "color_hex": "#8e969d",
+      "storage": "128GB",
+      "price": 6990000,
+      "original_price": 6990000,
+      "stock": 4,
+      "image": "assets/images/catalog/xiaomi-11t-1.svg"
+    },
+    {
+      "id": 9202,
+      "sku": "NOVA-0092-009202",
+      "color": "Meteorite Gray",
+      "color_hex": "#8e969d",
+      "storage": "256GB",
+      "price": 7990000,
+      "original_price": 7990000,
+      "stock": 11,
+      "image": "assets/images/catalog/xiaomi-11t-1.svg"
+    },
+    {
+      "id": 9203,
+      "sku": "NOVA-0092-009203",
+      "color": "Moonlight White",
+      "color_hex": "#e8e5dc",
+      "storage": "128GB",
+      "price": 7040000,
+      "original_price": 7040000,
+      "stock": 0,
+      "image": "assets/images/catalog/xiaomi-11t-2.svg"
+    },
+    {
+      "id": 9204,
+      "sku": "NOVA-0092-009204",
+      "color": "Moonlight White",
+      "color_hex": "#e8e5dc",
+      "storage": "256GB",
+      "price": 8040000,
+      "original_price": 8040000,
+      "stock": 1,
+      "image": "assets/images/catalog/xiaomi-11t-2.svg"
+    },
+    {
+      "id": 9205,
+      "sku": "NOVA-0092-009205",
+      "color": "Celestial Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "128GB",
+      "price": 7090000,
+      "original_price": 7090000,
+      "stock": 8,
+      "image": "assets/images/catalog/xiaomi-11t-3.svg"
+    },
+    {
+      "id": 9206,
+      "sku": "NOVA-0092-009206",
+      "color": "Celestial Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "256GB",
+      "price": 8090000,
+      "original_price": 8090000,
+      "stock": 15,
+      "image": "assets/images/catalog/xiaomi-11t-3.svg"
+    }
+  ]
+}

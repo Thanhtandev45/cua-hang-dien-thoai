@@ -1,0 +1,84 @@
+{
+  "id": 249,
+  "slug": "tecno-phantom-v-fold",
+  "name": "TECNO PHANTOM V Fold",
+  "brand": {
+    "id": 14,
+    "name": "TECNO",
+    "slug": "tecno"
+  },
+  "segment": "foldable",
+  "summary": "TECNO PHANTOM V Fold · Màn hình gập · Giá và tồn kho demo.",
+  "description": "TECNO PHANTOM V Fold thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/tecno-phantom-v-fold-1.svg",
+    "assets/images/catalog/tecno-phantom-v-fold-2.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "256GB / 512GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": true,
+  "is_new": false,
+  "created_at": "2026-11-01T04:09:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.tecno-mobile.com/phones/tech-specs/techspecs/phantom-v-fold/",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 24901,
+      "sku": "NOVA-0249-024901",
+      "color": "Black",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 21990000,
+      "original_price": 22490000,
+      "stock": 23,
+      "image": "assets/images/catalog/tecno-phantom-v-fold-1.svg"
+    },
+    {
+      "id": 24902,
+      "sku": "NOVA-0249-024902",
+      "color": "Black",
+      "color_hex": "#30353c",
+      "storage": "512GB",
+      "price": 22990000,
+      "original_price": 23490000,
+      "stock": 6,
+      "image": "assets/images/catalog/tecno-phantom-v-fold-1.svg"
+    },
+    {
+      "id": 24903,
+      "sku": "NOVA-0249-024903",
+      "color": "White",
+      "color_hex": "#e8e5dc",
+      "storage": "256GB",
+      "price": 22040000,
+      "original_price": 22540000,
+      "stock": 13,
+      "image": "assets/images/catalog/tecno-phantom-v-fold-2.svg"
+    },
+    {
+      "id": 24904,
+      "sku": "NOVA-0249-024904",
+      "color": "White",
+      "color_hex": "#e8e5dc",
+      "storage": "512GB",
+      "price": 23040000,
+      "original_price": 23540000,
+      "stock": 20,
+      "image": "assets/images/catalog/tecno-phantom-v-fold-2.svg"
+    }
+  ]
+}

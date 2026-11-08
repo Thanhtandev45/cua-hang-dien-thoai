@@ -1,0 +1,17 @@
+:root {
+  --primary: #153a68;
+  --accent: #2563eb;
+  --accent-dark: #1d4ed8;
+  --background: #fff;
+  --surface: #f3f6fa;
+  --text: #172033;
+  --muted: #64748b;
+  --sale: #d73740;
+  --success: #157347;
+  --border: #e4e9f0;
+  --radius: 14px;
+  --radius-sm: 8px;
+  --shadow: 0 8px 30px rgb(21 58 104 / 6%);
+  --font: 'Segoe UI', Arial, sans-serif;
+  --container: 1240px;
+}

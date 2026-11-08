@@ -1,0 +1,74 @@
+{
+  "id": 86,
+  "slug": "xiaomi-13t",
+  "name": "Xiaomi 13T",
+  "brand": {
+    "id": 3,
+    "name": "Xiaomi",
+    "slug": "xiaomi"
+  },
+  "segment": "upper-midrange",
+  "summary": "Xiaomi 13T · Cận cao cấp · Giá và tồn kho demo.",
+  "description": "Xiaomi 13T thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/xiaomi-13t-1.svg",
+    "assets/images/catalog/xiaomi-13t-2.svg",
+    "assets/images/catalog/xiaomi-13t-3.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "256GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": false,
+  "is_new": false,
+  "created_at": "2026-11-01T01:26:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.mi.com/global/product/xiaomi-13t/specs/",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 8601,
+      "sku": "NOVA-0086-008601",
+      "color": "Black",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 10990000,
+      "original_price": 11490000,
+      "stock": 10,
+      "image": "assets/images/catalog/xiaomi-13t-1.svg"
+    },
+    {
+      "id": 8602,
+      "sku": "NOVA-0086-008602",
+      "color": "Meadow Green",
+      "color_hex": "#729183",
+      "storage": "256GB",
+      "price": 11040000,
+      "original_price": 11540000,
+      "stock": 17,
+      "image": "assets/images/catalog/xiaomi-13t-2.svg"
+    },
+    {
+      "id": 8603,
+      "sku": "NOVA-0086-008603",
+      "color": "Alpine Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "256GB",
+      "price": 11090000,
+      "original_price": 11590000,
+      "stock": 24,
+      "image": "assets/images/catalog/xiaomi-13t-3.svg"
+    }
+  ]
+}

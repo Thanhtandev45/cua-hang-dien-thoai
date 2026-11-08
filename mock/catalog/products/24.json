@@ -1,0 +1,208 @@
+{
+  "id": 24,
+  "slug": "iphone-15-plus",
+  "name": "iPhone 15 Plus",
+  "brand": {
+    "id": 1,
+    "name": "Apple",
+    "slug": "apple"
+  },
+  "segment": "flagship",
+  "summary": "iPhone 15 Plus · Cao cấp · Giá và tồn kho demo.",
+  "description": "iPhone 15 Plus thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/iphone-15-plus-1.svg",
+    "assets/images/catalog/iphone-15-plus-2.svg",
+    "assets/images/catalog/iphone-15-plus-3.svg",
+    "assets/images/catalog/iphone-15-plus-4.svg",
+    "assets/images/catalog/iphone-15-plus-5.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB / 256GB / 512GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": true,
+  "is_new": false,
+  "created_at": "2026-11-01T00:24:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://support.apple.com/en-gb/108044",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 2401,
+      "sku": "NOVA-0024-002401",
+      "color": "Black",
+      "color_hex": "#30353c",
+      "storage": "128GB",
+      "price": 18990000,
+      "original_price": 18990000,
+      "stock": 8,
+      "image": "assets/images/catalog/iphone-15-plus-1.svg"
+    },
+    {
+      "id": 2402,
+      "sku": "NOVA-0024-002402",
+      "color": "Black",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 19990000,
+      "original_price": 19990000,
+      "stock": 15,
+      "image": "assets/images/catalog/iphone-15-plus-1.svg"
+    },
+    {
+      "id": 2403,
+      "sku": "NOVA-0024-002403",
+      "color": "Black",
+      "color_hex": "#30353c",
+      "storage": "512GB",
+      "price": 20990000,
+      "original_price": 20990000,
+      "stock": 22,
+      "image": "assets/images/catalog/iphone-15-plus-1.svg"
+    },
+    {
+      "id": 2404,
+      "sku": "NOVA-0024-002404",
+      "color": "Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "128GB",
+      "price": 19040000,
+      "original_price": 19040000,
+      "stock": 5,
+      "image": "assets/images/catalog/iphone-15-plus-2.svg"
+    },
+    {
+      "id": 2405,
+      "sku": "NOVA-0024-002405",
+      "color": "Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "256GB",
+      "price": 20040000,
+      "original_price": 20040000,
+      "stock": 12,
+      "image": "assets/images/catalog/iphone-15-plus-2.svg"
+    },
+    {
+      "id": 2406,
+      "sku": "NOVA-0024-002406",
+      "color": "Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "512GB",
+      "price": 21040000,
+      "original_price": 21040000,
+      "stock": 19,
+      "image": "assets/images/catalog/iphone-15-plus-2.svg"
+    },
+    {
+      "id": 2407,
+      "sku": "NOVA-0024-002407",
+      "color": "Green",
+      "color_hex": "#729183",
+      "storage": "128GB",
+      "price": 19090000,
+      "original_price": 19090000,
+      "stock": 0,
+      "image": "assets/images/catalog/iphone-15-plus-3.svg"
+    },
+    {
+      "id": 2408,
+      "sku": "NOVA-0024-002408",
+      "color": "Green",
+      "color_hex": "#729183",
+      "storage": "256GB",
+      "price": 20090000,
+      "original_price": 20090000,
+      "stock": 9,
+      "image": "assets/images/catalog/iphone-15-plus-3.svg"
+    },
+    {
+      "id": 2409,
+      "sku": "NOVA-0024-002409",
+      "color": "Green",
+      "color_hex": "#729183",
+      "storage": "512GB",
+      "price": 21090000,
+      "original_price": 21090000,
+      "stock": 16,
+      "image": "assets/images/catalog/iphone-15-plus-3.svg"
+    },
+    {
+      "id": 2410,
+      "sku": "NOVA-0024-002410",
+      "color": "Yellow",
+      "color_hex": "#d8c779",
+      "storage": "128GB",
+      "price": 19140000,
+      "original_price": 19140000,
+      "stock": 23,
+      "image": "assets/images/catalog/iphone-15-plus-4.svg"
+    },
+    {
+      "id": 2411,
+      "sku": "NOVA-0024-002411",
+      "color": "Yellow",
+      "color_hex": "#d8c779",
+      "storage": "256GB",
+      "price": 20140000,
+      "original_price": 20140000,
+      "stock": 6,
+      "image": "assets/images/catalog/iphone-15-plus-4.svg"
+    },
+    {
+      "id": 2412,
+      "sku": "NOVA-0024-002412",
+      "color": "Yellow",
+      "color_hex": "#d8c779",
+      "storage": "512GB",
+      "price": 21140000,
+      "original_price": 21140000,
+      "stock": 13,
+      "image": "assets/images/catalog/iphone-15-plus-4.svg"
+    },
+    {
+      "id": 2413,
+      "sku": "NOVA-0024-002413",
+      "color": "Pink",
+      "color_hex": "#d6a5b3",
+      "storage": "128GB",
+      "price": 19190000,
+      "original_price": 19190000,
+      "stock": 20,
+      "image": "assets/images/catalog/iphone-15-plus-5.svg"
+    },
+    {
+      "id": 2414,
+      "sku": "NOVA-0024-002414",
+      "color": "Pink",
+      "color_hex": "#d6a5b3",
+      "storage": "256GB",
+      "price": 20190000,
+      "original_price": 20190000,
+      "stock": 3,
+      "image": "assets/images/catalog/iphone-15-plus-5.svg"
+    },
+    {
+      "id": 2415,
+      "sku": "NOVA-0024-002415",
+      "color": "Pink",
+      "color_hex": "#d6a5b3",
+      "storage": "512GB",
+      "price": 21190000,
+      "original_price": 21190000,
+      "stock": 10,
+      "image": "assets/images/catalog/iphone-15-plus-5.svg"
+    }
+  ]
+}

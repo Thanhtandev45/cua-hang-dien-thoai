@@ -1,0 +1,107 @@
+{
+  "id": 168,
+  "slug": "realme-11-pro-5g",
+  "name": "realme 11 Pro 5G",
+  "brand": {
+    "id": 6,
+    "name": "realme",
+    "slug": "realme"
+  },
+  "segment": "midrange",
+  "summary": "realme 11 Pro 5G · Tầm trung · Giá và tồn kho demo.",
+  "description": "realme 11 Pro 5G thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/realme-11-pro-5g-1.svg",
+    "assets/images/catalog/realme-11-pro-5g-2.svg",
+    "assets/images/catalog/realme-11-pro-5g-3.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB / 256GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": true,
+  "is_new": true,
+  "created_at": "2026-11-01T02:48:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.realme.com/global/realme-11-pro-5g/specs",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 16801,
+      "sku": "NOVA-0168-016801",
+      "color": "Astral Black",
+      "color_hex": "#30353c",
+      "storage": "128GB",
+      "price": 6490000,
+      "original_price": 6490000,
+      "stock": 8,
+      "image": "assets/images/catalog/realme-11-pro-5g-1.svg"
+    },
+    {
+      "id": 16802,
+      "sku": "NOVA-0168-016802",
+      "color": "Astral Black",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 7490000,
+      "original_price": 7490000,
+      "stock": 15,
+      "image": "assets/images/catalog/realme-11-pro-5g-1.svg"
+    },
+    {
+      "id": 16803,
+      "sku": "NOVA-0168-016803",
+      "color": "Sunrise Beige",
+      "color_hex": "#d4c2a0",
+      "storage": "128GB",
+      "price": 6540000,
+      "original_price": 6540000,
+      "stock": 22,
+      "image": "assets/images/catalog/realme-11-pro-5g-2.svg"
+    },
+    {
+      "id": 16804,
+      "sku": "NOVA-0168-016804",
+      "color": "Sunrise Beige",
+      "color_hex": "#d4c2a0",
+      "storage": "256GB",
+      "price": 7540000,
+      "original_price": 7540000,
+      "stock": 5,
+      "image": "assets/images/catalog/realme-11-pro-5g-2.svg"
+    },
+    {
+      "id": 16805,
+      "sku": "NOVA-0168-016805",
+      "color": "Oasis Green",
+      "color_hex": "#729183",
+      "storage": "128GB",
+      "price": 6590000,
+      "original_price": 6590000,
+      "stock": 12,
+      "image": "assets/images/catalog/realme-11-pro-5g-3.svg"
+    },
+    {
+      "id": 16806,
+      "sku": "NOVA-0168-016806",
+      "color": "Oasis Green",
+      "color_hex": "#729183",
+      "storage": "256GB",
+      "price": 7590000,
+      "original_price": 7590000,
+      "stock": 19,
+      "image": "assets/images/catalog/realme-11-pro-5g-3.svg"
+    }
+  ]
+}

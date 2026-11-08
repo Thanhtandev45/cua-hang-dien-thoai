@@ -1,0 +1,107 @@
+{
+  "id": 213,
+  "slug": "oneplus-8",
+  "name": "OnePlus 8",
+  "brand": {
+    "id": 9,
+    "name": "OnePlus",
+    "slug": "oneplus"
+  },
+  "segment": "midrange",
+  "summary": "OnePlus 8 · Tầm trung · Giá và tồn kho demo.",
+  "description": "OnePlus 8 thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/oneplus-8-1.svg",
+    "assets/images/catalog/oneplus-8-2.svg",
+    "assets/images/catalog/oneplus-8-3.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB / 256GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": true,
+  "is_new": false,
+  "created_at": "2026-11-01T03:33:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.oneplus.com/global/8/specs",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 21301,
+      "sku": "NOVA-0213-021301",
+      "color": "Onyx Black",
+      "color_hex": "#30353c",
+      "storage": "128GB",
+      "price": 5490000,
+      "original_price": 5990000,
+      "stock": 11,
+      "image": "assets/images/catalog/oneplus-8-1.svg"
+    },
+    {
+      "id": 21302,
+      "sku": "NOVA-0213-021302",
+      "color": "Onyx Black",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 6490000,
+      "original_price": 6990000,
+      "stock": 0,
+      "image": "assets/images/catalog/oneplus-8-1.svg"
+    },
+    {
+      "id": 21303,
+      "sku": "NOVA-0213-021303",
+      "color": "Glacial Green",
+      "color_hex": "#729183",
+      "storage": "128GB",
+      "price": 5540000,
+      "original_price": 6040000,
+      "stock": 1,
+      "image": "assets/images/catalog/oneplus-8-2.svg"
+    },
+    {
+      "id": 21304,
+      "sku": "NOVA-0213-021304",
+      "color": "Glacial Green",
+      "color_hex": "#729183",
+      "storage": "256GB",
+      "price": 6540000,
+      "original_price": 7040000,
+      "stock": 8,
+      "image": "assets/images/catalog/oneplus-8-2.svg"
+    },
+    {
+      "id": 21305,
+      "sku": "NOVA-0213-021305",
+      "color": "Interstellar Glow",
+      "color_hex": "#9aaab1",
+      "storage": "128GB",
+      "price": 5590000,
+      "original_price": 6090000,
+      "stock": 15,
+      "image": "assets/images/catalog/oneplus-8-3.svg"
+    },
+    {
+      "id": 21306,
+      "sku": "NOVA-0213-021306",
+      "color": "Interstellar Glow",
+      "color_hex": "#9aaab1",
+      "storage": "256GB",
+      "price": 6590000,
+      "original_price": 7090000,
+      "stock": 22,
+      "image": "assets/images/catalog/oneplus-8-3.svg"
+    }
+  ]
+}

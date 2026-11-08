@@ -1,0 +1,62 @@
+{
+  "id": 119,
+  "slug": "oppo-find-x3-pro",
+  "name": "OPPO Find X3 Pro",
+  "brand": {
+    "id": 4,
+    "name": "OPPO",
+    "slug": "oppo"
+  },
+  "segment": "flagship",
+  "summary": "OPPO Find X3 Pro · Cao cấp · Giá và tồn kho demo.",
+  "description": "OPPO Find X3 Pro thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/oppo-find-x3-pro-1.svg",
+    "assets/images/catalog/oppo-find-x3-pro-2.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "256GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": false,
+  "is_new": true,
+  "created_at": "2026-11-01T01:59:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.oppo.com/en/smartphones/series-find-x/find-x3-pro/specs/",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 11901,
+      "sku": "NOVA-0119-011901",
+      "color": "Gloss Black",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 10990000,
+      "original_price": 11490000,
+      "stock": 1,
+      "image": "assets/images/catalog/oppo-find-x3-pro-1.svg"
+    },
+    {
+      "id": 11902,
+      "sku": "NOVA-0119-011902",
+      "color": "Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "256GB",
+      "price": 11040000,
+      "original_price": 11540000,
+      "stock": 8,
+      "image": "assets/images/catalog/oppo-find-x3-pro-2.svg"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": 166,
+  "slug": "realme-12-pro-5g-model-166",
+  "name": "realme 12 Pro 5G",
+  "brand": {
+    "id": 6,
+    "name": "realme",
+    "slug": "realme"
+  },
+  "segment": "midrange",
+  "summary": "realme 12 Pro 5G · Tầm trung · Giá và tồn kho demo.",
+  "description": "realme 12 Pro 5G thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/realme-12-pro-5g-model-166-1.svg",
+    "assets/images/catalog/realme-12-pro-5g-model-166-2.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB / 256GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": false,
+  "is_new": false,
+  "created_at": "2026-11-01T02:46:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.realme.com/global/realme-12-pro-5g/specs",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 16601,
+      "sku": "NOVA-0166-016601",
+      "color": "Submarine Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "128GB",
+      "price": 7490000,
+      "original_price": 7990000,
+      "stock": 18,
+      "image": "assets/images/catalog/realme-12-pro-5g-model-166-1.svg"
+    },
+    {
+      "id": 16602,
+      "sku": "NOVA-0166-016602",
+      "color": "Submarine Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "256GB",
+      "price": 8490000,
+      "original_price": 8990000,
+      "stock": 1,
+      "image": "assets/images/catalog/realme-12-pro-5g-model-166-1.svg"
+    },
+    {
+      "id": 16603,
+      "sku": "NOVA-0166-016603",
+      "color": "Navigator Beige",
+      "color_hex": "#d4c2a0",
+      "storage": "128GB",
+      "price": 7540000,
+      "original_price": 8040000,
+      "stock": 8,
+      "image": "assets/images/catalog/realme-12-pro-5g-model-166-2.svg"
+    },
+    {
+      "id": 16604,
+      "sku": "NOVA-0166-016604",
+      "color": "Navigator Beige",
+      "color_hex": "#d4c2a0",
+      "storage": "256GB",
+      "price": 8540000,
+      "original_price": 9040000,
+      "stock": 0,
+      "image": "assets/images/catalog/realme-12-pro-5g-model-166-2.svg"
+    }
+  ]
+}

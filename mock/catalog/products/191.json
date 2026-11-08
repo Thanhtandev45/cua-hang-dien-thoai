@@ -1,0 +1,163 @@
+{
+  "id": 191,
+  "slug": "google-pixel-9-pro",
+  "name": "Google Pixel 9 Pro",
+  "brand": {
+    "id": 8,
+    "name": "Google Pixel",
+    "slug": "google"
+  },
+  "segment": "flagship",
+  "summary": "Google Pixel 9 Pro · Cao cấp · Giá và tồn kho demo.",
+  "description": "Google Pixel 9 Pro thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/google-pixel-9-pro-1.svg",
+    "assets/images/catalog/google-pixel-9-pro-2.svg",
+    "assets/images/catalog/google-pixel-9-pro-3.svg",
+    "assets/images/catalog/google-pixel-9-pro-4.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB / 256GB / 512GB / 1TB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": true,
+  "is_new": false,
+  "created_at": "2026-11-01T03:11:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 19101,
+      "sku": "NOVA-0191-019101",
+      "color": "Obsidian",
+      "color_hex": "#30353c",
+      "storage": "128GB",
+      "price": 22990000,
+      "original_price": 23490000,
+      "stock": 0,
+      "image": "assets/images/catalog/google-pixel-9-pro-1.svg"
+    },
+    {
+      "id": 19102,
+      "sku": "NOVA-0191-019102",
+      "color": "Obsidian",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 23990000,
+      "original_price": 24490000,
+      "stock": 8,
+      "image": "assets/images/catalog/google-pixel-9-pro-1.svg"
+    },
+    {
+      "id": 19103,
+      "sku": "NOVA-0191-019103",
+      "color": "Obsidian",
+      "color_hex": "#30353c",
+      "storage": "512GB",
+      "price": 24990000,
+      "original_price": 25490000,
+      "stock": 15,
+      "image": "assets/images/catalog/google-pixel-9-pro-1.svg"
+    },
+    {
+      "id": 19104,
+      "sku": "NOVA-0191-019104",
+      "color": "Obsidian",
+      "color_hex": "#30353c",
+      "storage": "1TB",
+      "price": 25990000,
+      "original_price": 26490000,
+      "stock": 22,
+      "image": "assets/images/catalog/google-pixel-9-pro-1.svg"
+    },
+    {
+      "id": 19105,
+      "sku": "NOVA-0191-019105",
+      "color": "Porcelain",
+      "color_hex": "#e6dfce",
+      "storage": "128GB",
+      "price": 23040000,
+      "original_price": 23540000,
+      "stock": 5,
+      "image": "assets/images/catalog/google-pixel-9-pro-2.svg"
+    },
+    {
+      "id": 19106,
+      "sku": "NOVA-0191-019106",
+      "color": "Porcelain",
+      "color_hex": "#e6dfce",
+      "storage": "256GB",
+      "price": 24040000,
+      "original_price": 24540000,
+      "stock": 12,
+      "image": "assets/images/catalog/google-pixel-9-pro-2.svg"
+    },
+    {
+      "id": 19107,
+      "sku": "NOVA-0191-019107",
+      "color": "Porcelain",
+      "color_hex": "#e6dfce",
+      "storage": "512GB",
+      "price": 25040000,
+      "original_price": 25540000,
+      "stock": 19,
+      "image": "assets/images/catalog/google-pixel-9-pro-2.svg"
+    },
+    {
+      "id": 19108,
+      "sku": "NOVA-0191-019108",
+      "color": "Hazel",
+      "color_hex": "#9aaab1",
+      "storage": "128GB",
+      "price": 23090000,
+      "original_price": 23590000,
+      "stock": 2,
+      "image": "assets/images/catalog/google-pixel-9-pro-3.svg"
+    },
+    {
+      "id": 19109,
+      "sku": "NOVA-0191-019109",
+      "color": "Hazel",
+      "color_hex": "#9aaab1",
+      "storage": "256GB",
+      "price": 24090000,
+      "original_price": 24590000,
+      "stock": 9,
+      "image": "assets/images/catalog/google-pixel-9-pro-3.svg"
+    },
+    {
+      "id": 19110,
+      "sku": "NOVA-0191-019110",
+      "color": "Hazel",
+      "color_hex": "#9aaab1",
+      "storage": "512GB",
+      "price": 25090000,
+      "original_price": 25590000,
+      "stock": 16,
+      "image": "assets/images/catalog/google-pixel-9-pro-3.svg"
+    },
+    {
+      "id": 19111,
+      "sku": "NOVA-0191-019111",
+      "color": "Rose Quartz",
+      "color_hex": "#d8b4bd",
+      "storage": "256GB",
+      "price": 24140000,
+      "original_price": 24640000,
+      "stock": 23,
+      "image": "assets/images/catalog/google-pixel-9-pro-4.svg"
+    }
+  ]
+}

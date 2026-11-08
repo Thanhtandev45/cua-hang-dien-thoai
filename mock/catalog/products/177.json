@@ -1,0 +1,62 @@
+{
+  "id": 177,
+  "slug": "honor-magic5-pro",
+  "name": "HONOR Magic5 Pro",
+  "brand": {
+    "id": 7,
+    "name": "HONOR",
+    "slug": "honor"
+  },
+  "segment": "flagship",
+  "summary": "HONOR Magic5 Pro · Cao cấp · Giá và tồn kho demo.",
+  "description": "HONOR Magic5 Pro thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/honor-magic5-pro-1.svg",
+    "assets/images/catalog/honor-magic5-pro-2.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "512GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": true,
+  "is_new": false,
+  "created_at": "2026-11-01T02:57:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.honor.com/global/phones/honor-magic5-pro/spec/",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 17701,
+      "sku": "NOVA-0177-017701",
+      "color": "Black",
+      "color_hex": "#30353c",
+      "storage": "512GB",
+      "price": 17990000,
+      "original_price": 18490000,
+      "stock": 23,
+      "image": "assets/images/catalog/honor-magic5-pro-1.svg"
+    },
+    {
+      "id": 17702,
+      "sku": "NOVA-0177-017702",
+      "color": "Meadow Green",
+      "color_hex": "#729183",
+      "storage": "512GB",
+      "price": 18040000,
+      "original_price": 18540000,
+      "stock": 6,
+      "image": "assets/images/catalog/honor-magic5-pro-2.svg"
+    }
+  ]
+}

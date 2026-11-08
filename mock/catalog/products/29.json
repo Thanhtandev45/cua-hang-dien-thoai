@@ -1,0 +1,218 @@
+{
+  "id": 29,
+  "slug": "iphone-14-pro-max",
+  "name": "iPhone 14 Pro Max",
+  "brand": {
+    "id": 1,
+    "name": "Apple",
+    "slug": "apple"
+  },
+  "segment": "flagship",
+  "summary": "iPhone 14 Pro Max · Cao cấp · Giá và tồn kho demo.",
+  "description": "iPhone 14 Pro Max thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/iphone-14-pro-max-1.svg",
+    "assets/images/catalog/iphone-14-pro-max-2.svg",
+    "assets/images/catalog/iphone-14-pro-max-3.svg",
+    "assets/images/catalog/iphone-14-pro-max-4.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB / 256GB / 512GB / 1TB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": false,
+  "is_new": false,
+  "created_at": "2026-11-01T00:29:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://support.apple.com/en-gb/108044",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 2901,
+      "sku": "NOVA-0029-002901",
+      "color": "Space Black",
+      "color_hex": "#30353c",
+      "storage": "128GB",
+      "price": 20990000,
+      "original_price": 21490000,
+      "stock": 19,
+      "image": "assets/images/catalog/iphone-14-pro-max-1.svg"
+    },
+    {
+      "id": 2902,
+      "sku": "NOVA-0029-002902",
+      "color": "Space Black",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 21990000,
+      "original_price": 22490000,
+      "stock": 2,
+      "image": "assets/images/catalog/iphone-14-pro-max-1.svg"
+    },
+    {
+      "id": 2903,
+      "sku": "NOVA-0029-002903",
+      "color": "Space Black",
+      "color_hex": "#30353c",
+      "storage": "512GB",
+      "price": 22990000,
+      "original_price": 23490000,
+      "stock": 9,
+      "image": "assets/images/catalog/iphone-14-pro-max-1.svg"
+    },
+    {
+      "id": 2904,
+      "sku": "NOVA-0029-002904",
+      "color": "Space Black",
+      "color_hex": "#30353c",
+      "storage": "1TB",
+      "price": 23990000,
+      "original_price": 24490000,
+      "stock": 16,
+      "image": "assets/images/catalog/iphone-14-pro-max-1.svg"
+    },
+    {
+      "id": 2905,
+      "sku": "NOVA-0029-002905",
+      "color": "Silver",
+      "color_hex": "#bdc4cb",
+      "storage": "128GB",
+      "price": 21040000,
+      "original_price": 21540000,
+      "stock": 23,
+      "image": "assets/images/catalog/iphone-14-pro-max-2.svg"
+    },
+    {
+      "id": 2906,
+      "sku": "NOVA-0029-002906",
+      "color": "Silver",
+      "color_hex": "#bdc4cb",
+      "storage": "256GB",
+      "price": 22040000,
+      "original_price": 22540000,
+      "stock": 6,
+      "image": "assets/images/catalog/iphone-14-pro-max-2.svg"
+    },
+    {
+      "id": 2907,
+      "sku": "NOVA-0029-002907",
+      "color": "Silver",
+      "color_hex": "#bdc4cb",
+      "storage": "512GB",
+      "price": 23040000,
+      "original_price": 23540000,
+      "stock": 13,
+      "image": "assets/images/catalog/iphone-14-pro-max-2.svg"
+    },
+    {
+      "id": 2908,
+      "sku": "NOVA-0029-002908",
+      "color": "Silver",
+      "color_hex": "#bdc4cb",
+      "storage": "1TB",
+      "price": 24040000,
+      "original_price": 24540000,
+      "stock": 20,
+      "image": "assets/images/catalog/iphone-14-pro-max-2.svg"
+    },
+    {
+      "id": 2909,
+      "sku": "NOVA-0029-002909",
+      "color": "Gold",
+      "color_hex": "#c7af84",
+      "storage": "128GB",
+      "price": 21090000,
+      "original_price": 21590000,
+      "stock": 0,
+      "image": "assets/images/catalog/iphone-14-pro-max-3.svg"
+    },
+    {
+      "id": 2910,
+      "sku": "NOVA-0029-002910",
+      "color": "Gold",
+      "color_hex": "#c7af84",
+      "storage": "256GB",
+      "price": 22090000,
+      "original_price": 22590000,
+      "stock": 10,
+      "image": "assets/images/catalog/iphone-14-pro-max-3.svg"
+    },
+    {
+      "id": 2911,
+      "sku": "NOVA-0029-002911",
+      "color": "Gold",
+      "color_hex": "#c7af84",
+      "storage": "512GB",
+      "price": 23090000,
+      "original_price": 23590000,
+      "stock": 17,
+      "image": "assets/images/catalog/iphone-14-pro-max-3.svg"
+    },
+    {
+      "id": 2912,
+      "sku": "NOVA-0029-002912",
+      "color": "Gold",
+      "color_hex": "#c7af84",
+      "storage": "1TB",
+      "price": 24090000,
+      "original_price": 24590000,
+      "stock": 24,
+      "image": "assets/images/catalog/iphone-14-pro-max-3.svg"
+    },
+    {
+      "id": 2913,
+      "sku": "NOVA-0029-002913",
+      "color": "Deep Purple",
+      "color_hex": "#a399b7",
+      "storage": "128GB",
+      "price": 21140000,
+      "original_price": 21640000,
+      "stock": 7,
+      "image": "assets/images/catalog/iphone-14-pro-max-4.svg"
+    },
+    {
+      "id": 2914,
+      "sku": "NOVA-0029-002914",
+      "color": "Deep Purple",
+      "color_hex": "#a399b7",
+      "storage": "256GB",
+      "price": 22140000,
+      "original_price": 22640000,
+      "stock": 14,
+      "image": "assets/images/catalog/iphone-14-pro-max-4.svg"
+    },
+    {
+      "id": 2915,
+      "sku": "NOVA-0029-002915",
+      "color": "Deep Purple",
+      "color_hex": "#a399b7",
+      "storage": "512GB",
+      "price": 23140000,
+      "original_price": 23640000,
+      "stock": 21,
+      "image": "assets/images/catalog/iphone-14-pro-max-4.svg"
+    },
+    {
+      "id": 2916,
+      "sku": "NOVA-0029-002916",
+      "color": "Deep Purple",
+      "color_hex": "#a399b7",
+      "storage": "1TB",
+      "price": 24140000,
+      "original_price": 24640000,
+      "stock": 4,
+      "image": "assets/images/catalog/iphone-14-pro-max-4.svg"
+    }
+  ]
+}

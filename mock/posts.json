@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "slug": "chon-dien-thoai-phu-hop",
+    "title": "Chọn điện thoại phù hợp: bắt đầu từ điều bạn cần",
+    "excerpt": "Một chiếc điện thoại tốt là chiếc phù hợp với cách bạn sử dụng mỗi ngày. Cùng tìm ra những tiêu chí đáng cân nhắc.",
+    "category": "Tư vấn",
+    "published_at": "2026-11-01",
+    "image": "assets/images/editorial-guide.svg",
+    "content": [
+      "Trước khi so sánh cấu hình, hãy viết ra ba việc bạn thường làm nhất trên điện thoại. Chụp ảnh, xem video, nhắn tin hay làm việc sẽ dẫn đến những ưu tiên khác nhau.",
+      "Nếu thường xuyên mang máy theo cả ngày, kích thước và cảm giác cầm nắm có thể ảnh hưởng đến trải nghiệm nhiều hơn một con số trong bảng thông số. Hãy thử thao tác một tay và xem màn hình ở độ sáng bạn hay dùng.",
+      "Dung lượng bộ nhớ cũng nên dựa vào thói quen thực tế. Ảnh, video và trò chơi thường chiếm nhiều không gian. Kiểm tra dung lượng đã dùng trên máy hiện tại là một điểm bắt đầu đơn giản.",
+      "Cuối cùng, so sánh giá của đúng phiên bản màu sắc và dung lượng, tìm hiểu chính sách bảo hành, rồi chọn theo ngân sách của bạn. Bài viết này là nội dung mẫu cho giao diện phát triển."
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "camera-dien-thoai-khoanh-khac",
+    "title": "Camera điện thoại: hơn cả câu chuyện megapixel",
+    "excerpt": "Ánh sáng, cách lấy nét và góc chụp cũng góp phần tạo nên một bức ảnh đẹp. Những điều nhỏ đáng để thử.",
+    "category": "Khám phá",
+    "published_at": "2026-10-29",
+    "image": "assets/images/editorial-camera.svg",
+    "content": [
+      "Độ phân giải chỉ là một phần của trải nghiệm chụp ảnh. Khi so sánh camera, bạn nên quan sát màu sắc, độ chi tiết và khả năng lấy nét trong những tình huống mình thường gặp.",
+      "Nguồn sáng tự nhiên gần cửa sổ giúp bạn dễ kiểm soát bóng đổ hơn. Thử xoay chủ thể về phía sáng và tránh để nguồn sáng quá mạnh chiếu thẳng vào ống kính.",
+      "Một thao tác hữu ích là chạm vào chủ thể trên màn hình để lấy nét. Giữ máy ổn định và thử vài góc trước khi chọn ảnh yêu thích.",
+      "Các hình ảnh và nội dung trên trang này phục vụ phát triển frontend, không thay thế đánh giá sản phẩm thực tế."
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "dung-luong-bo-nho-128-256",
+    "title": "128GB hay 256GB: bạn cần bao nhiêu bộ nhớ?",
+    "excerpt": "Lựa chọn dung lượng dựa trên ảnh, ứng dụng và thói quen lưu trữ để sử dụng thoải mái hơn.",
+    "category": "Tư vấn",
+    "published_at": "2026-10-25",
+    "image": "assets/images/editorial-battery.svg",
+    "content": [
+      "Bộ nhớ trong lưu ảnh, video, ứng dụng và dữ liệu của bạn. Hệ điều hành cũng sử dụng một phần dung lượng, vì vậy không gian trống thực tế sẽ thấp hơn dung lượng ghi trên hộp.",
+      "Hãy mở phần quản lý dung lượng trên máy hiện tại. Nếu bạn thường xuyên phải xóa dữ liệu để cài ứng dụng, một phiên bản có bộ nhớ lớn hơn có thể phù hợp.",
+      "Bạn có thể giữ ảnh và video quan trọng ở nhiều nơi để thuận tiện truy cập. Trước khi xóa bản gốc, kiểm tra kỹ bản sao đã lưu thành công.",
+      "Đây là bài viết mẫu của website phát triển. Giá chênh lệch giữa các phiên bản cần được cập nhật từ dữ liệu bán hàng thực tế."
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "setup-goc-lam-viec-di-dong",
+    "title": "Một góc làm việc gọn hơn, bắt đầu từ chiếc điện thoại",
+    "excerpt": "Sắp xếp ứng dụng và thông báo để dành sự tập trung cho công việc bạn đang làm.",
+    "category": "Mẹo hay",
+    "published_at": "2026-10-21",
+    "image": "assets/images/editorial-guide.svg",
+    "content": [
+      "Một màn hình chính gọn gàng giúp bạn tìm ứng dụng thường dùng nhanh hơn. Hãy thử đặt lịch, ghi chú và liên lạc vào một khu vực dễ chạm.",
+      "Xem lại thông báo của từng ứng dụng và giữ những nội dung bạn thực sự cần. Bạn có thể điều chỉnh lại bất cứ lúc nào theo lịch làm việc của mình.",
+      "Đồng bộ lịch và ghi chú giữa các thiết bị giúp chuyển đổi công việc thuận tiện hơn. Kiểm tra tài khoản đang dùng trước khi bật đồng bộ.",
+      "Nội dung mẫu dùng để kiểm tra bố cục trang bài viết."
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "chuyen-du-lieu-sang-may-moi",
+    "title": "Chuẩn bị gì trước khi chuyển sang điện thoại mới?",
+    "excerpt": "Một danh sách ngắn giúp bạn kiểm tra dữ liệu quan trọng trước khi bắt đầu sử dụng thiết bị mới.",
+    "category": "Mẹo hay",
+    "published_at": "2026-10-18",
+    "image": "assets/images/editorial-camera.svg",
+    "content": [
+      "Trước khi chuyển máy, kiểm tra danh bạ, ảnh, ghi chú và các ứng dụng quan trọng. Tạo bản sao dữ liệu và xác nhận bạn có thể truy cập bản sao đó.",
+      "Chuẩn bị thông tin đăng nhập của các tài khoản cá nhân. Không chia sẻ mật khẩu hoặc mã xác minh cho người hỗ trợ chuyển dữ liệu.",
+      "Sau khi chuyển xong, mở một vài tệp và ứng dụng để kiểm tra. Chỉ xóa dữ liệu trên thiết bị cũ khi bạn đã xác nhận mọi thứ cần thiết đã được chuyển.",
+      "Bài viết mẫu phục vụ giao diện; các bước chi tiết phụ thuộc thiết bị và hệ điều hành."
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "trai-nghiem-man-hinh-moi-ngay",
+    "title": "Màn hình đẹp là màn hình phù hợp với bạn",
+    "excerpt": "Kích thước, màu sắc và độ sáng: những yếu tố bạn có thể tự cảm nhận khi trải nghiệm điện thoại.",
+    "category": "Khám phá",
+    "published_at": "2026-10-15",
+    "image": "assets/images/editorial-battery.svg",
+    "content": [
+      "Bạn đọc chữ, xem ảnh và tương tác với màn hình nhiều lần mỗi ngày. Một màn hình dễ nhìn và kích thước phù hợp sẽ giúp việc sử dụng thoải mái hơn.",
+      "Hãy mở thử nội dung bạn thường xem khi trải nghiệm máy. Quan sát chữ nhỏ, màu ảnh và độ sáng trong môi trường cửa hàng.",
+      "Kiểm tra cả cảm giác vuốt, bàn phím và khả năng cầm nắm. Những điều này thường dễ nhận ra khi dùng thử hơn khi chỉ xem thông số.",
+      "Thông tin trên trang là dữ liệu mẫu dành cho phát triển frontend."
+    ]
+  }
+]

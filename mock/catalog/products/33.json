@@ -1,0 +1,263 @@
+{
+  "id": 33,
+  "slug": "iphone-13-pro-max",
+  "name": "iPhone 13 Pro Max",
+  "brand": {
+    "id": 1,
+    "name": "Apple",
+    "slug": "apple"
+  },
+  "segment": "flagship",
+  "summary": "iPhone 13 Pro Max · Cao cấp · Giá và tồn kho demo.",
+  "description": "iPhone 13 Pro Max thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/iphone-13-pro-max-1.svg",
+    "assets/images/catalog/iphone-13-pro-max-2.svg",
+    "assets/images/catalog/iphone-13-pro-max-3.svg",
+    "assets/images/catalog/iphone-13-pro-max-4.svg",
+    "assets/images/catalog/iphone-13-pro-max-5.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB / 256GB / 512GB / 1TB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": true,
+  "is_new": false,
+  "created_at": "2026-11-01T00:33:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://support.apple.com/en-gb/108044",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 3301,
+      "sku": "NOVA-0033-003301",
+      "color": "Graphite",
+      "color_hex": "#555962",
+      "storage": "128GB",
+      "price": 16990000,
+      "original_price": 17490000,
+      "stock": 23,
+      "image": "assets/images/catalog/iphone-13-pro-max-1.svg"
+    },
+    {
+      "id": 3302,
+      "sku": "NOVA-0033-003302",
+      "color": "Graphite",
+      "color_hex": "#555962",
+      "storage": "256GB",
+      "price": 17990000,
+      "original_price": 18490000,
+      "stock": 6,
+      "image": "assets/images/catalog/iphone-13-pro-max-1.svg"
+    },
+    {
+      "id": 3303,
+      "sku": "NOVA-0033-003303",
+      "color": "Graphite",
+      "color_hex": "#555962",
+      "storage": "512GB",
+      "price": 18990000,
+      "original_price": 19490000,
+      "stock": 13,
+      "image": "assets/images/catalog/iphone-13-pro-max-1.svg"
+    },
+    {
+      "id": 3304,
+      "sku": "NOVA-0033-003304",
+      "color": "Graphite",
+      "color_hex": "#555962",
+      "storage": "1TB",
+      "price": 19990000,
+      "original_price": 20490000,
+      "stock": 20,
+      "image": "assets/images/catalog/iphone-13-pro-max-1.svg"
+    },
+    {
+      "id": 3305,
+      "sku": "NOVA-0033-003305",
+      "color": "Gold",
+      "color_hex": "#c7af84",
+      "storage": "128GB",
+      "price": 17040000,
+      "original_price": 17540000,
+      "stock": 3,
+      "image": "assets/images/catalog/iphone-13-pro-max-2.svg"
+    },
+    {
+      "id": 3306,
+      "sku": "NOVA-0033-003306",
+      "color": "Gold",
+      "color_hex": "#c7af84",
+      "storage": "256GB",
+      "price": 18040000,
+      "original_price": 18540000,
+      "stock": 10,
+      "image": "assets/images/catalog/iphone-13-pro-max-2.svg"
+    },
+    {
+      "id": 3307,
+      "sku": "NOVA-0033-003307",
+      "color": "Gold",
+      "color_hex": "#c7af84",
+      "storage": "512GB",
+      "price": 19040000,
+      "original_price": 19540000,
+      "stock": 17,
+      "image": "assets/images/catalog/iphone-13-pro-max-2.svg"
+    },
+    {
+      "id": 3308,
+      "sku": "NOVA-0033-003308",
+      "color": "Gold",
+      "color_hex": "#c7af84",
+      "storage": "1TB",
+      "price": 20040000,
+      "original_price": 20540000,
+      "stock": 0,
+      "image": "assets/images/catalog/iphone-13-pro-max-2.svg"
+    },
+    {
+      "id": 3309,
+      "sku": "NOVA-0033-003309",
+      "color": "Silver",
+      "color_hex": "#bdc4cb",
+      "storage": "128GB",
+      "price": 17090000,
+      "original_price": 17590000,
+      "stock": 7,
+      "image": "assets/images/catalog/iphone-13-pro-max-3.svg"
+    },
+    {
+      "id": 3310,
+      "sku": "NOVA-0033-003310",
+      "color": "Silver",
+      "color_hex": "#bdc4cb",
+      "storage": "256GB",
+      "price": 18090000,
+      "original_price": 18590000,
+      "stock": 14,
+      "image": "assets/images/catalog/iphone-13-pro-max-3.svg"
+    },
+    {
+      "id": 3311,
+      "sku": "NOVA-0033-003311",
+      "color": "Silver",
+      "color_hex": "#bdc4cb",
+      "storage": "512GB",
+      "price": 19090000,
+      "original_price": 19590000,
+      "stock": 21,
+      "image": "assets/images/catalog/iphone-13-pro-max-3.svg"
+    },
+    {
+      "id": 3312,
+      "sku": "NOVA-0033-003312",
+      "color": "Silver",
+      "color_hex": "#bdc4cb",
+      "storage": "1TB",
+      "price": 20090000,
+      "original_price": 20590000,
+      "stock": 4,
+      "image": "assets/images/catalog/iphone-13-pro-max-3.svg"
+    },
+    {
+      "id": 3313,
+      "sku": "NOVA-0033-003313",
+      "color": "Sierra Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "128GB",
+      "price": 17140000,
+      "original_price": 17640000,
+      "stock": 11,
+      "image": "assets/images/catalog/iphone-13-pro-max-4.svg"
+    },
+    {
+      "id": 3314,
+      "sku": "NOVA-0033-003314",
+      "color": "Sierra Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "256GB",
+      "price": 18140000,
+      "original_price": 18640000,
+      "stock": 18,
+      "image": "assets/images/catalog/iphone-13-pro-max-4.svg"
+    },
+    {
+      "id": 3315,
+      "sku": "NOVA-0033-003315",
+      "color": "Sierra Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "512GB",
+      "price": 19140000,
+      "original_price": 19640000,
+      "stock": 1,
+      "image": "assets/images/catalog/iphone-13-pro-max-4.svg"
+    },
+    {
+      "id": 3316,
+      "sku": "NOVA-0033-003316",
+      "color": "Sierra Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "1TB",
+      "price": 20140000,
+      "original_price": 20640000,
+      "stock": 8,
+      "image": "assets/images/catalog/iphone-13-pro-max-4.svg"
+    },
+    {
+      "id": 3317,
+      "sku": "NOVA-0033-003317",
+      "color": "Alpine Green",
+      "color_hex": "#729183",
+      "storage": "128GB",
+      "price": 17190000,
+      "original_price": 17690000,
+      "stock": 15,
+      "image": "assets/images/catalog/iphone-13-pro-max-5.svg"
+    },
+    {
+      "id": 3318,
+      "sku": "NOVA-0033-003318",
+      "color": "Alpine Green",
+      "color_hex": "#729183",
+      "storage": "256GB",
+      "price": 18190000,
+      "original_price": 18690000,
+      "stock": 22,
+      "image": "assets/images/catalog/iphone-13-pro-max-5.svg"
+    },
+    {
+      "id": 3319,
+      "sku": "NOVA-0033-003319",
+      "color": "Alpine Green",
+      "color_hex": "#729183",
+      "storage": "512GB",
+      "price": 19190000,
+      "original_price": 19690000,
+      "stock": 5,
+      "image": "assets/images/catalog/iphone-13-pro-max-5.svg"
+    },
+    {
+      "id": 3320,
+      "sku": "NOVA-0033-003320",
+      "color": "Alpine Green",
+      "color_hex": "#729183",
+      "storage": "1TB",
+      "price": 20190000,
+      "original_price": 20690000,
+      "stock": 12,
+      "image": "assets/images/catalog/iphone-13-pro-max-5.svg"
+    }
+  ]
+}

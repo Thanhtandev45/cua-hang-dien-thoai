@@ -1,0 +1,242 @@
+{
+  "id": 31,
+  "slug": "iphone-13-mini",
+  "name": "iPhone 13 mini",
+  "brand": {
+    "id": 1,
+    "name": "Apple",
+    "slug": "apple"
+  },
+  "segment": "upper-midrange",
+  "summary": "iPhone 13 mini · Cận cao cấp · Giá và tồn kho demo.",
+  "description": "iPhone 13 mini thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/iphone-13-mini-1.svg",
+    "assets/images/catalog/iphone-13-mini-2.svg",
+    "assets/images/catalog/iphone-13-mini-3.svg",
+    "assets/images/catalog/iphone-13-mini-4.svg",
+    "assets/images/catalog/iphone-13-mini-5.svg",
+    "assets/images/catalog/iphone-13-mini-6.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "128GB / 256GB / 512GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": false,
+  "is_new": false,
+  "created_at": "2026-11-01T00:31:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://support.apple.com/en-gb/108044",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 3101,
+      "sku": "NOVA-0031-003101",
+      "color": "Midnight",
+      "color_hex": "#303c51",
+      "storage": "128GB",
+      "price": 9990000,
+      "original_price": 10490000,
+      "stock": 9,
+      "image": "assets/images/catalog/iphone-13-mini-1.svg"
+    },
+    {
+      "id": 3102,
+      "sku": "NOVA-0031-003102",
+      "color": "Midnight",
+      "color_hex": "#303c51",
+      "storage": "256GB",
+      "price": 10990000,
+      "original_price": 11490000,
+      "stock": 0,
+      "image": "assets/images/catalog/iphone-13-mini-1.svg"
+    },
+    {
+      "id": 3103,
+      "sku": "NOVA-0031-003103",
+      "color": "Midnight",
+      "color_hex": "#303c51",
+      "storage": "512GB",
+      "price": 11990000,
+      "original_price": 12490000,
+      "stock": 23,
+      "image": "assets/images/catalog/iphone-13-mini-1.svg"
+    },
+    {
+      "id": 3104,
+      "sku": "NOVA-0031-003104",
+      "color": "Starlight",
+      "color_hex": "#9aaab1",
+      "storage": "128GB",
+      "price": 10040000,
+      "original_price": 10540000,
+      "stock": 6,
+      "image": "assets/images/catalog/iphone-13-mini-2.svg"
+    },
+    {
+      "id": 3105,
+      "sku": "NOVA-0031-003105",
+      "color": "Starlight",
+      "color_hex": "#9aaab1",
+      "storage": "256GB",
+      "price": 11040000,
+      "original_price": 11540000,
+      "stock": 13,
+      "image": "assets/images/catalog/iphone-13-mini-2.svg"
+    },
+    {
+      "id": 3106,
+      "sku": "NOVA-0031-003106",
+      "color": "Starlight",
+      "color_hex": "#9aaab1",
+      "storage": "512GB",
+      "price": 12040000,
+      "original_price": 12540000,
+      "stock": 20,
+      "image": "assets/images/catalog/iphone-13-mini-2.svg"
+    },
+    {
+      "id": 3107,
+      "sku": "NOVA-0031-003107",
+      "color": "Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "128GB",
+      "price": 10090000,
+      "original_price": 10590000,
+      "stock": 3,
+      "image": "assets/images/catalog/iphone-13-mini-3.svg"
+    },
+    {
+      "id": 3108,
+      "sku": "NOVA-0031-003108",
+      "color": "Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "256GB",
+      "price": 11090000,
+      "original_price": 11590000,
+      "stock": 10,
+      "image": "assets/images/catalog/iphone-13-mini-3.svg"
+    },
+    {
+      "id": 3109,
+      "sku": "NOVA-0031-003109",
+      "color": "Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "512GB",
+      "price": 12090000,
+      "original_price": 12590000,
+      "stock": 17,
+      "image": "assets/images/catalog/iphone-13-mini-3.svg"
+    },
+    {
+      "id": 3110,
+      "sku": "NOVA-0031-003110",
+      "color": "Pink",
+      "color_hex": "#d6a5b3",
+      "storage": "128GB",
+      "price": 10140000,
+      "original_price": 10640000,
+      "stock": 24,
+      "image": "assets/images/catalog/iphone-13-mini-4.svg"
+    },
+    {
+      "id": 3111,
+      "sku": "NOVA-0031-003111",
+      "color": "Pink",
+      "color_hex": "#d6a5b3",
+      "storage": "256GB",
+      "price": 11140000,
+      "original_price": 11640000,
+      "stock": 7,
+      "image": "assets/images/catalog/iphone-13-mini-4.svg"
+    },
+    {
+      "id": 3112,
+      "sku": "NOVA-0031-003112",
+      "color": "Pink",
+      "color_hex": "#d6a5b3",
+      "storage": "512GB",
+      "price": 12140000,
+      "original_price": 12640000,
+      "stock": 14,
+      "image": "assets/images/catalog/iphone-13-mini-4.svg"
+    },
+    {
+      "id": 3113,
+      "sku": "NOVA-0031-003113",
+      "color": "Green",
+      "color_hex": "#729183",
+      "storage": "128GB",
+      "price": 10190000,
+      "original_price": 10690000,
+      "stock": 21,
+      "image": "assets/images/catalog/iphone-13-mini-5.svg"
+    },
+    {
+      "id": 3114,
+      "sku": "NOVA-0031-003114",
+      "color": "Green",
+      "color_hex": "#729183",
+      "storage": "256GB",
+      "price": 11190000,
+      "original_price": 11690000,
+      "stock": 4,
+      "image": "assets/images/catalog/iphone-13-mini-5.svg"
+    },
+    {
+      "id": 3115,
+      "sku": "NOVA-0031-003115",
+      "color": "Green",
+      "color_hex": "#729183",
+      "storage": "512GB",
+      "price": 12190000,
+      "original_price": 12690000,
+      "stock": 0,
+      "image": "assets/images/catalog/iphone-13-mini-5.svg"
+    },
+    {
+      "id": 3116,
+      "sku": "NOVA-0031-003116",
+      "color": "(PRODUCT)RED",
+      "color_hex": "#ac4b54",
+      "storage": "128GB",
+      "price": 10240000,
+      "original_price": 10740000,
+      "stock": 18,
+      "image": "assets/images/catalog/iphone-13-mini-6.svg"
+    },
+    {
+      "id": 3117,
+      "sku": "NOVA-0031-003117",
+      "color": "(PRODUCT)RED",
+      "color_hex": "#ac4b54",
+      "storage": "256GB",
+      "price": 11240000,
+      "original_price": 11740000,
+      "stock": 1,
+      "image": "assets/images/catalog/iphone-13-mini-6.svg"
+    },
+    {
+      "id": 3118,
+      "sku": "NOVA-0031-003118",
+      "color": "(PRODUCT)RED",
+      "color_hex": "#ac4b54",
+      "storage": "512GB",
+      "price": 12240000,
+      "original_price": 12740000,
+      "stock": 8,
+      "image": "assets/images/catalog/iphone-13-mini-6.svg"
+    }
+  ]
+}

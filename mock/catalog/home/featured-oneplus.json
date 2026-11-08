@@ -1,0 +1,338 @@
+[
+  {
+    "id": 205,
+    "slug": "oneplus-12",
+    "name": "OnePlus 12",
+    "brand": {
+      "id": 9,
+      "name": "OnePlus",
+      "slug": "oneplus"
+    },
+    "segment": "flagship",
+    "summary": "OnePlus 12 · Cao cấp · Giá và tồn kho demo.",
+    "description": "OnePlus 12 thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+    "images": [
+      "assets/images/catalog/oneplus-12-1.svg",
+      "assets/images/catalog/oneplus-12-2.svg"
+    ],
+    "specs": {
+      "Màn hình": "",
+      "Chip": "",
+      "RAM": "",
+      "Bộ nhớ": "256GB / 512GB",
+      "Pin": "",
+      "Camera": ""
+    },
+    "featured": true,
+    "is_new": false,
+    "created_at": "2026-11-01T03:25:00+07:00",
+    "is_demo": true,
+    "status": "published",
+    "data_quality": "reference_options",
+    "source_url": "https://www.oneplus.com/global/12/specs",
+    "verification": {
+      "model": "curated_real_model",
+      "options": "reference_requires_regional_review",
+      "specs": "unverified_fields_empty",
+      "price_stock": "demo_only"
+    },
+    "variants": [
+      {
+        "id": 20501,
+        "sku": "NOVA-0205-020501",
+        "color": "Silky Black",
+        "color_hex": "#30353c",
+        "storage": "256GB",
+        "price": 16990000,
+        "original_price": 17490000,
+        "stock": 3,
+        "image": "assets/images/catalog/oneplus-12-1.svg"
+      },
+      {
+        "id": 20502,
+        "sku": "NOVA-0205-020502",
+        "color": "Silky Black",
+        "color_hex": "#30353c",
+        "storage": "512GB",
+        "price": 17990000,
+        "original_price": 18490000,
+        "stock": 10,
+        "image": "assets/images/catalog/oneplus-12-1.svg"
+      },
+      {
+        "id": 20503,
+        "sku": "NOVA-0205-020503",
+        "color": "Flowy Emerald",
+        "color_hex": "#9aaab1",
+        "storage": "256GB",
+        "price": 17040000,
+        "original_price": 17540000,
+        "stock": 17,
+        "image": "assets/images/catalog/oneplus-12-2.svg"
+      },
+      {
+        "id": 20504,
+        "sku": "NOVA-0205-020504",
+        "color": "Flowy Emerald",
+        "color_hex": "#9aaab1",
+        "storage": "512GB",
+        "price": 18040000,
+        "original_price": 18540000,
+        "stock": 0,
+        "image": "assets/images/catalog/oneplus-12-2.svg"
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "slug": "oneplus-12r",
+    "name": "OnePlus 12R",
+    "brand": {
+      "id": 9,
+      "name": "OnePlus",
+      "slug": "oneplus"
+    },
+    "segment": "upper-midrange",
+    "summary": "OnePlus 12R · Cận cao cấp · Giá và tồn kho demo.",
+    "description": "OnePlus 12R thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+    "images": [
+      "assets/images/catalog/oneplus-12r-1.svg",
+      "assets/images/catalog/oneplus-12r-2.svg"
+    ],
+    "specs": {
+      "Màn hình": "",
+      "Chip": "",
+      "RAM": "",
+      "Bộ nhớ": "128GB / 256GB",
+      "Pin": "",
+      "Camera": ""
+    },
+    "featured": true,
+    "is_new": false,
+    "created_at": "2026-11-01T03:26:00+07:00",
+    "is_demo": true,
+    "status": "published",
+    "data_quality": "reference_options",
+    "source_url": "https://www.oneplus.com/global/12r/specs",
+    "verification": {
+      "model": "curated_real_model",
+      "options": "reference_requires_regional_review",
+      "specs": "unverified_fields_empty",
+      "price_stock": "demo_only"
+    },
+    "variants": [
+      {
+        "id": 20601,
+        "sku": "NOVA-0206-020601",
+        "color": "Iron Gray",
+        "color_hex": "#8e969d",
+        "storage": "128GB",
+        "price": 11990000,
+        "original_price": 12490000,
+        "stock": 10,
+        "image": "assets/images/catalog/oneplus-12r-1.svg"
+      },
+      {
+        "id": 20602,
+        "sku": "NOVA-0206-020602",
+        "color": "Iron Gray",
+        "color_hex": "#8e969d",
+        "storage": "256GB",
+        "price": 12990000,
+        "original_price": 13490000,
+        "stock": 17,
+        "image": "assets/images/catalog/oneplus-12r-1.svg"
+      },
+      {
+        "id": 20603,
+        "sku": "NOVA-0206-020603",
+        "color": "Cool Blue",
+        "color_hex": "#7e9fb9",
+        "storage": "128GB",
+        "price": 12040000,
+        "original_price": 12540000,
+        "stock": 24,
+        "image": "assets/images/catalog/oneplus-12r-2.svg"
+      },
+      {
+        "id": 20604,
+        "sku": "NOVA-0206-020604",
+        "color": "Cool Blue",
+        "color_hex": "#7e9fb9",
+        "storage": "256GB",
+        "price": 13040000,
+        "original_price": 13540000,
+        "stock": 7,
+        "image": "assets/images/catalog/oneplus-12r-2.svg"
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "slug": "oneplus-11",
+    "name": "OnePlus 11",
+    "brand": {
+      "id": 9,
+      "name": "OnePlus",
+      "slug": "oneplus"
+    },
+    "segment": "flagship",
+    "summary": "OnePlus 11 · Cao cấp · Giá và tồn kho demo.",
+    "description": "OnePlus 11 thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+    "images": [
+      "assets/images/catalog/oneplus-11-1.svg",
+      "assets/images/catalog/oneplus-11-2.svg"
+    ],
+    "specs": {
+      "Màn hình": "",
+      "Chip": "",
+      "RAM": "",
+      "Bộ nhớ": "128GB / 256GB",
+      "Pin": "",
+      "Camera": ""
+    },
+    "featured": true,
+    "is_new": false,
+    "created_at": "2026-11-01T03:27:00+07:00",
+    "is_demo": true,
+    "status": "published",
+    "data_quality": "reference_options",
+    "source_url": "https://www.oneplus.com/global/11/specs",
+    "verification": {
+      "model": "curated_real_model",
+      "options": "reference_requires_regional_review",
+      "specs": "unverified_fields_empty",
+      "price_stock": "demo_only"
+    },
+    "variants": [
+      {
+        "id": 20701,
+        "sku": "NOVA-0207-020701",
+        "color": "Titan Black",
+        "color_hex": "#30353c",
+        "storage": "128GB",
+        "price": 13990000,
+        "original_price": 14490000,
+        "stock": 17,
+        "image": "assets/images/catalog/oneplus-11-1.svg"
+      },
+      {
+        "id": 20702,
+        "sku": "NOVA-0207-020702",
+        "color": "Titan Black",
+        "color_hex": "#30353c",
+        "storage": "256GB",
+        "price": 14990000,
+        "original_price": 15490000,
+        "stock": 24,
+        "image": "assets/images/catalog/oneplus-11-1.svg"
+      },
+      {
+        "id": 20703,
+        "sku": "NOVA-0207-020703",
+        "color": "Eternal Green",
+        "color_hex": "#729183",
+        "storage": "128GB",
+        "price": 14040000,
+        "original_price": 14540000,
+        "stock": 7,
+        "image": "assets/images/catalog/oneplus-11-2.svg"
+      },
+      {
+        "id": 20704,
+        "sku": "NOVA-0207-020704",
+        "color": "Eternal Green",
+        "color_hex": "#729183",
+        "storage": "256GB",
+        "price": 15040000,
+        "original_price": 15540000,
+        "stock": 14,
+        "image": "assets/images/catalog/oneplus-11-2.svg"
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "slug": "oneplus-10-pro",
+    "name": "OnePlus 10 Pro",
+    "brand": {
+      "id": 9,
+      "name": "OnePlus",
+      "slug": "oneplus"
+    },
+    "segment": "flagship",
+    "summary": "OnePlus 10 Pro · Cao cấp · Giá và tồn kho demo.",
+    "description": "OnePlus 10 Pro thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+    "images": [
+      "assets/images/catalog/oneplus-10-pro-1.svg",
+      "assets/images/catalog/oneplus-10-pro-2.svg"
+    ],
+    "specs": {
+      "Màn hình": "",
+      "Chip": "",
+      "RAM": "",
+      "Bộ nhớ": "128GB / 256GB",
+      "Pin": "",
+      "Camera": ""
+    },
+    "featured": true,
+    "is_new": false,
+    "created_at": "2026-11-01T03:28:00+07:00",
+    "is_demo": true,
+    "status": "published",
+    "data_quality": "reference_options",
+    "source_url": "https://www.oneplus.com/global/10-pro/specs",
+    "verification": {
+      "model": "curated_real_model",
+      "options": "reference_requires_regional_review",
+      "specs": "unverified_fields_empty",
+      "price_stock": "demo_only"
+    },
+    "variants": [
+      {
+        "id": 20801,
+        "sku": "NOVA-0208-020801",
+        "color": "Volcanic Black",
+        "color_hex": "#30353c",
+        "storage": "128GB",
+        "price": 10990000,
+        "original_price": 10990000,
+        "stock": 24,
+        "image": "assets/images/catalog/oneplus-10-pro-1.svg"
+      },
+      {
+        "id": 20802,
+        "sku": "NOVA-0208-020802",
+        "color": "Volcanic Black",
+        "color_hex": "#30353c",
+        "storage": "256GB",
+        "price": 11990000,
+        "original_price": 11990000,
+        "stock": 7,
+        "image": "assets/images/catalog/oneplus-10-pro-1.svg"
+      },
+      {
+        "id": 20803,
+        "sku": "NOVA-0208-020803",
+        "color": "Emerald Forest",
+        "color_hex": "#9aaab1",
+        "storage": "128GB",
+        "price": 11040000,
+        "original_price": 11040000,
+        "stock": 14,
+        "image": "assets/images/catalog/oneplus-10-pro-2.svg"
+      },
+      {
+        "id": 20804,
+        "sku": "NOVA-0208-020804",
+        "color": "Emerald Forest",
+        "color_hex": "#9aaab1",
+        "storage": "256GB",
+        "price": 12040000,
+        "original_price": 12040000,
+        "stock": 21,
+        "image": "assets/images/catalog/oneplus-10-pro-2.svg"
+      }
+    ]
+  }
+]

@@ -1,0 +1,75 @@
+{
+  "id": 1,
+  "slug": "iphone-16-pro-max",
+  "name": "iPhone 16 Pro Max",
+  "brand": {
+    "id": 1,
+    "name": "Apple",
+    "slug": "apple"
+  },
+  "summary": "Trải nghiệm mượt mà, thiết kế tinh tế và hệ sinh thái quen thuộc.",
+  "description": "iPhone 16 Pro Max là lựa chọn dành cho những trải nghiệm công nghệ hằng ngày: lưu giữ khoảnh khắc, làm việc và giải trí. Thông tin, giá và cấu hình trong bản trình diễn là dữ liệu phát triển, cần được thay thế bằng dữ liệu đã xác minh từ backend trước khi bán hàng.",
+  "images": [
+    "assets/images/apple-titanium.svg",
+    "assets/images/phone-front.svg"
+  ],
+  "specs": {
+    "Màn hình": "OLED, cảm ứng đa điểm",
+    "Bộ nhớ": "256GB / 512GB",
+    "Kết nối": "Wi-Fi, Bluetooth, USB-C",
+    "Camera": "Hệ thống camera đa ống kính",
+    "Tình trạng": "Dữ liệu sản phẩm mẫu",
+    "Bảo hành": "Chính sách mẫu: 12 tháng"
+  },
+  "featured": true,
+  "is_new": true,
+  "created_at": "2026-10-28T08:00:00+07:00",
+  "variants": [
+    {
+      "id": 101,
+      "color": "Titan sa mạc",
+      "color_hex": "#c6b5a4",
+      "storage": "256GB",
+      "price": 29990000,
+      "original_price": 31490000,
+      "stock": 9,
+      "image": "assets/images/apple-titanium.svg",
+      "sku": "NOVA-0001-000101"
+    },
+    {
+      "id": 102,
+      "color": "Titan sa mạc",
+      "color_hex": "#c6b5a4",
+      "storage": "512GB",
+      "price": 31990000,
+      "original_price": 33490000,
+      "stock": 4,
+      "image": "assets/images/apple-titanium.svg",
+      "sku": "NOVA-0001-000102"
+    },
+    {
+      "id": 103,
+      "color": "Đen",
+      "color_hex": "#34363a",
+      "storage": "256GB",
+      "price": 29990000,
+      "original_price": 31490000,
+      "stock": 3,
+      "image": "assets/images/apple-titanium.svg",
+      "sku": "NOVA-0001-000103"
+    },
+    {
+      "id": 104,
+      "color": "Đen",
+      "color_hex": "#34363a",
+      "storage": "512GB",
+      "price": 31990000,
+      "original_price": 33490000,
+      "stock": 2,
+      "image": "assets/images/apple-titanium.svg",
+      "sku": "NOVA-0001-000104"
+    }
+  ],
+  "is_demo": true,
+  "data_quality": "legacy_unverified"
+}

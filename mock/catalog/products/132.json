@@ -1,0 +1,62 @@
+{
+  "id": 132,
+  "slug": "oppo-reno7-5g",
+  "name": "OPPO Reno7 5G",
+  "brand": {
+    "id": 4,
+    "name": "OPPO",
+    "slug": "oppo"
+  },
+  "segment": "midrange",
+  "summary": "OPPO Reno7 5G · Tầm trung · Giá và tồn kho demo.",
+  "description": "OPPO Reno7 5G thuộc danh mục tham khảo NOVA Mobile. Ảnh là minh họa vector riêng theo dòng máy, không phải ảnh chụp chính hãng. Giá, khuyến mãi và tồn kho chỉ phục vụ kiểm thử. Cấu hình khu vực và tình trạng kinh doanh cần được xác minh trước khi mở bán.",
+  "images": [
+    "assets/images/catalog/oppo-reno7-5g-1.svg",
+    "assets/images/catalog/oppo-reno7-5g-2.svg"
+  ],
+  "specs": {
+    "Màn hình": "",
+    "Chip": "",
+    "RAM": "",
+    "Bộ nhớ": "256GB",
+    "Pin": "",
+    "Camera": ""
+  },
+  "featured": true,
+  "is_new": false,
+  "created_at": "2026-11-01T02:12:00+07:00",
+  "is_demo": true,
+  "status": "published",
+  "data_quality": "reference_options",
+  "source_url": "https://www.oppo.com/en/smartphones/series-reno/reno7/specs/",
+  "verification": {
+    "model": "curated_real_model",
+    "options": "reference_requires_regional_review",
+    "specs": "unverified_fields_empty",
+    "price_stock": "demo_only"
+  },
+  "variants": [
+    {
+      "id": 13201,
+      "sku": "NOVA-0132-013201",
+      "color": "Startrails Blue",
+      "color_hex": "#7e9fb9",
+      "storage": "256GB",
+      "price": 5990000,
+      "original_price": 5990000,
+      "stock": 20,
+      "image": "assets/images/catalog/oppo-reno7-5g-1.svg"
+    },
+    {
+      "id": 13202,
+      "sku": "NOVA-0132-013202",
+      "color": "Starry Black",
+      "color_hex": "#30353c",
+      "storage": "256GB",
+      "price": 6040000,
+      "original_price": 6040000,
+      "stock": 3,
+      "image": "assets/images/catalog/oppo-reno7-5g-2.svg"
+    }
+  ]
+}
